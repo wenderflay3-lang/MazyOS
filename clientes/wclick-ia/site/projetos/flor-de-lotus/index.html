@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flor de Lótus — Floricultura Online</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">Flor de Lótus</a>
+    <ul class="nav-links">
+      <li><a href="index.html#catalogo">Catálogo</a></li>
+      <li><a href="index.html#assinatura">Assinatura</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="carrinho.html" class="cart" id="cart-count">🛒 Carrinho (0)</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <h1>Flores que chegam frescas, no dia certo</h1>
+      <p>Buquês montados à mão no mesmo dia da entrega, com rastreio do pedido e cartão de mensagem personalizado.</p>
+      <div class="hero-ctas">
+        <a href="#catalogo" class="btn">Ver catálogo</a>
+        <a href="#assinatura" class="btn-outline">Assinatura mensal</a>
+      </div>
+    </div>
+    <img src="https://images.unsplash.com/photo-1487070183336-b863922373d4?q=80&w=900" alt="Buquê Flor de Lótus">
+  </div>
+</section>
+
+<div class="stats">
+  <div class="container stat-grid">
+    <div class="stat">
+      <div class="value">4.9/5</div>
+      <div class="label">avaliação média</div>
+    </div>
+    <div class="stat">
+      <div class="value">+1.200</div>
+      <div class="label">pedidos entregues</div>
+    </div>
+    <div class="stat">
+      <div class="value">24h</div>
+      <div class="label">tempo médio de entrega</div>
+    </div>
+    <div class="stat">
+      <div class="value">+30</div>
+      <div class="label">modelos de buquê</div>
+    </div>
+  </div>
+</div>
+
+<section id="catalogo">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Catálogo</span>
+      <h2>Buquês para cada ocasião</h2>
+      <p>Cada arranjo é fotografado no dia da montagem — o que você vê é o que chega até você.</p>
+    </div>
+    <div class="product-grid">
+      <div class="product-card">
+        <a href="produto.html?id=rosas-amanhecer" class="product-link">
+          <img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=600" alt="Buquê Rosas do Amanhecer">
+        </a>
+        <div class="product-body">
+          <a href="produto.html?id=rosas-amanhecer" class="product-link"><h3>Rosas do Amanhecer</h3></a>
+          <p style="font-size:13px; color:var(--text-muted);">Rosas nacionais com folhagem natural</p>
+          <div class="price">R$ 129,90</div>
+          <button type="button" class="btn add-to-cart" data-name="Rosas do Amanhecer" data-price="129.90">Adicionar ao carrinho</button>
+        </div>
+      </div>
+      <div class="product-card">
+        <a href="produto.html?id=girassol-feliz" class="product-link">
+          <img src="https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?q=80&w=600" alt="Buquê Girassol Feliz">
+        </a>
+        <div class="product-body">
+          <a href="produto.html?id=girassol-feliz" class="product-link"><h3>Girassol Feliz</h3></a>
+          <p style="font-size:13px; color:var(--text-muted);">Girassóis com toque cítrico de folhas</p>
+          <div class="price">R$ 99,90</div>
+          <button type="button" class="btn add-to-cart" data-name="Girassol Feliz" data-price="99.90">Adicionar ao carrinho</button>
+        </div>
+      </div>
+      <div class="product-card">
+        <a href="produto.html?id=jardim-silvestre" class="product-link">
+          <img src="https://images.unsplash.com/photo-1463320726281-696a485928c7?q=80&w=600" alt="Buquê Jardim Silvestre">
+        </a>
+        <div class="product-body">
+          <a href="produto.html?id=jardim-silvestre" class="product-link"><h3>Jardim Silvestre</h3></a>
+          <p style="font-size:13px; color:var(--text-muted);">Mix de flores do campo, estilo rústico</p>
+          <div class="price">R$ 149,90</div>
+          <button type="button" class="btn add-to-cart" data-name="Jardim Silvestre" data-price="149.90">Adicionar ao carrinho</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="assinatura" style="background:var(--bg-alt);">
+  <div class="container" style="max-width:640px; text-align:center;">
+    <span class="eyebrow" style="color:var(--accent); font-size:12px; letter-spacing:0.12em; text-transform:uppercase;">Assinatura Flor de Lótus</span>
+    <h2 style="font-size:30px; margin:14px 0 16px;">Flores novas todo mês, sem se preocupar</h2>
+    <p style="color:var(--text-muted); margin-bottom:28px;">Receba um buquê recorrente com desconto fixo, trocas sem custo e prioridade na entrega.</p>
+    <button type="button" class="btn" id="subscribe-btn">Assinar agora</button>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Perguntas frequentes</span>
+      <h2>Tire suas dúvidas</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <h3>Qual o prazo de entrega?</h3>
+        <p>Entregamos no mesmo dia para pedidos feitos até as 14h, dentro da nossa área de cobertura.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Posso escolher o horário de entrega?</h3>
+        <p>Sim, você escolhe uma janela de horário no momento da compra.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Como funciona a assinatura mensal?</h3>
+        <p>Você recebe um buquê novo todo mês na mesma data, com desconto fixo e possibilidade de trocar o modelo sem custo.</p>
+      </div>
+      <div class="faq-item">
+        <h3>É possível incluir um cartão com mensagem?</h3>
+        <p>Sim, todo pedido pode incluir um cartão personalizado sem custo adicional.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-head">
+      <span class="eyebrow">Depoimentos</span>
+      <h2>Quem já recebeu um buquê</h2>
+    </div>
+    <div class="testimonial-grid">
+      <div class="testimonial-card">
+        <div class="stars">★★★★★</div>
+        <p>"Chegou exatamente como na foto, e no horário combinado. Virei cliente assinante depois da primeira compra."</p>
+        <div class="who">Larissa Menezes</div>
+      </div>
+      <div class="testimonial-card">
+        <div class="stars">★★★★★</div>
+        <p>"Comprei de última hora pro aniversário da minha mãe e não teve erro. Entrega rápida e flores lindas."</p>
+        <div class="who">Eduardo Ramos</div>
+      </div>
+      <div class="testimonial-card">
+        <div class="stars">★★★★★</div>
+        <p>"O cartão personalizado foi um toque especial que fez toda diferença no presente."</p>
+        <div class="who">Sabrina Lopes</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📍 Entregas em toda a região</div>
+      <div>📞 (69) 99234-5678</div>
+      <div><a href="contato.html">Fale conosco</a></div>
+    </div>
+    © 2026 Flor de Lótus — Loja fictícia criada pela WClick IA para fins de demonstração
+  </div>
+</footer>
+
+<script src="cart.js"></script>
+<script src="nav.js"></script>
+<script>
+  document.getElementById('subscribe-btn').addEventListener('click', function () {
+    this.textContent = 'Assinatura confirmada ✓';
+    this.classList.add('added');
+  });
+</script>
+
+</body>
+</html>

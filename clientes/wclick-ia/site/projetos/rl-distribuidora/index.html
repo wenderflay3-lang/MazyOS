@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RL Distribuidora — Atendimento Automatizado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">RL<span>.</span>Distribuidora</a>
+    <ul class="nav-links">
+      <li><a href="index.html#como-funciona">Como funciona</a></li>
+      <li><a href="index.html#faq">Perguntas</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="contato.html" class="btn">Falar no WhatsApp</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <h1>Atendimento rápido, todo dia, o dia inteiro</h1>
+      <p>Fale com nosso assistente virtual e resolva na hora: catálogo, formas de pagamento, prazos de entrega e muito mais.</p>
+      <div class="hero-ctas">
+        <a href="#assistente" class="btn">Testar assistente</a>
+        <a href="#como-funciona" class="btn-outline">Como funciona</a>
+      </div>
+    </div>
+    <img src="https://images.unsplash.com/photo-1587440871875-191322ee64b0?q=80&w=900" alt="Operação RL Distribuidora">
+  </div>
+</section>
+
+<section id="assistente">
+  <div class="container">
+    <div class="section-head" style="margin: 0 auto 40px; text-align:center;">
+      <span style="color:var(--accent); font-size:13px; letter-spacing:0.08em;">EXPERIMENTE</span>
+      <h2>Veja o assistente em ação</h2>
+      <p>Clique numa opção abaixo pra simular uma conversa real.</p>
+    </div>
+    <div class="chat-window">
+      <div class="chat-header">🟢 Assistente RL Distribuidora</div>
+      <div class="chat-body" id="chat-body">
+        <div class="chat-msg bot">Olá! Sou o assistente da RL Distribuidora. Como posso ajudar hoje?</div>
+      </div>
+      <div class="chat-options" id="chat-options">
+        <button type="button" class="chat-option" data-topic="catalogo">Ver catálogo</button>
+        <button type="button" class="chat-option" data-topic="pagamento">Formas de pagamento</button>
+        <button type="button" class="chat-option" data-topic="entrega">Prazo de entrega</button>
+        <button type="button" class="chat-option" data-topic="humano">Falar com atendente</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="como-funciona">
+  <div class="container">
+    <div class="section-head">
+      <span style="color:var(--accent); font-size:13px; letter-spacing:0.08em;">COMO FUNCIONA</span>
+      <h2>Do primeiro contato ao pedido fechado</h2>
+      <p>Um assistente que entende o que o cliente precisa e resolve sem fila de espera.</p>
+    </div>
+    <div class="grid3">
+      <div class="card">
+        <div class="num">01</div>
+        <h3>Catálogo completo</h3>
+        <p>Consulte produtos e preços direto pelo WhatsApp, sem esperar resposta de vendedor.</p>
+      </div>
+      <div class="card">
+        <div class="num">02</div>
+        <h3>Pedido facilitado</h3>
+        <p>Monte seu pedido conversando com o assistente e receba a confirmação na hora.</p>
+      </div>
+      <div class="card">
+        <div class="num">03</div>
+        <h3>Suporte humano quando precisa</h3>
+        <p>Assuntos mais complexos são direcionados direto pra nossa equipe.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-head">
+      <span style="color:var(--accent); font-size:13px; letter-spacing:0.08em;">RESULTADOS</span>
+      <h2>Desde que automatizamos o atendimento</h2>
+    </div>
+    <div class="stat-grid">
+      <div class="stat">
+        <div class="value">+60%</div>
+        <div class="label">das dúvidas resolvidas sem atendente</div>
+      </div>
+      <div class="stat">
+        <div class="value">24h</div>
+        <div class="label">de disponibilidade, todos os dias</div>
+      </div>
+      <div class="stat">
+        <div class="value">-40%</div>
+        <div class="label">no tempo médio de resposta</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="container">
+    <div class="section-head">
+      <span style="color:var(--accent); font-size:13px; letter-spacing:0.08em;">PERGUNTAS FREQUENTES</span>
+      <h2>Tire suas dúvidas</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <h3>O assistente substitui totalmente o atendimento humano?</h3>
+        <p>Não. Ele resolve as dúvidas mais comuns e direciona pra equipe humana os casos que precisam de atenção especial.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Funciona fora do horário comercial?</h3>
+        <p>Sim, o assistente responde 24 horas por dia, todos os dias da semana.</p>
+      </div>
+      <div class="faq-item">
+        <h3>É possível fechar um pedido direto pelo WhatsApp?</h3>
+        <p>Sim, o assistente ajuda a montar o pedido completo e confirma os detalhes antes de finalizar.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Quanto tempo leva pra implementar?</h3>
+        <p>Depende da complexidade do catálogo, mas a maioria das implementações fica pronta em poucos dias.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-head">
+      <span style="color:var(--accent); font-size:13px; letter-spacing:0.08em;">DEPOIMENTOS</span>
+      <h2>Quem já sentiu a diferença</h2>
+    </div>
+    <div class="testimonial-grid">
+      <div class="testimonial-card">
+        <div class="stars">★★★★★</div>
+        <p>"Nossa equipe parou de perder tempo respondendo as mesmas perguntas. Hoje o assistente resolve isso sozinho."</p>
+        <div class="who">Equipe de Atendimento — RL Distribuidora</div>
+      </div>
+      <div class="testimonial-card">
+        <div class="stars">★★★★★</div>
+        <p>"Como cliente, adorei poder consultar o catálogo a qualquer hora sem esperar alguém responder."</p>
+        <div class="who">Cliente RL Distribuidora</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📞 (69) 3222-8890</div>
+      <div>✉️ contato@rldistribuidora.com.br</div>
+      <div><a href="contato.html">Fale conosco</a></div>
+    </div>
+    © 2026 RL Distribuidora — Projeto de demonstração produzido por WClick IA
+  </div>
+</footer>
+
+<script src="nav.js"></script>
+<script>
+  const RESPONSES = {
+    catalogo: 'Temos mais de 200 itens em estoque, organizados por categoria. Posso te enviar o catálogo completo em PDF ou por aqui mesmo, item por item.',
+    pagamento: 'Aceitamos Pix, boleto e cartão em até 3x sem juros. Pra pedidos recorrentes, também trabalhamos com prazo de 30 dias.',
+    entrega: 'O prazo médio é de 24h para a região metropolitana e de 2 a 4 dias úteis para outras cidades.',
+    humano: 'Sem problemas! Já vou te direcionar pra um atendente da nossa equipe.'
+  };
+
+  const chatBody = document.getElementById('chat-body');
+
+  function addMessage(text, sender) {
+    const msg = document.createElement('div');
+    msg.className = 'chat-msg ' + sender;
+    msg.textContent = text;
+    chatBody.appendChild(msg);
+    chatBody.scrollTop = chatBody.scrollHeight;
+  }
+
+  document.querySelectorAll('.chat-option').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      addMessage(btn.textContent, 'user');
+      setTimeout(function () {
+        addMessage(RESPONSES[btn.getAttribute('data-topic')], 'bot');
+        if (btn.getAttribute('data-topic') === 'humano') {
+          setTimeout(function () {
+            window.open('https://wa.me/5569322248890', '_blank');
+          }, 800);
+        }
+      }, 500);
+    });
+  });
+</script>
+
+</body>
+</html>

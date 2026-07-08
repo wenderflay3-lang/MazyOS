@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Produto — Flor de Lótus</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">Flor de Lótus</a>
+    <ul class="nav-links">
+      <li><a href="index.html#catalogo">Catálogo</a></li>
+      <li><a href="index.html#assinatura">Assinatura</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="carrinho.html" class="cart" id="cart-count">🛒 Carrinho (0)</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section>
+  <div class="container">
+    <div class="breadcrumb"><a href="index.html">Catálogo</a> / <span id="breadcrumb-name">Produto</span></div>
+    <div class="product-detail" id="product-detail">
+      <p>Carregando produto...</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📍 Entregas em toda a região</div>
+      <div>📞 (69) 99234-5678</div>
+      <div><a href="contato.html">Fale conosco</a></div>
+    </div>
+    © 2026 Flor de Lótus — Loja fictícia criada pela WClick IA para fins de demonstração
+  </div>
+</footer>
+
+<script src="cart.js"></script>
+<script src="nav.js"></script>
+<script>
+  const PRODUCTS = {
+    'rosas-amanhecer': {
+      name: 'Rosas do Amanhecer',
+      price: 129.90,
+      img: 'https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=900',
+      desc: 'Buquê com rosas nacionais selecionadas e folhagem natural, montado à mão no dia da entrega.',
+      details: ['12 rosas nacionais', 'Folhagem natural de acompanhamento', 'Embalagem em papel kraft', 'Cartão de mensagem incluso']
+    },
+    'girassol-feliz': {
+      name: 'Girassol Feliz',
+      price: 99.90,
+      img: 'https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?q=80&w=900',
+      desc: 'Girassóis vibrantes com toque cítrico de folhagem, ideal pra alegrar o dia de alguém especial.',
+      details: ['6 girassóis', 'Folhagem cítrica de acompanhamento', 'Embalagem rústica', 'Cartão de mensagem incluso']
+    },
+    'jardim-silvestre': {
+      name: 'Jardim Silvestre',
+      price: 149.90,
+      img: 'https://images.unsplash.com/photo-1463320726281-696a485928c7?q=80&w=900',
+      desc: 'Mix de flores do campo em estilo rústico, para quem busca um arranjo mais natural e despojado.',
+      details: ['Mix de flores sazonais', 'Estilo campestre', 'Embalagem em juta', 'Cartão de mensagem incluso']
+    }
+  };
+
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  const product = PRODUCTS[id];
+  const detailEl = document.getElementById('product-detail');
+  const breadcrumbEl = document.getElementById('breadcrumb-name');
+
+  if (product) {
+    document.title = product.name + ' — Flor de Lótus';
+    breadcrumbEl.textContent = product.name;
+    detailEl.innerHTML =
+      '<img src="' + product.img + '" alt="' + product.name + '">' +
+      '<div>' +
+        '<h1>' + product.name + '</h1>' +
+        '<div class="price">R$ ' + product.price.toFixed(2).replace('.', ',') + '</div>' +
+        '<p style="color:var(--text-muted);">' + product.desc + '</p>' +
+        '<ul>' + product.details.map(function (d) { return '<li>' + d + '</li>'; }).join('') + '</ul>' +
+        '<button type="button" class="btn add-to-cart" data-name="' + product.name + '" data-price="' + product.price + '">Adicionar ao carrinho</button>' +
+      '</div>';
+
+    document.querySelectorAll('.add-to-cart').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        addToCart(btn.getAttribute('data-name'), parseFloat(btn.getAttribute('data-price')));
+        const original = btn.textContent;
+        btn.textContent = 'Adicionado ✓';
+        btn.classList.add('added');
+        setTimeout(function () {
+          btn.textContent = original;
+          btn.classList.remove('added');
+        }, 1200);
+      });
+    });
+  } else {
+    detailEl.innerHTML = '<p>Produto não encontrado. <a href="index.html" style="color:var(--accent); text-decoration:underline;">Voltar ao catálogo</a>.</p>';
+  }
+</script>
+
+</body>
+</html>

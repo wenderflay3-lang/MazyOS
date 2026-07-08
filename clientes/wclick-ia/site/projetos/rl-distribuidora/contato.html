@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contato — RL Distribuidora</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">RL<span>.</span>Distribuidora</a>
+    <ul class="nav-links">
+      <li><a href="index.html#como-funciona">Como funciona</a></li>
+      <li><a href="index.html#faq">Perguntas</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="contato.html" class="btn">Falar no WhatsApp</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:70px 0;">
+  <div class="container">
+    <h1 style="font-size:36px;">Fale com a gente</h1>
+    <p>Prefere falar direto com uma pessoa? Manda sua mensagem por aqui.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container" style="max-width:560px;">
+    <form class="contact-form" id="form-contato">
+      <input type="text" name="nome" placeholder="Seu nome" required>
+      <input type="tel" name="telefone" placeholder="WhatsApp">
+      <textarea name="mensagem" placeholder="Como podemos ajudar?"></textarea>
+      <button type="submit" class="btn">Enviar mensagem</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📞 (69) 3222-8890</div>
+      <div>✉️ contato@rldistribuidora.com.br</div>
+      <div>🕒 Atendimento automático 24h</div>
+    </div>
+    © 2026 RL Distribuidora — Projeto de demonstração produzido por WClick IA
+  </div>
+</footer>
+
+<script src="nav.js"></script>
+<script>
+  document.getElementById('form-contato').addEventListener('submit', function (e) {
+    e.preventDefault();
+    const nome = this.nome.value.trim();
+    const telefone = this.telefone.value.trim();
+    const mensagem = this.mensagem.value.trim();
+
+    let texto = 'Olá! Vim pelo site da RL Distribuidora.\nNome: ' + nome + '\n';
+    if (telefone) texto += 'WhatsApp: ' + telefone + '\n';
+    if (mensagem) texto += 'Mensagem: ' + mensagem;
+
+    window.open('https://wa.me/5569322248890?text=' + encodeURIComponent(texto), '_blank');
+  });
+</script>
+
+</body>
+</html>

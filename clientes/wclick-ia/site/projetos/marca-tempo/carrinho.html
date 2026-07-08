@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carrinho — Marca Tempo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">Marca<span>Tempo</span></a>
+    <ul class="nav-links">
+      <li><a href="index.html#catalogo">Coleção</a></li>
+      <li><a href="index.html#faq">Garantia</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="carrinho.html" class="cart" id="cart-count">Carrinho (0)</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section style="border-top:none;">
+  <div class="container-narrow">
+    <div class="section-head" style="text-align:left; margin-bottom:32px;">
+      <h1 style="font-size:32px;">Seu carrinho</h1>
+    </div>
+    <div id="cart-list"></div>
+    <p id="cart-empty" class="cart-empty" style="display:none;">Seu carrinho está vazio. <a href="index.html" style="color:var(--accent); text-decoration:underline;">Ver coleção</a></p>
+    <div class="cart-total-row">
+      <span>Total</span>
+      <span id="cart-total">R$ 0,00</span>
+    </div>
+    <button type="button" class="btn" id="checkout-btn" style="width:100%;">Consultar disponibilidade pelo WhatsApp</button>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📍 Atendimento sob agendamento</div>
+      <div>📞 (69) 99345-6789</div>
+      <div><a href="contato.html">Fale conosco</a></div>
+    </div>
+    © 2026 Marca Tempo — Loja fictícia criada pela WClick IA para fins de demonstração
+  </div>
+</footer>
+
+<script src="cart.js"></script>
+<script src="nav.js"></script>
+
+</body>
+</html>

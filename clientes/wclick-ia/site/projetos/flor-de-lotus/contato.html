@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contato — Flor de Lótus</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">Flor de Lótus</a>
+    <ul class="nav-links">
+      <li><a href="index.html#catalogo">Catálogo</a></li>
+      <li><a href="index.html#assinatura">Assinatura</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="carrinho.html" class="cart" id="cart-count">🛒 Carrinho (0)</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section>
+  <div class="container-narrow">
+    <div class="section-head">
+      <span class="eyebrow">Contato</span>
+      <h2>Fale com a gente</h2>
+      <p>Dúvidas sobre encomendas, entregas ou assinatura? Manda uma mensagem.</p>
+    </div>
+    <form class="contact-form" id="form-contato">
+      <input type="text" name="nome" placeholder="Seu nome" required>
+      <input type="tel" name="telefone" placeholder="WhatsApp">
+      <textarea name="mensagem" placeholder="Como podemos ajudar?"></textarea>
+      <button type="submit" class="btn">Enviar mensagem</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-contact">
+      <div>📍 Entregas em toda a região</div>
+      <div>📞 (69) 99234-5678</div>
+      <div>✉️ contato@flordelotus.com.br</div>
+    </div>
+    © 2026 Flor de Lótus — Loja fictícia criada pela WClick IA para fins de demonstração
+  </div>
+</footer>
+
+<script src="cart.js"></script>
+<script src="nav.js"></script>
+<script>
+  document.getElementById('form-contato').addEventListener('submit', function (e) {
+    e.preventDefault();
+    const nome = this.nome.value.trim();
+    const telefone = this.telefone.value.trim();
+    const mensagem = this.mensagem.value.trim();
+
+    let texto = 'Olá! Vim pelo site da Flor de Lótus.\nNome: ' + nome + '\n';
+    if (telefone) texto += 'WhatsApp: ' + telefone + '\n';
+    if (mensagem) texto += 'Mensagem: ' + mensagem;
+
+    window.open('https://wa.me/5569981162686?text=' + encodeURIComponent(texto), '_blank');
+  });
+</script>
+
+</body>
+</html>

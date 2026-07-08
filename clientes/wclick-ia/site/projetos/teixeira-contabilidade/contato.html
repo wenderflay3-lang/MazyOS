@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contato — Teixeira Contabilidade</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="demo-banner">Projeto de demonstração criado pela <strong>WClick IA</strong> — <a href="../../index.html#portfolio">voltar ao portfólio</a></div>
+
+<header>
+  <nav class="container nav">
+    <a href="index.html" class="logo">Teixeira Contabilidade</a>
+    <ul class="nav-links">
+      <li><a href="index.html#servicos">Serviços</a></li>
+      <li><a href="index.html#sobre">Sobre</a></li>
+      <li><a href="index.html#depoimentos">Depoimentos</a></li>
+      <li><a href="contato.html">Contato</a></li>
+    </ul>
+    <a href="contato.html" class="btn">Fale conosco</a>
+    <button class="nav-toggle" aria-label="menu">☰</button>
+  </nav>
+</header>
+
+<section class="hero" style="padding:70px 0;">
+  <div class="container">
+    <span class="eyebrow">Contato</span>
+    <h1 style="font-size:36px;">Vamos conversar sobre sua empresa?</h1>
+    <p>Marque uma avaliação gratuita da sua situação contábil atual.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container" style="max-width:560px;">
+    <form class="contact-form" id="form-contato">
+      <input type="text" name="nome" placeholder="Seu nome" required>
+      <input type="text" name="empresa" placeholder="Empresa">
+      <input type="tel" name="telefone" placeholder="WhatsApp">
+      <textarea name="mensagem" placeholder="Conte rapidamente sua situação atual"></textarea>
+      <button type="submit" class="btn">Agendar avaliação gratuita</button>
+    </form>
+    <div class="contact-items" style="margin-top:40px;">
+      <div><span class="label">Telefone</span>(69) 3222-4410</div>
+      <div><span class="label">E-mail</span>contato@teixeiracontabilidade.com.br</div>
+      <div><span class="label">Horário</span>Segunda a sexta, 8h às 18h</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-bottom">© 2026 Teixeira Contabilidade — Site de demonstração produzido por WClick IA</div>
+  </div>
+</footer>
+
+<script src="nav.js"></script>
+<script>
+  document.getElementById('form-contato').addEventListener('submit', function (e) {
+    e.preventDefault();
+    const nome = this.nome.value.trim();
+    const empresa = this.empresa.value.trim();
+    const telefone = this.telefone.value.trim();
+    const mensagem = this.mensagem.value.trim();
+
+    let texto = 'Olá! Vim pelo site da Teixeira Contabilidade.\nNome: ' + nome + '\n';
+    if (empresa) texto += 'Empresa: ' + empresa + '\n';
+    if (telefone) texto += 'WhatsApp: ' + telefone + '\n';
+    if (mensagem) texto += 'Mensagem: ' + mensagem;
+
+    window.open('https://wa.me/556932224410?text=' + encodeURIComponent(texto), '_blank');
+  });
+</script>
+
+</body>
+</html>
