@@ -7,7 +7,7 @@
 **Negócio:**
 **O que faz:**
 **Perfil:**
-**Atende clientes:**
+**Atende clientes:** WClick IA (agência de automação e IA — site institucional em produção em `clientes/wclick-ia/`)
 **Equipe:**
 **Ferramentas:**
 **Principais entregas:**
