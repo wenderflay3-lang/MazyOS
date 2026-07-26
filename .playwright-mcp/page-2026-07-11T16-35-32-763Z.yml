@@ -1,0 +1,1364 @@
+- generic [ref=f17e3]:
+  - navigation [ref=f17e5]:
+    - generic [ref=f17e6]:
+      - link "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza 19/07/2026" [ref=f17e7] [cursor=pointer]:
+        - /url: /inicio
+        - img "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza" [ref=f17e8]
+        - generic [ref=f17e9]: 19/07/2026
+      - list [ref=f17e11]:
+        - listitem [ref=f17e12] [cursor=pointer]:
+          - button " Bet365" [ref=f17e13]:
+            - generic [ref=f17e14]:
+              - generic [ref=f17e15]: 
+              - text: Bet365
+              - generic [ref=f17e16]: 
+          - text:    
+        - listitem [ref=f17e17] [cursor=pointer]:
+          - button " Betano" [ref=f17e18]:
+            - generic [ref=f17e19]:
+              - generic [ref=f17e20]: 
+              - text: Betano
+              - generic [ref=f17e21]: 
+          - text: 
+        - listitem [ref=f17e22] [cursor=pointer]:
+          - link " Kiron" [ref=f17e23]:
+            - /url: /playpix/futebol/horarios
+            - generic [ref=f17e24]: 
+            - text: Kiron
+        - listitem [ref=f17e25] [cursor=pointer]:
+          - link " SportingBet" [ref=f17e26]:
+            - /url: /sportingbet/futebol/horarios
+            - generic [ref=f17e27]: 
+            - text: SportingBet
+        - listitem [ref=f17e28] [cursor=pointer]:
+          - button " Aviator" [ref=f17e29]:
+            - generic [ref=f17e30]:
+              - generic [ref=f17e31]: 
+              - text: Aviator
+              - generic [ref=f17e32]: 
+        - listitem [ref=f17e33] [cursor=pointer]:
+          - button " Blaze" [ref=f17e34]:
+            - generic [ref=f17e35]:
+              - generic [ref=f17e36]: 
+              - text: Blaze
+              - generic [ref=f17e37]: 
+        - listitem [ref=f17e38] [cursor=pointer]:
+          - link " Roletas" [ref=f17e39]:
+            - /url: /roletas
+            - generic [ref=f17e40]: 
+            - text: Roletas
+        - listitem [ref=f17e42] [cursor=pointer]:
+          - button " Wender Frias Barbosa Aragao" [ref=f17e43]:
+            - generic [ref=f17e44]:
+              - generic [ref=f17e45]: 
+              - text: Wender Frias Barbosa Aragao
+          - text:      
+  - generic [ref=f17e47]:
+    - navigation [ref=f17e48] [cursor=pointer]:
+      - listitem [ref=f17e49]: Express
+      - listitem [ref=f17e50]: Copa
+      - listitem [ref=f17e51]: Euro
+      - listitem [ref=f17e52]: Super
+      - listitem [ref=f17e53]: Premier
+      - listitem [ref=f17e54]: Split
+    - main [ref=f17e55]:
+      - generic [ref=f17e56]:
+        - generic [ref=f17e58]:
+          - generic [ref=f17e60]:
+            - generic [ref=f17e62]:
+              - switch "Multi-Filtros" [ref=f17e63]
+              - generic [ref=f17e64]: Multi-Filtros
+            - heading "Filtros" [level=5] [ref=f17e66]:
+              - text: Filtros
+              - generic [ref=f17e67]: 
+          - generic [ref=f17e68]:
+            - generic [ref=f17e69]:
+              - generic [ref=f17e71]:
+                - generic [ref=f17e72]: Gols PAR / IMPAR
+                - button "Selecione" [ref=f17e75] [cursor=pointer]
+              - generic [ref=f17e77]:
+                - generic [ref=f17e78]: Over Gols
+                - button "Over 2.5" [ref=f17e81] [cursor=pointer]
+              - generic [ref=f17e83]:
+                - generic [ref=f17e84]: Under Gols
+                - button "Selecione" [ref=f17e87] [cursor=pointer]
+              - generic [ref=f17e89]:
+                - generic [ref=f17e90]: Ambas Marcam
+                - button "Selecione" [ref=f17e93] [cursor=pointer]
+              - generic [ref=f17e95]:
+                - generic [ref=f17e96]: Gols
+                - button "Selecione" [ref=f17e99] [cursor=pointer]
+              - generic [ref=f17e101]:
+                - generic [ref=f17e102]: Casa Marca
+                - button "Selecione" [ref=f17e105] [cursor=pointer]
+            - generic [ref=f17e106]:
+              - generic [ref=f17e108]:
+                - generic [ref=f17e109]: Visitante Marca
+                - button "Selecione" [ref=f17e112] [cursor=pointer]
+              - generic [ref=f17e114]:
+                - generic [ref=f17e115]: Resultado FT
+                - button "Selecione" [ref=f17e118] [cursor=pointer]
+              - generic [ref=f17e120]:
+                - generic [ref=f17e121]: Resultado HT
+                - button "Selecione" [ref=f17e124] [cursor=pointer]
+              - generic [ref=f17e126]:
+                - generic [ref=f17e127]: Viradinha
+                - button "Selecione" [ref=f17e130] [cursor=pointer]
+              - generic [ref=f17e132]:
+                - generic [ref=f17e133]: Cor Green
+                - textbox [ref=f17e136]
+              - generic [ref=f17e138]:
+                - generic [ref=f17e139]: Cor Red
+                - textbox [ref=f17e142]
+            - generic [ref=f17e143]:
+              - generic [ref=f17e145]:
+                - generic [ref=f17e146]: Horas
+                - button "12 Horas" [ref=f17e149] [cursor=pointer]
+              - generic [ref=f17e151]:
+                - generic [ref=f17e152]: Resultado Correto
+                - button "Selecione" [ref=f17e155] [cursor=pointer]
+              - generic [ref=f17e156]:
+                - generic [ref=f17e159]:
+                  - switch "Prox.Odds" [ref=f17e160]
+                  - generic [ref=f17e161]: Prox.Odds
+                - generic [ref=f17e164]:
+                  - switch "Análise Avançada" [ref=f17e165]
+                  - generic [ref=f17e166]: Análise Avançada
+              - generic [ref=f17e167]:
+                - generic [ref=f17e170]:
+                  - switch "Vídeo" [ref=f17e171]
+                  - generic [ref=f17e172]: Vídeo
+                - generic [ref=f17e175]:
+                  - switch "% Linha" [ref=f17e176]
+                  - generic [ref=f17e177]: "% Linha"
+              - generic [ref=f17e178]:
+                - generic [ref=f17e181]:
+                  - switch "Ver Times" [ref=f17e182]
+                  - generic [ref=f17e183]: Ver Times
+                - generic [ref=f17e186]:
+                  - switch "Horas Pagantes" [ref=f17e187]
+                  - generic [ref=f17e188]: Horas Pagantes
+              - generic [ref=f17e191]:
+                - generic [ref=f17e192]:
+                  - generic [ref=f17e193]: "Filtro ODD:"
+                  - generic [ref=f17e196]:
+                    - generic [ref=f17e197]:
+                      - generic [ref=f17e198]:
+                        - generic [ref=f17e199] [cursor=pointer]: ×
+                        - generic [ref=f17e200]: Over 2.5
+                      - combobox [ref=f17e202]
+                    - button "Clear all" [ref=f17e203] [cursor=pointer]:
+                      - generic: ×
+                - button "Filtrar" [ref=f17e206] [cursor=pointer]
+            - generic [ref=f17e209]:
+              - generic [ref=f17e210]:
+                - button "Exibir HT" [ref=f17e211] [cursor=pointer]
+                - button "Exibir HT+FT" [ref=f17e212] [cursor=pointer]
+                - button "Filtro + Odd" [ref=f17e213] [cursor=pointer]
+              - generic [ref=f17e214]:
+                - button "Limpar Marcações" [ref=f17e215] [cursor=pointer]
+                - generic [ref=f17e216] [cursor=pointer]:
+                  - generic [ref=f17e217]: 
+                  - generic [ref=f17e218]: 
+                  - generic [ref=f17e219]: 
+                  - generic [ref=f17e220]: 
+              - generic [ref=f17e221]:
+                - button "Tendência" [active] [ref=f17e222] [cursor=pointer]
+                - button "Máximas" [ref=f17e223] [cursor=pointer]
+                - button "Ranking" [ref=f17e224] [cursor=pointer]
+                - button "Confrontos" [ref=f17e225] [cursor=pointer]
+                - button "Horários Fixos" [ref=f17e226] [cursor=pointer]
+                - button "Configurações" [ref=f17e227] [cursor=pointer]:
+                  - generic [ref=f17e228]: 
+        - generic [ref=f17e231]:
+          - generic [ref=f17e233]:
+            - heading "Tendências" [level=5] [ref=f17e234]
+            - generic [ref=f17e237]:
+              - generic [ref=f17e238]:
+                - group "buttons group" [ref=f17e239]:
+                  - button "Mercados" [ref=f17e240] [cursor=pointer]
+                  - button "Times" [ref=f17e241] [cursor=pointer]
+                - button "🔥Modo Trader" [ref=f17e242] [cursor=pointer]
+              - generic [ref=f17e244]:
+                - generic [ref=f17e245]:
+                  - button "Padrao" [ref=f17e247] [cursor=pointer]
+                  - button "+ Novo" [ref=f17e248] [cursor=pointer]
+                - generic [ref=f17e249]:
+                  - generic [ref=f17e250]: "Qtd. Jogos:"
+                  - combobox "Qtd. Jogos:" [ref=f17e251]:
+                    - option "20"
+                    - option "40"
+                    - option "60"
+                    - option "80"
+                    - option "100"
+                    - option "120" [selected]
+                    - option "240"
+                    - option "480"
+                    - option "960"
+                    - option "1920"
+                  - generic [ref=f17e252]: "Referencia:"
+                  - combobox "Referencia:" [ref=f17e253]:
+                    - option "Selecione"
+                    - option "Over 1.5"
+                    - option "Over 2.5" [selected]
+                    - option "Over 3.5"
+                    - option "Under 1.5"
+                    - option "Under 2.5"
+                    - option "Under 3.5"
+                    - option "Ambas Sim"
+                    - option "Ambas Não"
+                    - option "Total Gols"
+                    - option "Total Gols Casa"
+                    - option "Total Gols Fora"
+                    - option "Gols FT 0"
+                    - option "Gols FT 1"
+                    - option "Gols FT 2"
+                    - option "Gols FT 3"
+                    - option "Gols FT 4"
+                    - option "Gols FT 5+"
+                    - option "Gols HT 0"
+                    - option "Gols HT 1"
+                    - option "Gols HT 2"
+                    - option "Gols HT 3+"
+                    - option "Gols 2º Tempo 0"
+                    - option "Gols 2º Tempo 1"
+                    - option "Gols 2º Tempo 2"
+                    - option "Gols 2º Tempo 3"
+                    - option "Gols 2º Tempo 4"
+                    - option "Over HT"
+                    - option "Under HT"
+                    - option "Over 2º Tempo"
+                    - option "Under 2º Tempo"
+                    - option "Over HT"
+                    - option "Under HT"
+                    - option "Over 2º Tempo"
+                    - option "Under 2º Tempo"
+                  - generic [ref=f17e254]:
+                    - checkbox "Fixa" [checked] [ref=f17e255]
+                    - text: Fixa
+                  - 'button "Legenda: Sim" [ref=f17e256] [cursor=pointer]'
+                  - button "" [ref=f17e257] [cursor=pointer]
+                  - generic [ref=f17e260]:
+                    - checkbox "Desenhar" [ref=f17e261]
+                    - text: Desenhar
+                  - button "⚙️ Parametros" [ref=f17e263] [cursor=pointer]
+                - generic [ref=f17e268]:
+                  - generic [ref=f17e269]:
+                    - generic [ref=f17e270]:
+                      - text: Overs
+                      - button "" [ref=f17e272] [cursor=pointer]
+                    - list [ref=f17e274]:
+                      - listitem [ref=f17e275] [cursor=pointer]:
+                        - generic [ref=f17e277]: Over 1.5
+                      - listitem [ref=f17e278] [cursor=pointer]:
+                        - generic [ref=f17e280]: Over 2.5
+                      - listitem [ref=f17e281] [cursor=pointer]:
+                        - generic [ref=f17e283]: Over 3.5
+                  - generic [ref=f17e284]:
+                    - generic [ref=f17e285]:
+                      - text: Unders
+                      - button "" [ref=f17e287] [cursor=pointer]
+                    - list [ref=f17e289]:
+                      - listitem [ref=f17e290] [cursor=pointer]:
+                        - generic [ref=f17e292]: Under 1.5
+                      - listitem [ref=f17e293] [cursor=pointer]:
+                        - generic [ref=f17e295]: Under 2.5
+                      - listitem [ref=f17e296] [cursor=pointer]:
+                        - generic [ref=f17e298]: Under 3.5
+                  - generic [ref=f17e299]:
+                    - generic [ref=f17e300]:
+                      - text: Ambas Marcam
+                      - button "" [ref=f17e302] [cursor=pointer]
+                    - list [ref=f17e304]:
+                      - listitem [ref=f17e305] [cursor=pointer]:
+                        - generic [ref=f17e307]: Ambas Não
+                      - listitem [ref=f17e308] [cursor=pointer]:
+                        - generic [ref=f17e310]: Ambas Sim
+                  - generic [ref=f17e311]:
+                    - generic [ref=f17e312]:
+                      - text: Gols Totais
+                      - button "" [ref=f17e314] [cursor=pointer]
+                    - list [ref=f17e316]:
+                      - listitem [ref=f17e317] [cursor=pointer]:
+                        - generic [ref=f17e319]: Total Gols
+                      - listitem [ref=f17e320] [cursor=pointer]:
+                        - generic [ref=f17e322]: Total Gols Casa
+                      - listitem [ref=f17e323] [cursor=pointer]:
+                        - generic [ref=f17e325]: Total Gols Fora
+                  - generic [ref=f17e326]:
+                    - generic [ref=f17e327]:
+                      - text: Gols FT
+                      - button "" [ref=f17e329] [cursor=pointer]
+                    - list [ref=f17e331]:
+                      - listitem [ref=f17e332] [cursor=pointer]:
+                        - generic [ref=f17e334]: Gols FT 0
+                      - listitem [ref=f17e335] [cursor=pointer]:
+                        - generic [ref=f17e337]: Gols FT 1
+                      - listitem [ref=f17e338] [cursor=pointer]:
+                        - generic [ref=f17e340]: Gols FT 2
+                      - listitem [ref=f17e341] [cursor=pointer]:
+                        - generic [ref=f17e343]: Gols FT 3
+                      - listitem [ref=f17e344] [cursor=pointer]:
+                        - generic [ref=f17e346]: Gols FT 4
+                      - listitem [ref=f17e347] [cursor=pointer]:
+                        - generic [ref=f17e349]: Gols FT 5+
+                  - generic [ref=f17e350]:
+                    - generic [ref=f17e351]:
+                      - text: Gols HT
+                      - button "" [ref=f17e353] [cursor=pointer]
+                    - list [ref=f17e355]:
+                      - listitem [ref=f17e356] [cursor=pointer]:
+                        - generic [ref=f17e358]: Gols HT 0
+                      - listitem [ref=f17e359] [cursor=pointer]:
+                        - generic [ref=f17e361]: Gols HT 1
+                      - listitem [ref=f17e362] [cursor=pointer]:
+                        - generic [ref=f17e364]: Gols HT 2
+                      - listitem [ref=f17e365] [cursor=pointer]:
+                        - generic [ref=f17e367]: Gols HT 3+
+                  - generic [ref=f17e368]:
+                    - generic [ref=f17e369]:
+                      - text: Gols 2º Tempo
+                      - button "" [ref=f17e371] [cursor=pointer]
+                    - list [ref=f17e373]:
+                      - listitem [ref=f17e374] [cursor=pointer]:
+                        - generic [ref=f17e376]: Gols 2º Tempo 0
+                      - listitem [ref=f17e377] [cursor=pointer]:
+                        - generic [ref=f17e379]: Gols 2º Tempo 1
+                      - listitem [ref=f17e380] [cursor=pointer]:
+                        - generic [ref=f17e382]: Gols 2º Tempo 2
+                      - listitem [ref=f17e383] [cursor=pointer]:
+                        - generic [ref=f17e385]: Gols 2º Tempo 3
+                      - listitem [ref=f17e386] [cursor=pointer]:
+                        - generic [ref=f17e388]: Gols 2º Tempo 4
+                  - generic [ref=f17e389]:
+                    - generic [ref=f17e390]:
+                      - text: Outros
+                      - button "" [ref=f17e392] [cursor=pointer]
+                    - list [ref=f17e394]:
+                      - listitem [ref=f17e395] [cursor=pointer]:
+                        - generic [ref=f17e397]: Over 2º Tempo
+                      - listitem [ref=f17e398] [cursor=pointer]:
+                        - generic [ref=f17e400]: Over HT
+                      - listitem [ref=f17e401] [cursor=pointer]:
+                        - generic [ref=f17e403]: Under 2º Tempo
+                      - listitem [ref=f17e404] [cursor=pointer]:
+                        - generic [ref=f17e406]: Under HT
+          - text:      
+          - generic [ref=f17e407]:
+            - button "Jogos" [ref=f17e409] [cursor=pointer]
+            - 'heading "36.65% Copa 63.35% Gols: 546 Média Gols Hora: 42.00" [level=3] [ref=f17e411]':
+              - generic [ref=f17e412]: 36.65%
+              - text: Copa
+              - generic [ref=f17e413]: 63.35%
+              - generic [ref=f17e414]: "Gols: 546"
+              - generic [ref=f17e415]: "Média Gols Hora: 42.00"
+          - table [ref=f17e417]:
+            - rowgroup [ref=f17e418]:
+              - row [ref=f17e419]:
+                - columnheader "G %" [ref=f17e420]: G%
+                - columnheader [ref=f17e421]:
+                  - generic [ref=f17e422]:
+                    - text: 20⚽
+                    - separator [ref=f17e423]
+                    - text: 323%
+                - columnheader [ref=f17e424]:
+                  - generic [ref=f17e425]:
+                    - text: 26⚽
+                    - separator [ref=f17e426]
+                    - text: 431%
+                - columnheader [ref=f17e427]:
+                  - generic [ref=f17e428]:
+                    - text: 30⚽
+                    - separator [ref=f17e429]
+                    - text: 646%
+                - columnheader [ref=f17e430]:
+                  - generic [ref=f17e431]:
+                    - text: 29⚽
+                    - separator [ref=f17e432]
+                    - text: 323%
+                - columnheader [ref=f17e433]:
+                  - generic [ref=f17e434]:
+                    - text: 29⚽
+                    - separator [ref=f17e435]
+                    - text: 646%
+                - columnheader [ref=f17e436]:
+                  - generic [ref=f17e437]:
+                    - text: 27⚽
+                    - separator [ref=f17e438]
+                    - text: 431%
+                - columnheader [ref=f17e439]:
+                  - generic [ref=f17e440]:
+                    - text: 26⚽
+                    - separator [ref=f17e441]
+                    - text: 431%
+                - columnheader [ref=f17e442]:
+                  - generic [ref=f17e443]:
+                    - text: 29⚽
+                    - separator [ref=f17e444]
+                    - text: 538%
+                - columnheader [ref=f17e445]:
+                  - generic [ref=f17e446]:
+                    - text: 30⚽
+                    - separator [ref=f17e447]
+                    - text: 431%
+                - columnheader [ref=f17e448]:
+                  - generic [ref=f17e449]:
+                    - text: 29⚽
+                    - separator [ref=f17e450]
+                    - text: 538%
+                - columnheader [ref=f17e451]:
+                  - generic [ref=f17e452]:
+                    - text: 29⚽
+                    - separator [ref=f17e453]
+                    - text: 646%
+                - columnheader [ref=f17e454]:
+                  - generic [ref=f17e455]:
+                    - text: 21⚽
+                    - separator [ref=f17e456]
+                    - text: 217%
+                - columnheader [ref=f17e457]:
+                  - generic [ref=f17e458]:
+                    - text: 30⚽
+                    - separator [ref=f17e459]
+                    - text: 542%
+                - columnheader [ref=f17e460]:
+                  - generic [ref=f17e461]:
+                    - text: 27⚽
+                    - separator [ref=f17e462]
+                    - text: 542%
+                - columnheader [ref=f17e463]:
+                  - generic [ref=f17e464]:
+                    - text: 27⚽
+                    - separator [ref=f17e465]
+                    - text: 433%
+                - columnheader [ref=f17e466]:
+                  - generic [ref=f17e467]:
+                    - text: 29⚽
+                    - separator [ref=f17e468]
+                    - text: 650%
+                - columnheader [ref=f17e469]:
+                  - generic [ref=f17e470]:
+                    - text: 28⚽
+                    - separator [ref=f17e471]
+                    - text: 542%
+                - columnheader [ref=f17e472]:
+                  - generic [ref=f17e473]:
+                    - text: 25⚽
+                    - separator [ref=f17e474]
+                    - text: 650%
+                - columnheader [ref=f17e475]:
+                  - generic [ref=f17e476]:
+                    - text: 29⚽
+                    - separator [ref=f17e477]
+                    - text: 433%
+                - columnheader [ref=f17e478]:
+                  - generic [ref=f17e479]:
+                    - text: 26⚽
+                    - separator [ref=f17e480]
+                    - text: 542%
+                - columnheader "%" [ref=f17e481] [cursor=pointer]
+                - columnheader "G" [ref=f17e482] [cursor=pointer]
+              - row [ref=f17e483]:
+                - columnheader "H" [ref=f17e484]
+                - button "01" [ref=f17e485] [cursor=pointer]
+                - button "04" [ref=f17e486] [cursor=pointer]
+                - button "07" [ref=f17e487] [cursor=pointer]
+                - button "10" [ref=f17e488] [cursor=pointer]
+                - button "13" [ref=f17e489] [cursor=pointer]
+                - button "16" [ref=f17e490] [cursor=pointer]
+                - button "19" [ref=f17e491] [cursor=pointer]
+                - button "22" [ref=f17e492] [cursor=pointer]
+                - button "25" [ref=f17e493] [cursor=pointer]
+                - button "28" [ref=f17e494] [cursor=pointer]
+                - button "31" [ref=f17e495] [cursor=pointer]
+                - button "34" [ref=f17e496] [cursor=pointer]
+                - button "37" [ref=f17e497] [cursor=pointer]
+                - button "40" [ref=f17e498] [cursor=pointer]
+                - button "43" [ref=f17e499] [cursor=pointer]
+                - button "46" [ref=f17e500] [cursor=pointer]
+                - button "49" [ref=f17e501] [cursor=pointer]
+                - button "52" [ref=f17e502] [cursor=pointer]
+                - button "55" [ref=f17e503] [cursor=pointer]
+                - button "58" [ref=f17e504] [cursor=pointer]
+                - columnheader "📈" [ref=f17e505]
+                - columnheader "⚽" [ref=f17e506]
+            - rowgroup [ref=f17e507]:
+              - row [ref=f17e508]:
+                - cell "17" [ref=f17e509]:
+                  - generic [ref=f17e510]:
+                    - checkbox "17" [ref=f17e511]
+                    - generic [ref=f17e512]: "17"
+                - cell "2-1 @2.20" [ref=f17e513]:
+                  - generic [ref=f17e514]: 2-1
+                  - generic [ref=f17e515]: "@2.20"
+                - cell "0-2 @2.35" [ref=f17e516]:
+                  - generic [ref=f17e517]: 0-2
+                  - generic [ref=f17e518]: "@2.35"
+                - cell "2-1 @2.10" [ref=f17e519]:
+                  - generic [ref=f17e520]: 2-1
+                  - generic [ref=f17e521]: "@2.10"
+                - cell "2-0 @2.50" [ref=f17e522]:
+                  - generic [ref=f17e523]: 2-0
+                  - generic [ref=f17e524]: "@2.50"
+                - cell "1-1 @2.55" [ref=f17e525]:
+                  - generic [ref=f17e526]: 1-1
+                  - generic [ref=f17e527]: "@2.55"
+                - cell "2-0 @2.50" [ref=f17e528]:
+                  - generic [ref=f17e529]: 2-0
+                  - generic [ref=f17e530]: "@2.50"
+                - cell "1-0 @2.20" [ref=f17e531]:
+                  - generic [ref=f17e532]: 1-0
+                  - generic [ref=f17e533]: "@2.20"
+                - cell "1-3 @2.15" [ref=f17e534]:
+                  - generic [ref=f17e535]: 1-3
+                  - generic [ref=f17e536]: "@2.15"
+                - cell "3-3 @2.30" [ref=f17e537]:
+                  - generic [ref=f17e538]: 3-3
+                  - generic [ref=f17e539]: "@2.30"
+                - cell "2-0 @2.10" [ref=f17e540]:
+                  - generic [ref=f17e541]: 2-0
+                  - generic [ref=f17e542]: "@2.10"
+                - cell "2-1 @2.25" [ref=f17e543]:
+                  - generic [ref=f17e544]: 2-1
+                  - generic [ref=f17e545]: "@2.25"
+                - cell [ref=f17e546]
+                - cell [ref=f17e547]
+                - cell [ref=f17e548]
+                - cell [ref=f17e549]
+                - cell [ref=f17e550]
+                - cell [ref=f17e551]
+                - cell [ref=f17e552]
+                - cell [ref=f17e553]
+                - cell [ref=f17e554]
+                - cell "45%" [ref=f17e555]
+                - cell "30" [ref=f17e556]
+              - row [ref=f17e557]:
+                - cell "16" [ref=f17e558]:
+                  - generic [ref=f17e559]:
+                    - checkbox "16" [ref=f17e560]
+                    - generic [ref=f17e561]: "16"
+                - cell "0-0 @2.20" [ref=f17e562]:
+                  - generic [ref=f17e563]: 0-0
+                  - generic [ref=f17e564]: "@2.20"
+                - cell "0-0 @2.20" [ref=f17e565]:
+                  - generic [ref=f17e566]: 0-0
+                  - generic [ref=f17e567]: "@2.20"
+                - cell "0-0 @2.35" [ref=f17e568]:
+                  - generic [ref=f17e569]: 0-0
+                  - generic [ref=f17e570]: "@2.35"
+                - cell "1-0 @2.07" [ref=f17e571]:
+                  - generic [ref=f17e572]: 1-0
+                  - generic [ref=f17e573]: "@2.07"
+                - cell "2-1 @2.40" [ref=f17e574]:
+                  - generic [ref=f17e575]: 2-1
+                  - generic [ref=f17e576]: "@2.40"
+                - cell "0-1 @2.45" [ref=f17e577]:
+                  - generic [ref=f17e578]: 0-1
+                  - generic [ref=f17e579]: "@2.45"
+                - cell "1-3 @2.50" [ref=f17e580]:
+                  - generic [ref=f17e581]: 1-3
+                  - generic [ref=f17e582]: "@2.50"
+                - cell "0-1 @2.25" [ref=f17e583]:
+                  - generic [ref=f17e584]: 0-1
+                  - generic [ref=f17e585]: "@2.25"
+                - cell "3-1 @2.20" [ref=f17e586]:
+                  - generic [ref=f17e587]: 3-1
+                  - generic [ref=f17e588]: "@2.20"
+                - cell "2-3 @2.20" [ref=f17e589]:
+                  - generic [ref=f17e590]: 2-3
+                  - generic [ref=f17e591]: "@2.20"
+                - cell "1-2 @2.30" [ref=f17e592]:
+                  - generic [ref=f17e593]: 1-2
+                  - generic [ref=f17e594]: "@2.30"
+                - cell "0-0 @2.50" [ref=f17e595]:
+                  - generic [ref=f17e596]: 0-0
+                  - generic [ref=f17e597]: "@2.50"
+                - cell "0-0 @2.25" [ref=f17e598]:
+                  - generic [ref=f17e599]: 0-0
+                  - generic [ref=f17e600]: "@2.25"
+                - cell "1-0 @2.10" [ref=f17e601]:
+                  - generic [ref=f17e602]: 1-0
+                  - generic [ref=f17e603]: "@2.10"
+                - cell "1-0 @2.25" [ref=f17e604]:
+                  - generic [ref=f17e605]: 1-0
+                  - generic [ref=f17e606]: "@2.25"
+                - cell "3-0 @2.50" [ref=f17e607]:
+                  - generic [ref=f17e608]: 3-0
+                  - generic [ref=f17e609]: "@2.50"
+                - cell "1-0 @2.20" [ref=f17e610]:
+                  - generic [ref=f17e611]: 1-0
+                  - generic [ref=f17e612]: "@2.20"
+                - cell "3-0 @2.70" [ref=f17e613]:
+                  - generic [ref=f17e614]: 3-0
+                  - generic [ref=f17e615]: "@2.70"
+                - cell "0-0 @2.20" [ref=f17e616]:
+                  - generic [ref=f17e617]: 0-0
+                  - generic [ref=f17e618]: "@2.20"
+                - cell "1-2 @2.05" [ref=f17e619]:
+                  - generic [ref=f17e620]: 1-2
+                  - generic [ref=f17e621]: "@2.05"
+                - cell "40%" [ref=f17e622]
+                - cell "34" [ref=f17e623]
+              - row [ref=f17e624]:
+                - cell "15" [ref=f17e625]:
+                  - generic [ref=f17e626]:
+                    - checkbox "15" [ref=f17e627]
+                    - generic [ref=f17e628]: "15"
+                - cell "0-0 @2.25" [ref=f17e629]:
+                  - generic [ref=f17e630]: 0-0
+                  - generic [ref=f17e631]: "@2.25"
+                - cell "1-1 @2.20" [ref=f17e632]:
+                  - generic [ref=f17e633]: 1-1
+                  - generic [ref=f17e634]: "@2.20"
+                - cell "2-2 @2.25" [ref=f17e635]:
+                  - generic [ref=f17e636]: 2-2
+                  - generic [ref=f17e637]: "@2.25"
+                - cell "0-2 @2.20" [ref=f17e638]:
+                  - generic [ref=f17e639]: 0-2
+                  - generic [ref=f17e640]: "@2.20"
+                - cell "2-1 @2.05" [ref=f17e641]:
+                  - generic [ref=f17e642]: 2-1
+                  - generic [ref=f17e643]: "@2.05"
+                - cell "2-0 @2.25" [ref=f17e644]:
+                  - generic [ref=f17e645]: 2-0
+                  - generic [ref=f17e646]: "@2.25"
+                - cell "2-1 @2.55" [ref=f17e647]:
+                  - generic [ref=f17e648]: 2-1
+                  - generic [ref=f17e649]: "@2.55"
+                - cell "0-2 @2.40" [ref=f17e650]:
+                  - generic [ref=f17e651]: 0-2
+                  - generic [ref=f17e652]: "@2.40"
+                - cell "1-3 @2.40" [ref=f17e653]:
+                  - generic [ref=f17e654]: 1-3
+                  - generic [ref=f17e655]: "@2.40"
+                - cell "3-0 @2.10" [ref=f17e656]:
+                  - generic [ref=f17e657]: 3-0
+                  - generic [ref=f17e658]: "@2.10"
+                - cell "0-1 @2.45" [ref=f17e659]:
+                  - generic [ref=f17e660]: 0-1
+                  - generic [ref=f17e661]: "@2.45"
+                - cell "1-0 @2.25" [ref=f17e662]:
+                  - generic [ref=f17e663]: 1-0
+                  - generic [ref=f17e664]: "@2.25"
+                - cell "0-1 @2.15" [ref=f17e665]:
+                  - generic [ref=f17e666]: 0-1
+                  - generic [ref=f17e667]: "@2.15"
+                - cell "2-2 @2.25" [ref=f17e668]:
+                  - generic [ref=f17e669]: 2-2
+                  - generic [ref=f17e670]: "@2.25"
+                - cell "2-0 @2.25" [ref=f17e671]:
+                  - generic [ref=f17e672]: 2-0
+                  - generic [ref=f17e673]: "@2.25"
+                - cell "3-1 @2.35" [ref=f17e674]:
+                  - generic [ref=f17e675]: 3-1
+                  - generic [ref=f17e676]: "@2.35"
+                - cell "0-0 @2.25" [ref=f17e677]:
+                  - generic [ref=f17e678]: 0-0
+                  - generic [ref=f17e679]: "@2.25"
+                - cell "2-0 @2.45" [ref=f17e680]:
+                  - generic [ref=f17e681]: 2-0
+                  - generic [ref=f17e682]: "@2.45"
+                - cell "2-0 @2.60" [ref=f17e683]:
+                  - generic [ref=f17e684]: 2-0
+                  - generic [ref=f17e685]: "@2.60"
+                - cell "1-2 @2.20" [ref=f17e686]:
+                  - generic [ref=f17e687]: 1-2
+                  - generic [ref=f17e688]: "@2.20"
+                - cell "40%" [ref=f17e689]
+                - cell "45" [ref=f17e690]
+              - row [ref=f17e691]:
+                - cell "14" [ref=f17e692]:
+                  - generic [ref=f17e693]:
+                    - checkbox "14" [ref=f17e694]
+                    - generic [ref=f17e695]: "14"
+                - cell "0-0 @2.30" [ref=f17e696]:
+                  - generic [ref=f17e697]: 0-0
+                  - generic [ref=f17e698]: "@2.30"
+                - cell "1-3 @2.25" [ref=f17e699]:
+                  - generic [ref=f17e700]: 1-3
+                  - generic [ref=f17e701]: "@2.25"
+                - cell "4-1 @2.35" [ref=f17e702]:
+                  - generic [ref=f17e703]: 4-1
+                  - generic [ref=f17e704]: "@2.35"
+                - cell "3-3 @2.40" [ref=f17e705]:
+                  - generic [ref=f17e706]: 3-3
+                  - generic [ref=f17e707]: "@2.40"
+                - cell "0-1 @2.70" [ref=f17e708]:
+                  - generic [ref=f17e709]: 0-1
+                  - generic [ref=f17e710]: "@2.70"
+                - cell "1-0 @2.40" [ref=f17e711]:
+                  - generic [ref=f17e712]: 1-0
+                  - generic [ref=f17e713]: "@2.40"
+                - cell "0-0 @2.45" [ref=f17e714]:
+                  - generic [ref=f17e715]: 0-0
+                  - generic [ref=f17e716]: "@2.45"
+                - cell "2-2 @2.15" [ref=f17e717]:
+                  - generic [ref=f17e718]: 2-2
+                  - generic [ref=f17e719]: "@2.15"
+                - cell "1-1 @2.25" [ref=f17e720]:
+                  - generic [ref=f17e721]: 1-1
+                  - generic [ref=f17e722]: "@2.25"
+                - cell "0-2 @2.40" [ref=f17e723]:
+                  - generic [ref=f17e724]: 0-2
+                  - generic [ref=f17e725]: "@2.40"
+                - cell "1-0 @2.07" [ref=f17e726]:
+                  - generic [ref=f17e727]: 1-0
+                  - generic [ref=f17e728]: "@2.07"
+                - cell "1-1 @2.15" [ref=f17e729]:
+                  - generic [ref=f17e730]: 1-1
+                  - generic [ref=f17e731]: "@2.15"
+                - cell "3-0 @2.10" [ref=f17e732]:
+                  - generic [ref=f17e733]: 3-0
+                  - generic [ref=f17e734]: "@2.10"
+                - cell "2-0 @2.55" [ref=f17e735]:
+                  - generic [ref=f17e736]: 2-0
+                  - generic [ref=f17e737]: "@2.55"
+                - cell "3-2 @2.20" [ref=f17e738]:
+                  - generic [ref=f17e739]: 3-2
+                  - generic [ref=f17e740]: "@2.20"
+                - cell "0-0 @2.87" [ref=f17e741]:
+                  - generic [ref=f17e742]: 0-0
+                  - generic [ref=f17e743]: "@2.87"
+                - cell "2-0 @2.35" [ref=f17e744]:
+                  - generic [ref=f17e745]: 2-0
+                  - generic [ref=f17e746]: "@2.35"
+                - cell "1-0 @2.07" [ref=f17e747]:
+                  - generic [ref=f17e748]: 1-0
+                  - generic [ref=f17e749]: "@2.07"
+                - cell "3-0 @2.55" [ref=f17e750]:
+                  - generic [ref=f17e751]: 3-0
+                  - generic [ref=f17e752]: "@2.55"
+                - cell "0-1 @2.20" [ref=f17e753]:
+                  - generic [ref=f17e754]: 0-1
+                  - generic [ref=f17e755]: "@2.20"
+                - cell "35%" [ref=f17e756]
+                - cell "45" [ref=f17e757]
+              - row [ref=f17e758]:
+                - cell "13" [ref=f17e759]:
+                  - generic [ref=f17e760]:
+                    - checkbox "13" [ref=f17e761]
+                    - generic [ref=f17e762]: "13"
+                - cell "2-0 @2.30" [ref=f17e763]:
+                  - generic [ref=f17e764]: 2-0
+                  - generic [ref=f17e765]: "@2.30"
+                - cell "0-1 @2.20" [ref=f17e766]:
+                  - generic [ref=f17e767]: 0-1
+                  - generic [ref=f17e768]: "@2.20"
+                - cell "0-3 @2.35" [ref=f17e769]:
+                  - generic [ref=f17e770]: 0-3
+                  - generic [ref=f17e771]: "@2.35"
+                - cell "1-1 @2.75" [ref=f17e772]:
+                  - generic [ref=f17e773]: 1-1
+                  - generic [ref=f17e774]: "@2.75"
+                - cell "0-1 @2.25" [ref=f17e775]:
+                  - generic [ref=f17e776]: 0-1
+                  - generic [ref=f17e777]: "@2.25"
+                - cell "0-2 @2.15" [ref=f17e778]:
+                  - generic [ref=f17e779]: 0-2
+                  - generic [ref=f17e780]: "@2.15"
+                - cell "1-0 @2.35" [ref=f17e781]:
+                  - generic [ref=f17e782]: 1-0
+                  - generic [ref=f17e783]: "@2.35"
+                - cell "0-0 @2.45" [ref=f17e784]:
+                  - generic [ref=f17e785]: 0-0
+                  - generic [ref=f17e786]: "@2.45"
+                - cell "0-1 @2.20" [ref=f17e787]:
+                  - generic [ref=f17e788]: 0-1
+                  - generic [ref=f17e789]: "@2.20"
+                - cell "2-1 @2.30" [ref=f17e790]:
+                  - generic [ref=f17e791]: 2-1
+                  - generic [ref=f17e792]: "@2.30"
+                - cell "1-2 @2.05" [ref=f17e793]:
+                  - generic [ref=f17e794]: 1-2
+                  - generic [ref=f17e795]: "@2.05"
+                - cell "1-1 @2.20" [ref=f17e796]:
+                  - generic [ref=f17e797]: 1-1
+                  - generic [ref=f17e798]: "@2.20"
+                - cell "3-0 @2.40" [ref=f17e799]:
+                  - generic [ref=f17e800]: 3-0
+                  - generic [ref=f17e801]: "@2.40"
+                - cell "1-0 @2.10" [ref=f17e802]:
+                  - generic [ref=f17e803]: 1-0
+                  - generic [ref=f17e804]: "@2.10"
+                - cell "3-0 @2.15" [ref=f17e805]:
+                  - generic [ref=f17e806]: 3-0
+                  - generic [ref=f17e807]: "@2.15"
+                - cell "0-1 @2.60" [ref=f17e808]:
+                  - generic [ref=f17e809]: 0-1
+                  - generic [ref=f17e810]: "@2.60"
+                - cell "0-1 @2.15" [ref=f17e811]:
+                  - generic [ref=f17e812]: 0-1
+                  - generic [ref=f17e813]: "@2.15"
+                - cell "1-1 @2.20" [ref=f17e814]:
+                  - generic [ref=f17e815]: 1-1
+                  - generic [ref=f17e816]: "@2.20"
+                - cell "1-1 @2.35" [ref=f17e817]:
+                  - generic [ref=f17e818]: 1-1
+                  - generic [ref=f17e819]: "@2.35"
+                - cell "1-4 @2.07" [ref=f17e820]:
+                  - generic [ref=f17e821]: 1-4
+                  - generic [ref=f17e822]: "@2.07"
+                - cell "30%" [ref=f17e823]
+                - cell "39" [ref=f17e824]
+              - row [ref=f17e825]:
+                - cell "12" [ref=f17e826]:
+                  - generic [ref=f17e827]:
+                    - checkbox "12" [ref=f17e828]
+                    - generic [ref=f17e829]: "12"
+                - cell "2-0 @2.15" [ref=f17e830]:
+                  - generic [ref=f17e831]: 2-0
+                  - generic [ref=f17e832]: "@2.15"
+                - cell "0-2 @2.45" [ref=f17e833]:
+                  - generic [ref=f17e834]: 0-2
+                  - generic [ref=f17e835]: "@2.45"
+                - cell "2-0 @2.20" [ref=f17e836]:
+                  - generic [ref=f17e837]: 2-0
+                  - generic [ref=f17e838]: "@2.20"
+                - cell "1-1 @2.40" [ref=f17e839]:
+                  - generic [ref=f17e840]: 1-1
+                  - generic [ref=f17e841]: "@2.40"
+                - cell "0-0 @2.25" [ref=f17e842]:
+                  - generic [ref=f17e843]: 0-0
+                  - generic [ref=f17e844]: "@2.25"
+                - cell "0-1 @2.50" [ref=f17e845]:
+                  - generic [ref=f17e846]: 0-1
+                  - generic [ref=f17e847]: "@2.50"
+                - cell "0-0 @2.30" [ref=f17e848]:
+                  - generic [ref=f17e849]: 0-0
+                  - generic [ref=f17e850]: "@2.30"
+                - cell "1-1 @2.20" [ref=f17e851]:
+                  - generic [ref=f17e852]: 1-1
+                  - generic [ref=f17e853]: "@2.20"
+                - cell "1-0 @2.20" [ref=f17e854]:
+                  - generic [ref=f17e855]: 1-0
+                  - generic [ref=f17e856]: "@2.20"
+                - cell "0-1 @2.20" [ref=f17e857]:
+                  - generic [ref=f17e858]: 0-1
+                  - generic [ref=f17e859]: "@2.20"
+                - cell "1-1 @2.60" [ref=f17e860]:
+                  - generic [ref=f17e861]: 1-1
+                  - generic [ref=f17e862]: "@2.60"
+                - cell "1-1 @2.20" [ref=f17e863]:
+                  - generic [ref=f17e864]: 1-1
+                  - generic [ref=f17e865]: "@2.20"
+                - cell "3-2 @2.15" [ref=f17e866]:
+                  - generic [ref=f17e867]: 3-2
+                  - generic [ref=f17e868]: "@2.15"
+                - cell "1-2 @2.25" [ref=f17e869]:
+                  - generic [ref=f17e870]: 1-2
+                  - generic [ref=f17e871]: "@2.25"
+                - cell "0-0 @2.30" [ref=f17e872]:
+                  - generic [ref=f17e873]: 0-0
+                  - generic [ref=f17e874]: "@2.30"
+                - cell "2-2 @2.20" [ref=f17e875]:
+                  - generic [ref=f17e876]: 2-2
+                  - generic [ref=f17e877]: "@2.20"
+                - cell "3-2 @2.35" [ref=f17e878]:
+                  - generic [ref=f17e879]: 3-2
+                  - generic [ref=f17e880]: "@2.35"
+                - cell "1-2 @2.35" [ref=f17e881]:
+                  - generic [ref=f17e882]: 1-2
+                  - generic [ref=f17e883]: "@2.35"
+                - cell "2-0 @2.35" [ref=f17e884]:
+                  - generic [ref=f17e885]: 2-0
+                  - generic [ref=f17e886]: "@2.35"
+                - cell "2-1 @2.25" [ref=f17e887]:
+                  - generic [ref=f17e888]: 2-1
+                  - generic [ref=f17e889]: "@2.25"
+                - cell "30%" [ref=f17e890]
+                - cell "42" [ref=f17e891]
+              - row [ref=f17e892]:
+                - cell "11" [ref=f17e893]:
+                  - generic [ref=f17e894]:
+                    - checkbox "11" [ref=f17e895]
+                    - generic [ref=f17e896]: "11"
+                - cell "1-0 @2.40" [ref=f17e897]:
+                  - generic [ref=f17e898]: 1-0
+                  - generic [ref=f17e899]: "@2.40"
+                - cell "3-0 @2.20" [ref=f17e900]:
+                  - generic [ref=f17e901]: 3-0
+                  - generic [ref=f17e902]: "@2.20"
+                - cell "0-2 @2.45" [ref=f17e903]:
+                  - generic [ref=f17e904]: 0-2
+                  - generic [ref=f17e905]: "@2.45"
+                - cell "2-0 @2.40" [ref=f17e906]:
+                  - generic [ref=f17e907]: 2-0
+                  - generic [ref=f17e908]: "@2.40"
+                - cell "2-2 @2.30" [ref=f17e909]:
+                  - generic [ref=f17e910]: 2-2
+                  - generic [ref=f17e911]: "@2.30"
+                - cell "1-2 @2.30" [ref=f17e912]:
+                  - generic [ref=f17e913]: 1-2
+                  - generic [ref=f17e914]: "@2.30"
+                - cell "2-0 @2.50" [ref=f17e915]:
+                  - generic [ref=f17e916]: 2-0
+                  - generic [ref=f17e917]: "@2.50"
+                - cell "3-1 @2.25" [ref=f17e918]:
+                  - generic [ref=f17e919]: 3-1
+                  - generic [ref=f17e920]: "@2.25"
+                - cell "1-1 @2.40" [ref=f17e921]:
+                  - generic [ref=f17e922]: 1-1
+                  - generic [ref=f17e923]: "@2.40"
+                - cell "1-1 @2.45" [ref=f17e924]:
+                  - generic [ref=f17e925]: 1-1
+                  - generic [ref=f17e926]: "@2.45"
+                - cell "3-1 @2.50" [ref=f17e927]:
+                  - generic [ref=f17e928]: 3-1
+                  - generic [ref=f17e929]: "@2.50"
+                - cell "2-0 @2.20" [ref=f17e930]:
+                  - generic [ref=f17e931]: 2-0
+                  - generic [ref=f17e932]: "@2.20"
+                - cell "2-2 @2.25" [ref=f17e933]:
+                  - generic [ref=f17e934]: 2-2
+                  - generic [ref=f17e935]: "@2.25"
+                - cell "1-0 @2.45" [ref=f17e936]:
+                  - generic [ref=f17e937]: 1-0
+                  - generic [ref=f17e938]: "@2.45"
+                - cell "3-0 @2.45" [ref=f17e939]:
+                  - generic [ref=f17e940]: 3-0
+                  - generic [ref=f17e941]: "@2.45"
+                - cell "3-2 @2.35" [ref=f17e942]:
+                  - generic [ref=f17e943]: 3-2
+                  - generic [ref=f17e944]: "@2.35"
+                - cell "1-2 @2.10" [ref=f17e945]:
+                  - generic [ref=f17e946]: 1-2
+                  - generic [ref=f17e947]: "@2.10"
+                - cell "1-0 @2.25" [ref=f17e948]:
+                  - generic [ref=f17e949]: 1-0
+                  - generic [ref=f17e950]: "@2.25"
+                - cell "2-1 @2.55" [ref=f17e951]:
+                  - generic [ref=f17e952]: 2-1
+                  - generic [ref=f17e953]: "@2.55"
+                - cell "2-1 @2.15" [ref=f17e954]:
+                  - generic [ref=f17e955]: 2-1
+                  - generic [ref=f17e956]: "@2.15"
+                - cell "55%" [ref=f17e957]
+                - cell "54" [ref=f17e958]
+              - row [ref=f17e959]:
+                - cell "10" [ref=f17e960]:
+                  - generic [ref=f17e961]:
+                    - checkbox "10" [ref=f17e962]
+                    - generic [ref=f17e963]: "10"
+                - cell "1-1 @2.25" [ref=f17e964]:
+                  - generic [ref=f17e965]: 1-1
+                  - generic [ref=f17e966]: "@2.25"
+                - cell "0-1 @2.30" [ref=f17e967]:
+                  - generic [ref=f17e968]: 0-1
+                  - generic [ref=f17e969]: "@2.30"
+                - cell "2-0 @2.20" [ref=f17e970]:
+                  - generic [ref=f17e971]: 2-0
+                  - generic [ref=f17e972]: "@2.20"
+                - cell "0-0 @2.40" [ref=f17e973]:
+                  - generic [ref=f17e974]: 0-0
+                  - generic [ref=f17e975]: "@2.40"
+                - cell "1-0 @2.30" [ref=f17e976]:
+                  - generic [ref=f17e977]: 1-0
+                  - generic [ref=f17e978]: "@2.30"
+                - cell "0-3 @2.30" [ref=f17e979]:
+                  - generic [ref=f17e980]: 0-3
+                  - generic [ref=f17e981]: "@2.30"
+                - cell "1-0 @2.30" [ref=f17e982]:
+                  - generic [ref=f17e983]: 1-0
+                  - generic [ref=f17e984]: "@2.30"
+                - cell "1-0 @2.62" [ref=f17e985]:
+                  - generic [ref=f17e986]: 1-0
+                  - generic [ref=f17e987]: "@2.62"
+                - cell "1-0 @2.60" [ref=f17e988]:
+                  - generic [ref=f17e989]: 1-0
+                  - generic [ref=f17e990]: "@2.60"
+                - cell "3-1 @2.15" [ref=f17e991]:
+                  - generic [ref=f17e992]: 3-1
+                  - generic [ref=f17e993]: "@2.15"
+                - cell "3-1 @2.25" [ref=f17e994]:
+                  - generic [ref=f17e995]: 3-1
+                  - generic [ref=f17e996]: "@2.25"
+                - cell "1-0 @2.60" [ref=f17e997]:
+                  - generic [ref=f17e998]: 1-0
+                  - generic [ref=f17e999]: "@2.60"
+                - cell "1-0 @2.20" [ref=f17e1000]:
+                  - generic [ref=f17e1001]: 1-0
+                  - generic [ref=f17e1002]: "@2.20"
+                - cell "0-3 @2.15" [ref=f17e1003]:
+                  - generic [ref=f17e1004]: 0-3
+                  - generic [ref=f17e1005]: "@2.15"
+                - cell "1-1 @2.55" [ref=f17e1006]:
+                  - generic [ref=f17e1007]: 1-1
+                  - generic [ref=f17e1008]: "@2.55"
+                - cell "0-2 @2.40" [ref=f17e1009]:
+                  - generic [ref=f17e1010]: 0-2
+                  - generic [ref=f17e1011]: "@2.40"
+                - cell "2-1 @2.15" [ref=f17e1012]:
+                  - generic [ref=f17e1013]: 2-1
+                  - generic [ref=f17e1014]: "@2.15"
+                - cell "0-3 @2.50" [ref=f17e1015]:
+                  - generic [ref=f17e1016]: 0-3
+                  - generic [ref=f17e1017]: "@2.50"
+                - cell "0-0 @2.80" [ref=f17e1018]:
+                  - generic [ref=f17e1019]: 0-0
+                  - generic [ref=f17e1020]: "@2.80"
+                - cell "1-1 @2.55" [ref=f17e1021]:
+                  - generic [ref=f17e1022]: 1-1
+                  - generic [ref=f17e1023]: "@2.55"
+                - cell "30%" [ref=f17e1024]
+                - cell "37" [ref=f17e1025]
+              - row [ref=f17e1026]:
+                - cell "09" [ref=f17e1027]:
+                  - generic [ref=f17e1028]:
+                    - checkbox "09" [ref=f17e1029]
+                    - generic [ref=f17e1030]: "09"
+                - cell "1-0 @2.20" [ref=f17e1031]:
+                  - generic [ref=f17e1032]: 1-0
+                  - generic [ref=f17e1033]: "@2.20"
+                - cell "3-0 @2.75" [ref=f17e1034]:
+                  - generic [ref=f17e1035]: 3-0
+                  - generic [ref=f17e1036]: "@2.75"
+                - cell "3-0 @2.30" [ref=f17e1037]:
+                  - generic [ref=f17e1038]: 3-0
+                  - generic [ref=f17e1039]: "@2.30"
+                - cell "0-1 @2.20" [ref=f17e1040]:
+                  - generic [ref=f17e1041]: 0-1
+                  - generic [ref=f17e1042]: "@2.20"
+                - cell "1-1 @2.35" [ref=f17e1043]:
+                  - generic [ref=f17e1044]: 1-1
+                  - generic [ref=f17e1045]: "@2.35"
+                - cell "0-1 @2.50" [ref=f17e1046]:
+                  - generic [ref=f17e1047]: 0-1
+                  - generic [ref=f17e1048]: "@2.50"
+                - cell "5-1 @2.07" [ref=f17e1049]:
+                  - generic [ref=f17e1050]: 5-1
+                  - generic [ref=f17e1051]: "@2.07"
+                - cell "0-3 @2.15" [ref=f17e1052]:
+                  - generic [ref=f17e1053]: 0-3
+                  - generic [ref=f17e1054]: "@2.15"
+                - cell "0-1 @2.45" [ref=f17e1055]:
+                  - generic [ref=f17e1056]: 0-1
+                  - generic [ref=f17e1057]: "@2.45"
+                - cell "1-2 @2.35" [ref=f17e1058]:
+                  - generic [ref=f17e1059]: 1-2
+                  - generic [ref=f17e1060]: "@2.35"
+                - cell "2-0 @2.70" [ref=f17e1061]:
+                  - generic [ref=f17e1062]: 2-0
+                  - generic [ref=f17e1063]: "@2.70"
+                - cell "1-1 @2.10" [ref=f17e1064]:
+                  - generic [ref=f17e1065]: 1-1
+                  - generic [ref=f17e1066]: "@2.10"
+                - cell "0-1 @2.15" [ref=f17e1067]:
+                  - generic [ref=f17e1068]: 0-1
+                  - generic [ref=f17e1069]: "@2.15"
+                - cell "4-0 @2.15" [ref=f17e1070]:
+                  - generic [ref=f17e1071]: 4-0
+                  - generic [ref=f17e1072]: "@2.15"
+                - cell "0-1 @2.87" [ref=f17e1073]:
+                  - generic [ref=f17e1074]: 0-1
+                  - generic [ref=f17e1075]: "@2.87"
+                - cell "3-1 @2.15" [ref=f17e1076]:
+                  - generic [ref=f17e1077]: 3-1
+                  - generic [ref=f17e1078]: "@2.15"
+                - cell "3-1 @2.35" [ref=f17e1079]:
+                  - generic [ref=f17e1080]: 3-1
+                  - generic [ref=f17e1081]: "@2.35"
+                - cell "2-1 @2.07" [ref=f17e1082]:
+                  - generic [ref=f17e1083]: 2-1
+                  - generic [ref=f17e1084]: "@2.07"
+                - cell "0-2 @2.10" [ref=f17e1085]:
+                  - generic [ref=f17e1086]: 0-2
+                  - generic [ref=f17e1087]: "@2.10"
+                - cell "1-1 @2.35" [ref=f17e1088]:
+                  - generic [ref=f17e1089]: 1-1
+                  - generic [ref=f17e1090]: "@2.35"
+                - cell "45%" [ref=f17e1091]
+                - cell "49" [ref=f17e1092]
+              - row [ref=f17e1093]:
+                - cell "08" [ref=f17e1094]:
+                  - generic [ref=f17e1095]:
+                    - checkbox "08" [ref=f17e1096]
+                    - generic [ref=f17e1097]: "08"
+                - cell "0-0 @2.45" [ref=f17e1098]:
+                  - generic [ref=f17e1099]: 0-0
+                  - generic [ref=f17e1100]: "@2.45"
+                - cell "0-0 @2.30" [ref=f17e1101]:
+                  - generic [ref=f17e1102]: 0-0
+                  - generic [ref=f17e1103]: "@2.30"
+                - cell "1-0 @2.20" [ref=f17e1104]:
+                  - generic [ref=f17e1105]: 1-0
+                  - generic [ref=f17e1106]: "@2.20"
+                - cell "2-0 @2.20" [ref=f17e1107]:
+                  - generic [ref=f17e1108]: 2-0
+                  - generic [ref=f17e1109]: "@2.20"
+                - cell "1-2 @2.15" [ref=f17e1110]:
+                  - generic [ref=f17e1111]: 1-2
+                  - generic [ref=f17e1112]: "@2.15"
+                - cell "2-1 @2.25" [ref=f17e1113]:
+                  - generic [ref=f17e1114]: 2-1
+                  - generic [ref=f17e1115]: "@2.25"
+                - cell "1-1 @2.25" [ref=f17e1116]:
+                  - generic [ref=f17e1117]: 1-1
+                  - generic [ref=f17e1118]: "@2.25"
+                - cell "1-1 @2.25" [ref=f17e1119]:
+                  - generic [ref=f17e1120]: 1-1
+                  - generic [ref=f17e1121]: "@2.25"
+                - cell "0-1 @2.35" [ref=f17e1122]:
+                  - generic [ref=f17e1123]: 0-1
+                  - generic [ref=f17e1124]: "@2.35"
+                - cell "1-1 @2.25" [ref=f17e1125]:
+                  - generic [ref=f17e1126]: 1-1
+                  - generic [ref=f17e1127]: "@2.25"
+                - cell "3-0 @2.35" [ref=f17e1128]:
+                  - generic [ref=f17e1129]: 3-0
+                  - generic [ref=f17e1130]: "@2.35"
+                - cell "0-2 @2.25" [ref=f17e1131]:
+                  - generic [ref=f17e1132]: 0-2
+                  - generic [ref=f17e1133]: "@2.25"
+                - cell "5-2 @2.40" [ref=f17e1134]:
+                  - generic [ref=f17e1135]: 5-2
+                  - generic [ref=f17e1136]: "@2.40"
+                - cell "2-1 @2.40" [ref=f17e1137]:
+                  - generic [ref=f17e1138]: 2-1
+                  - generic [ref=f17e1139]: "@2.40"
+                - cell "1-0 @2.50" [ref=f17e1140]:
+                  - generic [ref=f17e1141]: 1-0
+                  - generic [ref=f17e1142]: "@2.50"
+                - cell "2-1 @2.20" [ref=f17e1143]:
+                  - generic [ref=f17e1144]: 2-1
+                  - generic [ref=f17e1145]: "@2.20"
+                - cell "1-2 @2.50" [ref=f17e1146]:
+                  - generic [ref=f17e1147]: 1-2
+                  - generic [ref=f17e1148]: "@2.50"
+                - cell "1-2 @2.20" [ref=f17e1149]:
+                  - generic [ref=f17e1150]: 1-2
+                  - generic [ref=f17e1151]: "@2.20"
+                - cell "1-4 @2.10" [ref=f17e1152]:
+                  - generic [ref=f17e1153]: 1-4
+                  - generic [ref=f17e1154]: "@2.10"
+                - cell "0-0 @2.60" [ref=f17e1155]:
+                  - generic [ref=f17e1156]: 0-0
+                  - generic [ref=f17e1157]: "@2.60"
+                - cell "45%" [ref=f17e1158]
+                - cell "46" [ref=f17e1159]
+              - row [ref=f17e1160]:
+                - cell "07" [ref=f17e1161]:
+                  - generic [ref=f17e1162]:
+                    - checkbox "07" [ref=f17e1163]
+                    - generic [ref=f17e1164]: "07"
+                - cell "1-2 @2.05" [ref=f17e1165]:
+                  - generic [ref=f17e1166]: 1-2
+                  - generic [ref=f17e1167]: "@2.05"
+                - cell "2-0 @2.20" [ref=f17e1168]:
+                  - generic [ref=f17e1169]: 2-0
+                  - generic [ref=f17e1170]: "@2.20"
+                - cell "3-0 @2.50" [ref=f17e1171]:
+                  - generic [ref=f17e1172]: 3-0
+                  - generic [ref=f17e1173]: "@2.50"
+                - cell "0-3 @2.25" [ref=f17e1174]:
+                  - generic [ref=f17e1175]: 0-3
+                  - generic [ref=f17e1176]: "@2.25"
+                - cell "1-1 @2.30" [ref=f17e1177]:
+                  - generic [ref=f17e1178]: 1-1
+                  - generic [ref=f17e1179]: "@2.30"
+                - cell "0-2 @2.45" [ref=f17e1180]:
+                  - generic [ref=f17e1181]: 0-2
+                  - generic [ref=f17e1182]: "@2.45"
+                - cell "1-2 @2.30" [ref=f17e1183]:
+                  - generic [ref=f17e1184]: 1-2
+                  - generic [ref=f17e1185]: "@2.30"
+                - cell "0-1 @2.25" [ref=f17e1186]:
+                  - generic [ref=f17e1187]: 0-1
+                  - generic [ref=f17e1188]: "@2.25"
+                - cell "1-1 @2.30" [ref=f17e1189]:
+                  - generic [ref=f17e1190]: 1-1
+                  - generic [ref=f17e1191]: "@2.30"
+                - cell "0-0 @2.60" [ref=f17e1192]:
+                  - generic [ref=f17e1193]: 0-0
+                  - generic [ref=f17e1194]: "@2.60"
+                - cell "1-0 @2.75" [ref=f17e1195]:
+                  - generic [ref=f17e1196]: 1-0
+                  - generic [ref=f17e1197]: "@2.75"
+                - cell "2-1 @2.40" [ref=f17e1198]:
+                  - generic [ref=f17e1199]: 2-1
+                  - generic [ref=f17e1200]: "@2.40"
+                - cell "1-1 @2.35" [ref=f17e1201]:
+                  - generic [ref=f17e1202]: 1-1
+                  - generic [ref=f17e1203]: "@2.35"
+                - cell "0-1 @2.55" [ref=f17e1204]:
+                  - generic [ref=f17e1205]: 0-1
+                  - generic [ref=f17e1206]: "@2.55"
+                - cell "1-0 @2.30" [ref=f17e1207]:
+                  - generic [ref=f17e1208]: 1-0
+                  - generic [ref=f17e1209]: "@2.30"
+                - cell "0-1 @2.40" [ref=f17e1210]:
+                  - generic [ref=f17e1211]: 0-1
+                  - generic [ref=f17e1212]: "@2.40"
+                - cell "0-2 @2.20" [ref=f17e1213]:
+                  - generic [ref=f17e1214]: 0-2
+                  - generic [ref=f17e1215]: "@2.20"
+                - cell "1-0 @2.20" [ref=f17e1216]:
+                  - generic [ref=f17e1217]: 1-0
+                  - generic [ref=f17e1218]: "@2.20"
+                - cell "1-1 @2.30" [ref=f17e1219]:
+                  - generic [ref=f17e1220]: 1-1
+                  - generic [ref=f17e1221]: "@2.30"
+                - cell "1-0 @2.15" [ref=f17e1222]:
+                  - generic [ref=f17e1223]: 1-0
+                  - generic [ref=f17e1224]: "@2.15"
+                - cell "25%" [ref=f17e1225]
+                - cell "36" [ref=f17e1226]
+              - row [ref=f17e1227]:
+                - cell "06" [ref=f17e1228]:
+                  - generic [ref=f17e1229]:
+                    - checkbox "06" [ref=f17e1230]
+                    - generic [ref=f17e1231]: "06"
+                - cell "1-0 @2.15" [ref=f17e1232]:
+                  - generic [ref=f17e1233]: 1-0
+                  - generic [ref=f17e1234]: "@2.15"
+                - cell "2-2 @2.05" [ref=f17e1235]:
+                  - generic [ref=f17e1236]: 2-2
+                  - generic [ref=f17e1237]: "@2.05"
+                - cell "0-0 @2.40" [ref=f17e1238]:
+                  - generic [ref=f17e1239]: 0-0
+                  - generic [ref=f17e1240]: "@2.40"
+                - cell "2-2 @2.40" [ref=f17e1241]:
+                  - generic [ref=f17e1242]: 2-2
+                  - generic [ref=f17e1243]: "@2.40"
+                - cell "2-1 @2.35" [ref=f17e1244]:
+                  - generic [ref=f17e1245]: 2-1
+                  - generic [ref=f17e1246]: "@2.35"
+                - cell "1-0 @2.40" [ref=f17e1247]:
+                  - generic [ref=f17e1248]: 1-0
+                  - generic [ref=f17e1249]: "@2.40"
+                - cell "0-2 @2.25" [ref=f17e1250]:
+                  - generic [ref=f17e1251]: 0-2
+                  - generic [ref=f17e1252]: "@2.25"
+                - cell "0-2 @2.15" [ref=f17e1253]:
+                  - generic [ref=f17e1254]: 0-2
+                  - generic [ref=f17e1255]: "@2.15"
+                - cell "1-2 @2.07" [ref=f17e1256]:
+                  - generic [ref=f17e1257]: 1-2
+                  - generic [ref=f17e1258]: "@2.07"
+                - cell "1-0 @2.40" [ref=f17e1259]:
+                  - generic [ref=f17e1260]: 1-0
+                  - generic [ref=f17e1261]: "@2.40"
+                - cell "1-0 @2.40" [ref=f17e1262]:
+                  - generic [ref=f17e1263]: 1-0
+                  - generic [ref=f17e1264]: "@2.40"
+                - cell "1-2 @2.15" [ref=f17e1265]:
+                  - generic [ref=f17e1266]: 1-2
+                  - generic [ref=f17e1267]: "@2.15"
+                - cell "0-1 @2.40" [ref=f17e1268]:
+                  - generic [ref=f17e1269]: 0-1
+                  - generic [ref=f17e1270]: "@2.40"
+                - cell "1-1 @2.70" [ref=f17e1271]:
+                  - generic [ref=f17e1272]: 1-1
+                  - generic [ref=f17e1273]: "@2.70"
+                - cell "1-0 @2.10" [ref=f17e1274]:
+                  - generic [ref=f17e1275]: 1-0
+                  - generic [ref=f17e1276]: "@2.10"
+                - cell "0-1 @2.25" [ref=f17e1277]:
+                  - generic [ref=f17e1278]: 0-1
+                  - generic [ref=f17e1279]: "@2.25"
+                - cell "1-1 @2.25" [ref=f17e1280]:
+                  - generic [ref=f17e1281]: 1-1
+                  - generic [ref=f17e1282]: "@2.25"
+                - cell "1-2 @2.05" [ref=f17e1283]:
+                  - generic [ref=f17e1284]: 1-2
+                  - generic [ref=f17e1285]: "@2.05"
+                - cell "4-2 @2.40" [ref=f17e1286]:
+                  - generic [ref=f17e1287]: 4-2
+                  - generic [ref=f17e1288]: "@2.40"
+                - cell "1-0 @2.25" [ref=f17e1289]:
+                  - generic [ref=f17e1290]: 1-0
+                  - generic [ref=f17e1291]: "@2.25"
+                - cell "35%" [ref=f17e1292]
+                - cell "42" [ref=f17e1293]
+              - row [ref=f17e1294]:
+                - cell "05" [ref=f17e1295]:
+                  - generic [ref=f17e1296]:
+                    - checkbox "05" [ref=f17e1297]
+                    - generic [ref=f17e1298]: "05"
+                - cell "1-4 @2.10" [ref=f17e1299]:
+                  - generic [ref=f17e1300]: 1-4
+                  - generic [ref=f17e1301]: "@2.10"
+                - cell "1-1 @2.45" [ref=f17e1302]:
+                  - generic [ref=f17e1303]: 1-1
+                  - generic [ref=f17e1304]: "@2.45"
+                - cell "0-2 @2.45" [ref=f17e1305]:
+                  - generic [ref=f17e1306]: 0-2
+                  - generic [ref=f17e1307]: "@2.45"
+                - cell "1-1 @2.35" [ref=f17e1308]:
+                  - generic [ref=f17e1309]: 1-1
+                  - generic [ref=f17e1310]: "@2.35"
+                - cell "2-2 @2.10" [ref=f17e1311]:
+                  - generic [ref=f17e1312]: 2-2
+                  - generic [ref=f17e1313]: "@2.10"
+                - cell "0-5 @2.25" [ref=f17e1314]:
+                  - generic [ref=f17e1315]: 0-5
+                  - generic [ref=f17e1316]: "@2.25"
+                - cell "1-0 @2.30" [ref=f17e1317]:
+                  - generic [ref=f17e1318]: 1-0
+                  - generic [ref=f17e1319]: "@2.30"
+                - cell "2-1 @2.60" [ref=f17e1320]:
+                  - generic [ref=f17e1321]: 2-1
+                  - generic [ref=f17e1322]: "@2.60"
+                - cell "1-1 @2.25" [ref=f17e1323]:
+                  - generic [ref=f17e1324]: 1-1
+                  - generic [ref=f17e1325]: "@2.25"
+                - cell "0-1 @2.25" [ref=f17e1326]:
+                  - generic [ref=f17e1327]: 0-1
+                  - generic [ref=f17e1328]: "@2.25"
+                - cell "1-0 @2.40" [ref=f17e1329]:
+                  - generic [ref=f17e1330]: 1-0
+                  - generic [ref=f17e1331]: "@2.40"
+                - cell "1-0 @2.30" [ref=f17e1332]:
+                  - generic [ref=f17e1333]: 1-0
+                  - generic [ref=f17e1334]: "@2.30"
+                - cell "1-1 @2.25" [ref=f17e1335]:
+                  - generic [ref=f17e1336]: 1-1
+                  - generic [ref=f17e1337]: "@2.25"
+                - cell "0-2 @2.60" [ref=f17e1338]:
+                  - generic [ref=f17e1339]: 0-2
+                  - generic [ref=f17e1340]: "@2.60"
+                - cell "4-3 @2.20" [ref=f17e1341]:
+                  - generic [ref=f17e1342]: 4-3
+                  - generic [ref=f17e1343]: "@2.20"
+                - cell "1-0 @2.15" [ref=f17e1344]:
+                  - generic [ref=f17e1345]: 1-0
+                  - generic [ref=f17e1346]: "@2.15"
+                - cell "1-1 @2.62" [ref=f17e1347]:
+                  - generic [ref=f17e1348]: 1-1
+                  - generic [ref=f17e1349]: "@2.62"
+                - cell "0-0 @2.05" [ref=f17e1350]:
+                  - generic [ref=f17e1351]: 0-0
+                  - generic [ref=f17e1352]: "@2.05"
+                - cell "2-0 @2.50" [ref=f17e1353]:
+                  - generic [ref=f17e1354]: 2-0
+                  - generic [ref=f17e1355]: "@2.50"
+                - cell "1-1 @2.35" [ref=f17e1356]:
+                  - generic [ref=f17e1357]: 1-1
+                  - generic [ref=f17e1358]: "@2.35"
+                - cell "25%" [ref=f17e1359]
+                - cell "47" [ref=f17e1360]
+              - row [ref=f17e1361]:
+                - columnheader "H" [ref=f17e1362]
+                - columnheader "01" [ref=f17e1363]
+                - columnheader "04" [ref=f17e1364]
+                - columnheader "07" [ref=f17e1365]
+                - columnheader "10" [ref=f17e1366]
+                - columnheader "13" [ref=f17e1367]
+                - columnheader "16" [ref=f17e1368]
+                - columnheader "19" [ref=f17e1369]
+                - columnheader "22" [ref=f17e1370]
+                - columnheader "25" [ref=f17e1371]
+                - columnheader "28" [ref=f17e1372]
+                - columnheader "31" [ref=f17e1373]
+                - columnheader "34" [ref=f17e1374]
+                - columnheader "37" [ref=f17e1375]
+                - columnheader "40" [ref=f17e1376]
+                - columnheader "43" [ref=f17e1377]
+                - columnheader "46" [ref=f17e1378]
+                - columnheader "49" [ref=f17e1379]
+                - columnheader "52" [ref=f17e1380]
+                - columnheader "55" [ref=f17e1381]
+                - columnheader "58" [ref=f17e1382]
+                - columnheader "%" [ref=f17e1383]
+                - columnheader "G" [ref=f17e1384]
+          - generic:  
+  - generic [ref=f17e46]: © 2025 BBTIPS - Todos os direitos reservados.

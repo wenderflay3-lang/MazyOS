@@ -1,0 +1,10 @@
+- generic [ref=f5e3]:
+  - navigation [ref=f5e5]:
+    - generic [ref=f5e6]:
+      - link "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza 19/07/2026" [ref=f5e7] [cursor=pointer]:
+        - /url: /inicio
+        - img "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza" [ref=f5e8]
+        - generic [ref=f5e9]: 19/07/2026
+      - button "Toggle navigation menu" [ref=f5e10] [cursor=pointer]
+      - text:                       
+  - generic [ref=f5e12]: © 2025 BBTIPS - Todos os direitos reservados.

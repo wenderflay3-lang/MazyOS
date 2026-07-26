@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>bbtipis — painel ao vivo</title>
+<link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <header class="topo">
+    <h1>bbtipis <span class="marca">.painel</span></h1>
+    <nav class="abas" id="abas">
+      <button data-campeonato="express" class="aba">Express</button>
+      <button data-campeonato="copa" class="aba ativa">Copa</button>
+      <button data-campeonato="euro" class="aba">Euro</button>
+      <button data-campeonato="super" class="aba">Super</button>
+      <button data-campeonato="premier" class="aba">Premier</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="resumo" id="resumo"></section>
+
+    <section class="sinal-wrap" id="sinal-entrada"></section>
+
+    <section class="destaques-wrap" id="destaques"></section>
+
+    <section class="tabela-wrap">
+      <h2 class="tabela-titulo">Tabela ao vivo — por hora / slot</h2>
+      <div class="tabela-scroll">
+        <table class="tabela-horas">
+          <thead>
+            <tr>
+              <th>Hora</th>
+              <th>%</th>
+              <th>Slots</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-corpo"></tbody>
+        </table>
+      </div>
+      <div class="tabela-legenda">
+        <span><i class="ponto verde"></i> Green (bateu)</span>
+        <span><i class="ponto vermelho"></i> Red (não bateu)</span>
+        <span><i class="ponto neutro"></i> Sem dado / futuro</span>
+      </div>
+    </section>
+  </main>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+- generic [ref=f12e3]:
+  - navigation [ref=f12e5]:
+    - generic [ref=f12e6]:
+      - link "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza 19/07/2026" [ref=f12e7] [cursor=pointer]:
+        - /url: /inicio
+        - img "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza" [ref=f12e8]
+        - generic [ref=f12e9]: 19/07/2026
+      - list [ref=f12e11]:
+        - listitem [ref=f12e12] [cursor=pointer]:
+          - button " Bet365" [ref=f12e13]:
+            - generic [ref=f12e14]:
+              - generic [ref=f12e15]: 
+              - text: Bet365
+              - generic [ref=f12e16]: 
+          - text:    
+        - listitem [ref=f12e17] [cursor=pointer]:
+          - button " Betano" [ref=f12e18]:
+            - generic [ref=f12e19]:
+              - generic [ref=f12e20]: 
+              - text: Betano
+              - generic [ref=f12e21]: 
+          - text: 
+        - listitem [ref=f12e22] [cursor=pointer]:
+          - link " Kiron" [ref=f12e23]:
+            - /url: /playpix/futebol/horarios
+            - generic [ref=f12e24]: 
+            - text: Kiron
+        - listitem [ref=f12e25] [cursor=pointer]:
+          - link " SportingBet" [ref=f12e26]:
+            - /url: /sportingbet/futebol/horarios
+            - generic [ref=f12e27]: 
+            - text: SportingBet
+        - listitem [ref=f12e28] [cursor=pointer]:
+          - button " Aviator" [ref=f12e29]:
+            - generic [ref=f12e30]:
+              - generic [ref=f12e31]: 
+              - text: Aviator
+              - generic [ref=f12e32]: 
+        - listitem [ref=f12e33] [cursor=pointer]:
+          - button " Blaze" [ref=f12e34]:
+            - generic [ref=f12e35]:
+              - generic [ref=f12e36]: 
+              - text: Blaze
+              - generic [ref=f12e37]: 
+        - listitem [ref=f12e38] [cursor=pointer]:
+          - link " Roletas" [ref=f12e39]:
+            - /url: /roletas
+            - generic [ref=f12e40]: 
+            - text: Roletas
+        - listitem [ref=f12e42] [cursor=pointer]:
+          - button " Wender Frias Barbosa Aragao" [ref=f12e43]:
+            - generic [ref=f12e44]:
+              - generic [ref=f12e45]: 
+              - text: Wender Frias Barbosa Aragao
+          - text:      
+  - generic [ref=f12e46]: © 2025 BBTIPS - Todos os direitos reservados.

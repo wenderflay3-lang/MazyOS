@@ -46,6 +46,15 @@ padrão de repetição for claro.
 
 ---
 
+## Avisar quando demora
+
+Antes de iniciar uma etapa que deve levar mais que alguns segundos
+(gerar imagens, publicar em redes sociais, rodar automação, esperar
+deploy), avisar em uma frase curta que vai demorar e o que está sendo
+feito. Não ficar em silêncio durante a espera.
+
+---
+
 ## Aprender com correções
 
 Quando o usuário corrigir algo, melhorar uma resposta ou dar uma

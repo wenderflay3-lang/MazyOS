@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&family=JetBrains+Mono:wght@500;600&display=swap');
+
+:root {
+  --fundo: #0a0c0e;
+  --fundo-alt: #14181d;
+  --fundo-alt-2: #101317;
+  --verde: #22e07a;
+  --vermelho: #e0455a;
+  --texto: #f2f4f6;
+  --borda: rgba(255, 255, 255, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--fundo);
+  color: var(--texto);
+  font-family: 'Inter', sans-serif;
+}
+
+.topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--borda);
+}
+
+.topo h1 {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin: 0;
+}
+
+.marca { color: var(--verde); }
+
+.abas {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.aba {
+  background: var(--fundo-alt);
+  color: var(--texto);
+  border: 1px solid var(--borda);
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-family: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.aba.ativa {
+  background: var(--verde);
+  color: #06130a;
+  border-color: var(--verde);
+}
+
+main {
+  padding: 24px;
+}
+
+.resumo {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--borda);
+}
+
+.badge.verde { background: rgba(34, 224, 122, 0.15); color: var(--verde); }
+.badge.vermelho { background: rgba(224, 69, 90, 0.15); color: var(--vermelho); }
+.badge.neutro { background: var(--fundo-alt); color: var(--texto); }
+
+.sinal-wrap {
+  margin-bottom: 20px;
+}
+
+.sinal-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 28px 32px;
+  border-radius: 16px;
+  border: 2px solid var(--borda);
+}
+
+.sinal-card.entrar {
+  background: rgba(34, 224, 122, 0.12);
+  border-color: var(--verde);
+}
+
+.sinal-card.aguardar {
+  background: var(--fundo-alt);
+  border-color: var(--borda);
+}
+
+.sinal-titulo {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.sinal-card.entrar .sinal-titulo { color: var(--verde); }
+.sinal-card.aguardar .sinal-titulo { color: rgba(242, 244, 246, 0.7); }
+
+.sinal-momento {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.sinal-bloco {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.sinal-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(242, 244, 246, 0.5);
+}
+
+.sinal-minutos {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.sinal-numero {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.sinal-card.entrar .sinal-numero { color: var(--verde); }
+.sinal-card.aguardar .sinal-numero { color: var(--texto); }
+
+.sinal-separador {
+  font-size: 18px;
+  color: rgba(242, 244, 246, 0.5);
+}
+
+.sinal-motivo {
+  font-size: 14px;
+  color: rgba(242, 244, 246, 0.75);
+}
+
+.destaques-wrap {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.destaque-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--borda);
+  background: var(--fundo-alt);
+  min-width: 180px;
+}
+
+.destaque-card.alta { border-color: var(--verde); }
+.destaque-card.alerta { border-color: var(--vermelho); }
+
+.destaque-titulo {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: rgba(242, 244, 246, 0.55);
+}
+
+.destaque-motivo {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.tabela-wrap {
+  background: var(--fundo-alt);
+  border: 1px solid var(--borda);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+
+.tabela-titulo {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(242, 244, 246, 0.5);
+  font-weight: 600;
+  margin: 0 0 12px;
+}
+
+.tabela-scroll {
+  max-height: 520px;
+  overflow-y: auto;
+  overflow-x: auto;
+  border-radius: 8px;
+}
+
+.tabela-horas {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.tabela-horas th {
+  text-align: left;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: rgba(242, 244, 246, 0.5);
+  font-weight: 500;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--borda);
+  position: sticky;
+  top: 0;
+  background: var(--fundo-alt);
+}
+
+.tabela-horas td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--borda);
+  vertical-align: middle;
+}
+
+.tabela-horas tr:last-child td { border-bottom: none; }
+
+.tabela-horas td.hora {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  color: var(--texto);
+  white-space: nowrap;
+}
+
+.tabela-horas td.pct {
+  font-variant-numeric: tabular-nums;
+  color: rgba(242, 244, 246, 0.7);
+  white-space: nowrap;
+}
+
+.slots-linha {
+  display: flex;
+  gap: 3px;
+  flex-wrap: wrap;
+}
+
+.slot-celula {
+  width: 22px;
+  height: 22px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  font-family: 'JetBrains Mono', monospace;
+  flex-shrink: 0;
+}
+
+.slot-celula.green { background: var(--verde); color: #06130a; }
+.slot-celula.red { background: var(--vermelho); color: #250a0e; }
+.slot-celula.futuro,
+.slot-celula.sem_dados {
+  background: var(--fundo-alt-2);
+  border: 1px dashed var(--borda);
+  color: rgba(242, 244, 246, 0.4);
+}
+
+.tabela-legenda {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+  font-size: 12px;
+  color: rgba(242, 244, 246, 0.6);
+}
+
+.tabela-legenda span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tabela-legenda .ponto {
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.tabela-legenda .ponto.verde { background: var(--verde); }
+.tabela-legenda .ponto.vermelho { background: var(--vermelho); }
+.tabela-legenda .ponto.neutro {
+  background: var(--fundo-alt-2);
+  border: 1px dashed var(--borda);
+}

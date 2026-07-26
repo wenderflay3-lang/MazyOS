@@ -1,0 +1,41 @@
+- generic [active] [ref=f6e1]:
+  - banner [ref=f6e2]:
+    - heading "bbtipis .painel" [level=1] [ref=f6e3]
+    - navigation [ref=f6e4]:
+      - button "Express" [ref=f6e5] [cursor=pointer]
+      - button "Copa" [ref=f6e6] [cursor=pointer]
+      - button "Euro" [ref=f6e7] [cursor=pointer]
+      - button "Super" [ref=f6e8] [cursor=pointer]
+      - button "Premier" [ref=f6e9] [cursor=pointer]
+  - main [ref=f6e10]:
+    - generic [ref=f6e11]:
+      - generic [ref=f6e12]: 40.33%
+      - generic [ref=f6e13]: 59.67%
+      - generic [ref=f6e14]: "Gols: 541"
+      - generic [ref=f6e15]: "Média Gols/Hora: 41.62"
+    - generic [ref=f6e17]:
+      - generic [ref=f6e18]: ENTRAR
+      - generic [ref=f6e19]:
+        - generic [ref=f6e20]:
+          - generic [ref=f6e21]: Hora
+          - generic [ref=f6e22]: "22"
+        - generic [ref=f6e23]:
+          - generic [ref=f6e24]: Minuto
+          - generic [ref=f6e25]:
+            - generic [ref=f6e26]: "10"
+            - generic [ref=f6e27]: e
+            - generic [ref=f6e28]: "13"
+      - generic [ref=f6e29]: "Inclinação: subindo (35% → 67%) — sinal forte + Topo (67%) + Segura e solta: 1 gatilho(s) nesta hora"
+    - generic [ref=f6e30]:
+      - generic [ref=f6e31]:
+        - generic [ref=f6e32]: Inclinação
+        - generic [ref=f6e33]: "Inclinação: subindo (35% → 67%) — sinal forte"
+      - generic [ref=f6e34]:
+        - generic [ref=f6e35]: Topo/Fundo
+        - generic [ref=f6e36]: Topo (67%)
+      - generic [ref=f6e37]:
+        - generic [ref=f6e38]: Segura e solta
+        - generic [ref=f6e39]: "Segura e solta: 1 gatilho(s) nesta hora"
+      - generic [ref=f6e40]:
+        - generic [ref=f6e41]: Duas entradas
+        - generic [ref=f6e42]: "Duas entradas: 2/2 pares com ao menos 1 green"

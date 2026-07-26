@@ -1,0 +1,645 @@
+- generic [ref=f6e4]:
+  - navigation [ref=f6e6]:
+    - generic [ref=f6e7]:
+      - link "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza 19/07/2026" [ref=f6e8] [cursor=pointer]:
+        - /url: /inicio
+        - img "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza" [ref=f6e9]
+        - generic [ref=f6e10]: 19/07/2026
+      - button "Toggle navigation menu" [ref=f6e11] [cursor=pointer]
+      - text:                       
+  - generic [ref=f6e13]:
+    - navigation [ref=f6e14] [cursor=pointer]:
+      - listitem [ref=f6e15]: Express
+      - listitem [ref=f6e16]: Copa
+      - listitem [ref=f6e17]: Euro
+      - listitem [ref=f6e18]: Super
+      - listitem [ref=f6e19]: Premier
+      - listitem [ref=f6e20]: Split
+    - main [ref=f6e22]:
+      - generic [ref=f6e23]:
+        - generic [ref=f6e25]:
+          - generic [ref=f6e27]:
+            - generic [ref=f6e29]:
+              - switch "Multi-Filtros" [ref=f6e30]
+              - generic [ref=f6e31]: Multi-Filtros
+            - heading "Filtros" [level=5] [ref=f6e33]:
+              - text: Filtros
+              - generic [ref=f6e34]: 
+          - generic [ref=f6e35]:
+            - generic [ref=f6e36]:
+              - generic [ref=f6e38]:
+                - generic [ref=f6e39]: Gols PAR / IMPAR
+                - button "Selecione" [ref=f6e42] [cursor=pointer]
+              - generic [ref=f6e44]:
+                - generic [ref=f6e45]: Over Gols
+                - button "Over 2.5" [ref=f6e48] [cursor=pointer]
+              - generic [ref=f6e50]:
+                - generic [ref=f6e51]: Under Gols
+                - generic [ref=f6e53]:
+                  - button "Selecione" [expanded] [active] [ref=f6e54] [cursor=pointer]
+                  - generic "Selecione" [ref=f6e940]:
+                    - button "Under 0.5" [ref=f6e942] [cursor=pointer]
+                    - button "Under 1.5" [ref=f6e944] [cursor=pointer]
+                    - button "Under 2.5" [ref=f6e946] [cursor=pointer]
+                    - button "Under 3.5" [ref=f6e948] [cursor=pointer]
+              - generic [ref=f6e56]:
+                - generic [ref=f6e57]: Ambas Marcam
+                - button "Selecione" [ref=f6e60] [cursor=pointer]
+              - generic [ref=f6e62]:
+                - generic [ref=f6e63]: Gols
+                - button "Selecione" [ref=f6e66] [cursor=pointer]
+              - generic [ref=f6e68]:
+                - generic [ref=f6e69]: Casa Marca
+                - button "Selecione" [ref=f6e72] [cursor=pointer]
+            - generic [ref=f6e73]:
+              - generic [ref=f6e75]:
+                - generic [ref=f6e76]: Visitante Marca
+                - button "Selecione" [ref=f6e79] [cursor=pointer]
+              - generic [ref=f6e81]:
+                - generic [ref=f6e82]: Resultado FT
+                - button "Selecione" [ref=f6e85] [cursor=pointer]
+              - generic [ref=f6e87]:
+                - generic [ref=f6e88]: Resultado HT
+                - button "Selecione" [ref=f6e91] [cursor=pointer]
+              - generic [ref=f6e93]:
+                - generic [ref=f6e94]: Viradinha
+                - button "Selecione" [ref=f6e97] [cursor=pointer]
+              - generic [ref=f6e99]:
+                - generic [ref=f6e100]: Cor Green
+                - textbox [ref=f6e103]
+              - generic [ref=f6e105]:
+                - generic [ref=f6e106]: Cor Red
+                - textbox [ref=f6e109]
+            - generic [ref=f6e110]:
+              - generic [ref=f6e112]:
+                - generic [ref=f6e113]: Horas
+                - button "12 Horas" [ref=f6e116] [cursor=pointer]
+              - generic [ref=f6e118]:
+                - generic [ref=f6e119]: Resultado Correto
+                - button "Selecione" [ref=f6e122] [cursor=pointer]
+              - generic [ref=f6e123]:
+                - generic [ref=f6e126]:
+                  - switch "Prox.Odds" [ref=f6e127]
+                  - generic [ref=f6e128]: Prox.Odds
+                - generic [ref=f6e131]:
+                  - switch "Análise Avançada" [ref=f6e132]
+                  - generic [ref=f6e133]: Análise Avançada
+              - generic [ref=f6e134]:
+                - generic [ref=f6e137]:
+                  - switch "Vídeo" [ref=f6e138]
+                  - generic [ref=f6e139]: Vídeo
+                - generic [ref=f6e142]:
+                  - switch "% Linha" [ref=f6e143]
+                  - generic [ref=f6e144]: "% Linha"
+              - generic [ref=f6e145]:
+                - generic [ref=f6e148]:
+                  - switch "Ver Times" [ref=f6e149]
+                  - generic [ref=f6e150]: Ver Times
+                - generic [ref=f6e153]:
+                  - switch "Horas Pagantes" [ref=f6e154]
+                  - generic [ref=f6e155]: Horas Pagantes
+              - generic [ref=f6e158]:
+                - generic [ref=f6e159]:
+                  - generic [ref=f6e160]: "Filtro ODD:"
+                  - generic [ref=f6e164]:
+                    - generic [ref=f6e165]: Selecione um Filtro
+                    - combobox [ref=f6e167]
+                - button "Filtrar" [ref=f6e170] [cursor=pointer]
+            - generic [ref=f6e173]:
+              - generic [ref=f6e174]:
+                - button "Exibir HT" [ref=f6e175] [cursor=pointer]
+                - button "Exibir HT+FT" [ref=f6e176] [cursor=pointer]
+                - button "Filtro + Odd" [ref=f6e177] [cursor=pointer]
+              - generic [ref=f6e178]:
+                - button "Limpar Marcações" [ref=f6e179] [cursor=pointer]
+                - generic [ref=f6e180] [cursor=pointer]:
+                  - generic [ref=f6e181]: 
+                  - generic [ref=f6e182]: 
+                  - generic [ref=f6e183]: 
+                  - generic [ref=f6e184]: 
+              - generic [ref=f6e185]:
+                - button "Tendência" [ref=f6e186] [cursor=pointer]
+                - button "Máximas" [ref=f6e187] [cursor=pointer]
+                - button "Ranking" [ref=f6e188] [cursor=pointer]
+                - button "Confrontos" [ref=f6e189] [cursor=pointer]
+                - button "Horários Fixos" [ref=f6e190] [cursor=pointer]
+                - button "Configurações" [ref=f6e191] [cursor=pointer]:
+                  - generic [ref=f6e192]: 
+        - generic [ref=f6e195]:
+          - text:      
+          - generic [ref=f6e196]:
+            - button "Jogos" [ref=f6e198] [cursor=pointer]
+            - 'heading "35.91% Copa 64.09% Gols: 564 Média Gols Hora: 43.38" [level=3] [ref=f6e200]':
+              - generic [ref=f6e201]: 35.91%
+              - text: Copa
+              - generic [ref=f6e202]: 64.09%
+              - generic [ref=f6e203]: "Gols: 564"
+              - generic [ref=f6e204]: "Média Gols Hora: 43.38"
+          - table [ref=f6e206]:
+            - rowgroup [ref=f6e207]:
+              - row [ref=f6e208]:
+                - columnheader "G %" [ref=f6e209]: G%
+                - columnheader [ref=f6e210]:
+                  - generic [ref=f6e211]:
+                    - text: 20⚽
+                    - separator [ref=f6e212]
+                    - text: 215%
+                - columnheader [ref=f6e213]:
+                  - generic [ref=f6e214]:
+                    - text: 28⚽
+                    - separator [ref=f6e215]
+                    - text: 538%
+                - columnheader [ref=f6e216]:
+                  - generic [ref=f6e217]:
+                    - text: 30⚽
+                    - separator [ref=f6e218]
+                    - text: 646%
+                - columnheader [ref=f6e219]:
+                  - generic [ref=f6e220]:
+                    - text: 27⚽
+                    - separator [ref=f6e221]
+                    - text: 323%
+                - columnheader [ref=f6e222]:
+                  - generic [ref=f6e223]:
+                    - text: 30⚽
+                    - separator [ref=f6e224]
+                    - text: 646%
+                - columnheader [ref=f6e225]:
+                  - generic [ref=f6e226]:
+                    - text: 34⚽
+                    - separator [ref=f6e227]
+                    - text: 646%
+                - columnheader [ref=f6e228]:
+                  - generic [ref=f6e229]:
+                    - text: 24⚽
+                    - separator [ref=f6e230]
+                    - text: 323%
+                - columnheader [ref=f6e231]:
+                  - generic [ref=f6e232]:
+                    - text: 27⚽
+                    - separator [ref=f6e233]
+                    - text: 538%
+                - columnheader [ref=f6e234]:
+                  - generic [ref=f6e235]:
+                    - text: 22⚽
+                    - separator [ref=f6e236]
+                    - text: 215%
+                - columnheader [ref=f6e237]:
+                  - generic [ref=f6e238]:
+                    - text: 24⚽
+                    - separator [ref=f6e239]
+                    - text: 431%
+                - columnheader [ref=f6e240]:
+                  - generic [ref=f6e241]:
+                    - text: 26⚽
+                    - separator [ref=f6e242]
+                    - text: 431%
+                - columnheader [ref=f6e243]:
+                  - generic [ref=f6e244]:
+                    - text: 25⚽
+                    - separator [ref=f6e245]
+                    - text: 323%
+                - columnheader [ref=f6e246]:
+                  - generic [ref=f6e247]:
+                    - text: 35⚽
+                    - separator [ref=f6e248]
+                    - text: 646%
+                - columnheader [ref=f6e249]:
+                  - generic [ref=f6e250]:
+                    - text: 31⚽
+                    - separator [ref=f6e251]
+                    - text: 646%
+                - columnheader [ref=f6e252]:
+                  - generic [ref=f6e253]:
+                    - text: 28⚽
+                    - separator [ref=f6e254]
+                    - text: 431%
+                - columnheader [ref=f6e255]:
+                  - generic [ref=f6e256]:
+                    - text: 33⚽
+                    - separator [ref=f6e257]
+                    - text: 754%
+                - columnheader [ref=f6e258]:
+                  - generic [ref=f6e259]:
+                    - text: 30⚽
+                    - separator [ref=f6e260]
+                    - text: 538%
+                - columnheader [ref=f6e261]:
+                  - generic [ref=f6e262]:
+                    - text: 31⚽
+                    - separator [ref=f6e263]
+                    - text: 754%
+                - columnheader [ref=f6e264]:
+                  - generic [ref=f6e265]:
+                    - text: 34⚽
+                    - separator [ref=f6e266]
+                    - text: 538%
+                - columnheader [ref=f6e267]:
+                  - generic [ref=f6e268]:
+                    - text: 25⚽
+                    - separator [ref=f6e269]
+                    - text: 433%
+                - columnheader "%" [ref=f6e270] [cursor=pointer]
+                - columnheader "G" [ref=f6e271] [cursor=pointer]
+              - row [ref=f6e272]:
+                - columnheader "H" [ref=f6e273]
+                - button "01" [ref=f6e274] [cursor=pointer]
+                - button "04" [ref=f6e275] [cursor=pointer]
+                - button "07" [ref=f6e276] [cursor=pointer]
+                - button "10" [ref=f6e277] [cursor=pointer]
+                - button "13" [ref=f6e278] [cursor=pointer]
+                - button "16" [ref=f6e279] [cursor=pointer]
+                - button "19" [ref=f6e280] [cursor=pointer]
+                - button "22" [ref=f6e281] [cursor=pointer]
+                - button "25" [ref=f6e282] [cursor=pointer]
+                - button "28" [ref=f6e283] [cursor=pointer]
+                - button "31" [ref=f6e284] [cursor=pointer]
+                - button "34" [ref=f6e285] [cursor=pointer]
+                - button "37" [ref=f6e286] [cursor=pointer]
+                - button "40" [ref=f6e287] [cursor=pointer]
+                - button "43" [ref=f6e288] [cursor=pointer]
+                - button "46" [ref=f6e289] [cursor=pointer]
+                - button "49" [ref=f6e290] [cursor=pointer]
+                - button "52" [ref=f6e291] [cursor=pointer]
+                - button "55" [ref=f6e292] [cursor=pointer]
+                - button "58" [ref=f6e293] [cursor=pointer]
+                - columnheader "📈" [ref=f6e294]
+                - columnheader "⚽" [ref=f6e295]
+            - rowgroup [ref=f6e296]:
+              - row [ref=f6e297]:
+                - cell "15" [ref=f6e298]:
+                  - generic [ref=f6e299]:
+                    - checkbox "15" [ref=f6e300]
+                    - generic [ref=f6e301]: "15"
+                - cell "0-0" [ref=f6e302]
+                - cell "1-1" [ref=f6e304]
+                - cell "2-2" [ref=f6e306]
+                - cell "0-2" [ref=f6e308]
+                - cell "2-1" [ref=f6e310]
+                - cell "2-0" [ref=f6e312]
+                - cell "2-1" [ref=f6e314]
+                - cell "0-2" [ref=f6e316]
+                - cell "1-3" [ref=f6e318]
+                - cell "3-0" [ref=f6e320]
+                - cell "0-1" [ref=f6e322]
+                - cell "1-0" [ref=f6e324]
+                - cell "0-1" [ref=f6e326]
+                - cell "2-2" [ref=f6e328]
+                - cell "2-0" [ref=f6e330]
+                - cell "3-1" [ref=f6e332]
+                - cell "0-0" [ref=f6e334]
+                - cell "2-0" [ref=f6e336]
+                - cell "2-0" [ref=f6e338]
+                - cell [ref=f6e340]
+                - cell "37%" [ref=f6e341]
+                - cell "42" [ref=f6e342]
+              - row [ref=f6e343]:
+                - cell "14" [ref=f6e344]:
+                  - generic [ref=f6e345]:
+                    - checkbox "14" [ref=f6e346]
+                    - generic [ref=f6e347]: "14"
+                - cell "0-0" [ref=f6e348]
+                - cell "1-3" [ref=f6e350]
+                - cell "4-1" [ref=f6e352]
+                - cell "3-3" [ref=f6e354]
+                - cell "0-1" [ref=f6e356]
+                - cell "1-0" [ref=f6e358]
+                - cell "0-0" [ref=f6e360]
+                - cell "2-2" [ref=f6e362]
+                - cell "1-1" [ref=f6e364]
+                - cell "0-2" [ref=f6e366]
+                - cell "1-0" [ref=f6e368]
+                - cell "1-1" [ref=f6e370]
+                - cell "3-0" [ref=f6e372]
+                - cell "2-0" [ref=f6e374]
+                - cell "3-2" [ref=f6e376]
+                - cell "0-0" [ref=f6e378]
+                - cell "2-0" [ref=f6e380]
+                - cell "1-0" [ref=f6e382]
+                - cell "3-0" [ref=f6e384]
+                - cell "0-1" [ref=f6e386]
+                - cell "35%" [ref=f6e388]
+                - cell "45" [ref=f6e389]
+              - row [ref=f6e390]:
+                - cell "13" [ref=f6e391]:
+                  - generic [ref=f6e392]:
+                    - checkbox "13" [ref=f6e393]
+                    - generic [ref=f6e394]: "13"
+                - cell "2-0" [ref=f6e395]
+                - cell "0-1" [ref=f6e397]
+                - cell "0-3" [ref=f6e399]
+                - cell "1-1" [ref=f6e401]
+                - cell "0-1" [ref=f6e403]
+                - cell "0-2" [ref=f6e405]
+                - cell "1-0" [ref=f6e407]
+                - cell "0-0" [ref=f6e409]
+                - cell "0-1" [ref=f6e411]
+                - cell "2-1" [ref=f6e413]
+                - cell "1-2" [ref=f6e415]
+                - cell "1-1" [ref=f6e417]
+                - cell "3-0" [ref=f6e419]
+                - cell "1-0" [ref=f6e421]
+                - cell "3-0" [ref=f6e423]
+                - cell "0-1" [ref=f6e425]
+                - cell "0-1" [ref=f6e427]
+                - cell "1-1" [ref=f6e429]
+                - cell "1-1" [ref=f6e431]
+                - cell "1-4" [ref=f6e433]
+                - cell "30%" [ref=f6e435]
+                - cell "39" [ref=f6e436]
+              - row [ref=f6e437]:
+                - cell "12" [ref=f6e438]:
+                  - generic [ref=f6e439]:
+                    - checkbox "12" [ref=f6e440]
+                    - generic [ref=f6e441]: "12"
+                - cell "2-0" [ref=f6e442]
+                - cell "0-2" [ref=f6e444]
+                - cell "2-0" [ref=f6e446]
+                - cell "1-1" [ref=f6e448]
+                - cell "0-0" [ref=f6e450]
+                - cell "0-1" [ref=f6e452]
+                - cell "0-0" [ref=f6e454]
+                - cell "1-1" [ref=f6e456]
+                - cell "1-0" [ref=f6e458]
+                - cell "0-1" [ref=f6e460]
+                - cell "1-1" [ref=f6e462]
+                - cell "1-1" [ref=f6e464]
+                - cell "3-2" [ref=f6e466]
+                - cell "1-2" [ref=f6e468]
+                - cell "0-0" [ref=f6e470]
+                - cell "2-2" [ref=f6e472]
+                - cell "3-2" [ref=f6e474]
+                - cell "1-2" [ref=f6e476]
+                - cell "2-0" [ref=f6e478]
+                - cell "2-1" [ref=f6e480]
+                - cell "30%" [ref=f6e482]
+                - cell "42" [ref=f6e483]
+              - row [ref=f6e484]:
+                - cell "11" [ref=f6e485]:
+                  - generic [ref=f6e486]:
+                    - checkbox "11" [ref=f6e487]
+                    - generic [ref=f6e488]: "11"
+                - cell "1-0" [ref=f6e489]
+                - cell "3-0" [ref=f6e491]
+                - cell "0-2" [ref=f6e493]
+                - cell "2-0" [ref=f6e495]
+                - cell "2-2" [ref=f6e497]
+                - cell "1-2" [ref=f6e499]
+                - cell "2-0" [ref=f6e501]
+                - cell "3-1" [ref=f6e503]
+                - cell "1-1" [ref=f6e505]
+                - cell "1-1" [ref=f6e507]
+                - cell "3-1" [ref=f6e509]
+                - cell "2-0" [ref=f6e511]
+                - cell "2-2" [ref=f6e513]
+                - cell "1-0" [ref=f6e515]
+                - cell "3-0" [ref=f6e517]
+                - cell "3-2" [ref=f6e519]
+                - cell "1-2" [ref=f6e521]
+                - cell "1-0" [ref=f6e523]
+                - cell "2-1" [ref=f6e525]
+                - cell "2-1" [ref=f6e527]
+                - cell "55%" [ref=f6e529]
+                - cell "54" [ref=f6e530]
+              - row [ref=f6e531]:
+                - cell "10" [ref=f6e532]:
+                  - generic [ref=f6e533]:
+                    - checkbox "10" [ref=f6e534]
+                    - generic [ref=f6e535]: "10"
+                - cell "1-1" [ref=f6e536]
+                - cell "0-1" [ref=f6e538]
+                - cell "2-0" [ref=f6e540]
+                - cell "0-0" [ref=f6e542]
+                - cell "1-0" [ref=f6e544]
+                - cell "0-3" [ref=f6e546]
+                - cell "1-0" [ref=f6e548]
+                - cell "1-0" [ref=f6e550]
+                - cell "1-0" [ref=f6e552]
+                - cell "3-1" [ref=f6e554]
+                - cell "3-1" [ref=f6e556]
+                - cell "1-0" [ref=f6e558]
+                - cell "1-0" [ref=f6e560]
+                - cell "0-3" [ref=f6e562]
+                - cell "1-1" [ref=f6e564]
+                - cell "0-2" [ref=f6e566]
+                - cell "2-1" [ref=f6e568]
+                - cell "0-3" [ref=f6e570]
+                - cell "0-0" [ref=f6e572]
+                - cell "1-1" [ref=f6e574]
+                - cell "30%" [ref=f6e576]
+                - cell "37" [ref=f6e577]
+              - row [ref=f6e578]:
+                - cell "09" [ref=f6e579]:
+                  - generic [ref=f6e580]:
+                    - checkbox "09" [ref=f6e581]
+                    - generic [ref=f6e582]: "09"
+                - cell "1-0" [ref=f6e583]
+                - cell "3-0" [ref=f6e585]
+                - cell "3-0" [ref=f6e587]
+                - cell "0-1" [ref=f6e589]
+                - cell "1-1" [ref=f6e591]
+                - cell "0-1" [ref=f6e593]
+                - cell "5-1" [ref=f6e595]
+                - cell "0-3" [ref=f6e597]
+                - cell "0-1" [ref=f6e599]
+                - cell "1-2" [ref=f6e601]
+                - cell "2-0" [ref=f6e603]
+                - cell "1-1" [ref=f6e605]
+                - cell "0-1" [ref=f6e607]
+                - cell "4-0" [ref=f6e609]
+                - cell "0-1" [ref=f6e611]
+                - cell "3-1" [ref=f6e613]
+                - cell "3-1" [ref=f6e615]
+                - cell "2-1" [ref=f6e617]
+                - cell "0-2" [ref=f6e619]
+                - cell "1-1" [ref=f6e621]
+                - cell "45%" [ref=f6e623]
+                - cell "49" [ref=f6e624]
+              - row [ref=f6e625]:
+                - cell "08" [ref=f6e626]:
+                  - generic [ref=f6e627]:
+                    - checkbox "08" [ref=f6e628]
+                    - generic [ref=f6e629]: "08"
+                - cell "0-0" [ref=f6e630]
+                - cell "0-0" [ref=f6e632]
+                - cell "1-0" [ref=f6e634]
+                - cell "2-0" [ref=f6e636]
+                - cell "1-2" [ref=f6e638]
+                - cell "2-1" [ref=f6e640]
+                - cell "1-1" [ref=f6e642]
+                - cell "1-1" [ref=f6e644]
+                - cell "0-1" [ref=f6e646]
+                - cell "1-1" [ref=f6e648]
+                - cell "3-0" [ref=f6e650]
+                - cell "0-2" [ref=f6e652]
+                - cell "5-2" [ref=f6e654]
+                - cell "2-1" [ref=f6e656]
+                - cell "1-0" [ref=f6e658]
+                - cell "2-1" [ref=f6e660]
+                - cell "1-2" [ref=f6e662]
+                - cell "1-2" [ref=f6e664]
+                - cell "1-4" [ref=f6e666]
+                - cell "0-0" [ref=f6e668]
+                - cell "45%" [ref=f6e670]
+                - cell "46" [ref=f6e671]
+              - row [ref=f6e672]:
+                - cell "07" [ref=f6e673]:
+                  - generic [ref=f6e674]:
+                    - checkbox "07" [ref=f6e675]
+                    - generic [ref=f6e676]: "07"
+                - cell "1-2" [ref=f6e677]
+                - cell "2-0" [ref=f6e679]
+                - cell "3-0" [ref=f6e681]
+                - cell "0-3" [ref=f6e683]
+                - cell "1-1" [ref=f6e685]
+                - cell "0-2" [ref=f6e687]
+                - cell "1-2" [ref=f6e689]
+                - cell "0-1" [ref=f6e691]
+                - cell "1-1" [ref=f6e693]
+                - cell "0-0" [ref=f6e695]
+                - cell "1-0" [ref=f6e697]
+                - cell "2-1" [ref=f6e699]
+                - cell "1-1" [ref=f6e701]
+                - cell "0-1" [ref=f6e703]
+                - cell "1-0" [ref=f6e705]
+                - cell "0-1" [ref=f6e707]
+                - cell "0-2" [ref=f6e709]
+                - cell "1-0" [ref=f6e711]
+                - cell "1-1" [ref=f6e713]
+                - cell "1-0" [ref=f6e715]
+                - cell "25%" [ref=f6e717]
+                - cell "36" [ref=f6e718]
+              - row [ref=f6e719]:
+                - cell "06" [ref=f6e720]:
+                  - generic [ref=f6e721]:
+                    - checkbox "06" [ref=f6e722]
+                    - generic [ref=f6e723]: "06"
+                - cell "1-0" [ref=f6e724]
+                - cell "2-2" [ref=f6e726]
+                - cell "0-0" [ref=f6e728]
+                - cell "2-2" [ref=f6e730]
+                - cell "2-1" [ref=f6e732]
+                - cell "1-0" [ref=f6e734]
+                - cell "0-2" [ref=f6e736]
+                - cell "0-2" [ref=f6e738]
+                - cell "1-2" [ref=f6e740]
+                - cell "1-0" [ref=f6e742]
+                - cell "1-0" [ref=f6e744]
+                - cell "1-2" [ref=f6e746]
+                - cell "0-1" [ref=f6e748]
+                - cell "1-1" [ref=f6e750]
+                - cell "1-0" [ref=f6e752]
+                - cell "0-1" [ref=f6e754]
+                - cell "1-1" [ref=f6e756]
+                - cell "1-2" [ref=f6e758]
+                - cell "4-2" [ref=f6e760]
+                - cell "1-0" [ref=f6e762]
+                - cell "35%" [ref=f6e764]
+                - cell "42" [ref=f6e765]
+              - row [ref=f6e766]:
+                - cell "05" [ref=f6e767]:
+                  - generic [ref=f6e768]:
+                    - checkbox "05" [ref=f6e769]
+                    - generic [ref=f6e770]: "05"
+                - cell "1-4" [ref=f6e771]
+                - cell "1-1" [ref=f6e773]
+                - cell "0-2" [ref=f6e775]
+                - cell "1-1" [ref=f6e777]
+                - cell "2-2" [ref=f6e779]
+                - cell "0-5" [ref=f6e781]
+                - cell "1-0" [ref=f6e783]
+                - cell "2-1" [ref=f6e785]
+                - cell "1-1" [ref=f6e787]
+                - cell "0-1" [ref=f6e789]
+                - cell "1-0" [ref=f6e791]
+                - cell "1-0" [ref=f6e793]
+                - cell "1-1" [ref=f6e795]
+                - cell "0-2" [ref=f6e797]
+                - cell "4-3" [ref=f6e799]
+                - cell "1-0" [ref=f6e801]
+                - cell "1-1" [ref=f6e803]
+                - cell "0-0" [ref=f6e805]
+                - cell "2-0" [ref=f6e807]
+                - cell "1-1" [ref=f6e809]
+                - cell "25%" [ref=f6e811]
+                - cell "47" [ref=f6e812]
+              - row [ref=f6e813]:
+                - cell "04" [ref=f6e814]:
+                  - generic [ref=f6e815]:
+                    - checkbox "04" [ref=f6e816]
+                    - generic [ref=f6e817]: "04"
+                - cell "1-0" [ref=f6e818]
+                - cell "2-1" [ref=f6e820]
+                - cell "1-2" [ref=f6e822]
+                - cell "0-1" [ref=f6e824]
+                - cell "2-2" [ref=f6e826]
+                - cell "3-1" [ref=f6e828]
+                - cell "1-0" [ref=f6e830]
+                - cell "0-0" [ref=f6e832]
+                - cell "1-0" [ref=f6e834]
+                - cell "0-0" [ref=f6e836]
+                - cell "1-0" [ref=f6e838]
+                - cell "3-1" [ref=f6e840]
+                - cell "1-1" [ref=f6e842]
+                - cell "1-2" [ref=f6e844]
+                - cell "1-0" [ref=f6e846]
+                - cell "1-3" [ref=f6e848]
+                - cell "1-0" [ref=f6e850]
+                - cell "5-0" [ref=f6e852]
+                - cell "0-0" [ref=f6e854]
+                - cell "0-3" [ref=f6e856]
+                - cell "45%" [ref=f6e858]
+                - cell "42" [ref=f6e859]
+              - row [ref=f6e860]:
+                - cell "03" [ref=f6e861]:
+                  - generic [ref=f6e862]:
+                    - checkbox "03" [ref=f6e863]
+                    - generic [ref=f6e864]: "03"
+                - cell "1-1" [ref=f6e865]
+                - cell "0-1" [ref=f6e867]
+                - cell "0-0" [ref=f6e869]
+                - cell "0-0" [ref=f6e871]
+                - cell "1-1" [ref=f6e873]
+                - cell "5-1" [ref=f6e875]
+                - cell "1-1" [ref=f6e877]
+                - cell "1-2" [ref=f6e879]
+                - cell "0-1" [ref=f6e881]
+                - cell "2-0" [ref=f6e883]
+                - cell "1-1" [ref=f6e885]
+                - cell "0-0" [ref=f6e887]
+                - cell "2-1" [ref=f6e889]
+                - cell "1-1" [ref=f6e891]
+                - cell "1-0" [ref=f6e893]
+                - cell "0-3" [ref=f6e895]
+                - cell "1-1" [ref=f6e897]
+                - cell "3-1" [ref=f6e899]
+                - cell "3-2" [ref=f6e901]
+                - cell "2-0" [ref=f6e903]
+                - cell "30%" [ref=f6e905]
+                - cell "43" [ref=f6e906]
+              - row [ref=f6e907]:
+                - columnheader "H" [ref=f6e908]
+                - columnheader "01" [ref=f6e909]
+                - columnheader "04" [ref=f6e910]
+                - columnheader "07" [ref=f6e911]
+                - columnheader "10" [ref=f6e912]
+                - columnheader "13" [ref=f6e913]
+                - columnheader "16" [ref=f6e914]
+                - columnheader "19" [ref=f6e915]
+                - columnheader "22" [ref=f6e916]
+                - columnheader "25" [ref=f6e917]
+                - columnheader "28" [ref=f6e918]
+                - columnheader "31" [ref=f6e919]
+                - columnheader "34" [ref=f6e920]
+                - columnheader "37" [ref=f6e921]
+                - columnheader "40" [ref=f6e922]
+                - columnheader "43" [ref=f6e923]
+                - columnheader "46" [ref=f6e924]
+                - columnheader "49" [ref=f6e925]
+                - columnheader "52" [ref=f6e926]
+                - columnheader "55" [ref=f6e927]
+                - columnheader "58" [ref=f6e928]
+                - columnheader "%" [ref=f6e929]
+                - columnheader "G" [ref=f6e930]
+          - generic:  
+  - generic [ref=f6e21]: © 2025 BBTIPS - Todos os direitos reservados.

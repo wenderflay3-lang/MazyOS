@@ -24,3 +24,16 @@ node_modules/
 # Drop zone do usuário (só o README vai versionado)
 dados/*
 !dados/README.md
+
+# Credenciais de clientes (nunca versionar)
+clientes/*/acesso.md
+clientes/bbtipis/site/coletor/sessao.json
+clientes/bbtipis/site/coletor/perfil-browser/
+clientes/bbtipis/site/dados/*.json
+clientes/bbtipis/site/node_modules/
+# Evolution API é código de terceiros clonado com seu próprio .git — não versionar
+clientes/bbtipis/site/evolution-api/
+clientes/bbtipis/site/bot-whatsapp/.env
+clientes/bbtipis/site/evolution-api/.env
+clientes/bbtipis/site/*.log
+clientes/bbtipis/qrcode-whatsapp.png

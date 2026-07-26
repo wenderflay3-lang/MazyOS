@@ -1,0 +1,3397 @@
+- generic [ref=f8e4]:
+  - navigation [ref=f8e6]:
+    - generic [ref=f8e7]:
+      - link "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza 19/07/2026" [ref=f8e8] [cursor=pointer]:
+        - /url: /inicio
+        - img "Logo BB Tips, robot na cor preta com olhos vermelhos com capuz nas cores ciza" [ref=f8e9]
+        - generic [ref=f8e10]: 19/07/2026
+      - list [ref=f8e12]:
+        - listitem [ref=f8e13] [cursor=pointer]:
+          - button " Bet365" [ref=f8e14]:
+            - generic [ref=f8e15]:
+              - generic [ref=f8e16]: 
+              - text: Bet365
+              - generic [ref=f8e17]: 
+          - text:    
+        - listitem [ref=f8e18] [cursor=pointer]:
+          - button " Betano" [ref=f8e19]:
+            - generic [ref=f8e20]:
+              - generic [ref=f8e21]: 
+              - text: Betano
+              - generic [ref=f8e22]: 
+          - text: 
+        - listitem [ref=f8e23] [cursor=pointer]:
+          - link " Kiron" [ref=f8e24]:
+            - /url: /playpix/futebol/horarios
+            - generic [ref=f8e25]: 
+            - text: Kiron
+        - listitem [ref=f8e26] [cursor=pointer]:
+          - link " SportingBet" [ref=f8e27]:
+            - /url: /sportingbet/futebol/horarios
+            - generic [ref=f8e28]: 
+            - text: SportingBet
+        - listitem [ref=f8e29] [cursor=pointer]:
+          - button " Aviator" [ref=f8e30]:
+            - generic [ref=f8e31]:
+              - generic [ref=f8e32]: 
+              - text: Aviator
+              - generic [ref=f8e33]: 
+        - listitem [ref=f8e34] [cursor=pointer]:
+          - button " Blaze" [ref=f8e35]:
+            - generic [ref=f8e36]:
+              - generic [ref=f8e37]: 
+              - text: Blaze
+              - generic [ref=f8e38]: 
+        - listitem [ref=f8e39] [cursor=pointer]:
+          - link " Roletas" [ref=f8e40]:
+            - /url: /roletas
+            - generic [ref=f8e41]: 
+            - text: Roletas
+        - listitem [ref=f8e43] [cursor=pointer]:
+          - button " Wender Frias Barbosa Aragao" [ref=f8e44]:
+            - generic [ref=f8e45]:
+              - generic [ref=f8e46]: 
+              - text: Wender Frias Barbosa Aragao
+          - text:      
+  - generic [ref=f8e47]:
+    - navigation [ref=f8e48] [cursor=pointer]:
+      - listitem [ref=f8e49]: Express
+      - listitem [ref=f8e50]: Copa
+      - listitem [ref=f8e51]: Euro
+      - listitem [ref=f8e52]: Super
+      - listitem [ref=f8e53]: Premier
+      - listitem [ref=f8e54]: Split
+    - main [ref=f8e56]:
+      - generic [ref=f8e57]:
+        - generic [ref=f8e59]:
+          - generic [ref=f8e61]:
+            - generic [ref=f8e63]:
+              - switch "Multi-Filtros" [ref=f8e64]
+              - generic [ref=f8e65]: Multi-Filtros
+            - heading "Filtros" [level=5] [ref=f8e67]:
+              - text: Filtros
+              - generic [ref=f8e68]: 
+          - generic [ref=f8e69]:
+            - generic [ref=f8e70]:
+              - generic [ref=f8e72]:
+                - generic [ref=f8e73]: Gols PAR / IMPAR
+                - button "Selecione" [ref=f8e76] [cursor=pointer]
+              - generic [ref=f8e78]:
+                - generic [ref=f8e79]: Over Gols
+                - button "Over 2.5" [ref=f8e82] [cursor=pointer]
+              - generic [ref=f8e84]:
+                - generic [ref=f8e85]: Under Gols
+                - button "Selecione" [ref=f8e88] [cursor=pointer]
+              - generic [ref=f8e90]:
+                - generic [ref=f8e91]: Ambas Marcam
+                - button "Selecione" [ref=f8e94] [cursor=pointer]
+              - generic [ref=f8e96]:
+                - generic [ref=f8e97]: Gols
+                - button "Selecione" [ref=f8e100] [cursor=pointer]
+              - generic [ref=f8e102]:
+                - generic [ref=f8e103]: Casa Marca
+                - button "Selecione" [ref=f8e106] [cursor=pointer]
+            - generic [ref=f8e107]:
+              - generic [ref=f8e109]:
+                - generic [ref=f8e110]: Visitante Marca
+                - button "Selecione" [ref=f8e113] [cursor=pointer]
+              - generic [ref=f8e115]:
+                - generic [ref=f8e116]: Resultado FT
+                - button "Selecione" [ref=f8e119] [cursor=pointer]
+              - generic [ref=f8e121]:
+                - generic [ref=f8e122]: Resultado HT
+                - button "Selecione" [ref=f8e125] [cursor=pointer]
+              - generic [ref=f8e127]:
+                - generic [ref=f8e128]: Viradinha
+                - button "Selecione" [ref=f8e131] [cursor=pointer]
+              - generic [ref=f8e133]:
+                - generic [ref=f8e134]: Cor Green
+                - textbox [ref=f8e137]
+              - generic [ref=f8e139]:
+                - generic [ref=f8e140]: Cor Red
+                - textbox [ref=f8e143]
+            - generic [ref=f8e144]:
+              - generic [ref=f8e146]:
+                - generic [ref=f8e147]: Horas
+                - button "12 Horas" [ref=f8e150] [cursor=pointer]
+              - generic [ref=f8e152]:
+                - generic [ref=f8e153]: Resultado Correto
+                - button "Selecione" [ref=f8e156] [cursor=pointer]
+              - generic [ref=f8e157]:
+                - generic [ref=f8e160]:
+                  - switch "Prox.Odds" [ref=f8e161]
+                  - generic [ref=f8e162]: Prox.Odds
+                - generic [ref=f8e165]:
+                  - switch "Análise Avançada" [ref=f8e166]
+                  - generic [ref=f8e167]: Análise Avançada
+              - generic [ref=f8e168]:
+                - generic [ref=f8e171]:
+                  - switch "Vídeo" [ref=f8e172]
+                  - generic [ref=f8e173]: Vídeo
+                - generic [ref=f8e176]:
+                  - switch "% Linha" [ref=f8e177]
+                  - generic [ref=f8e178]: "% Linha"
+              - generic [ref=f8e179]:
+                - generic [ref=f8e182]:
+                  - switch "Ver Times" [ref=f8e183]
+                  - generic [ref=f8e184]: Ver Times
+                - generic [ref=f8e187]:
+                  - switch "Horas Pagantes" [ref=f8e188]
+                  - generic [ref=f8e189]: Horas Pagantes
+              - generic [ref=f8e192]:
+                - generic [ref=f8e193]:
+                  - generic [ref=f8e194]: "Filtro ODD:"
+                  - generic [ref=f8e197]:
+                    - generic [ref=f8e198]:
+                      - generic [ref=f8e199]:
+                        - generic [ref=f8e200] [cursor=pointer]: ×
+                        - generic [ref=f8e201]: Over 2.5
+                      - combobox [ref=f8e203]
+                    - button "Clear all" [ref=f8e204] [cursor=pointer]:
+                      - generic: ×
+                - button "Filtrar" [ref=f8e207] [cursor=pointer]
+            - generic [ref=f8e210]:
+              - generic [ref=f8e211]:
+                - button "Exibir HT" [ref=f8e212] [cursor=pointer]
+                - button "Exibir HT+FT" [ref=f8e213] [cursor=pointer]
+                - button "Filtro + Odd" [ref=f8e214] [cursor=pointer]
+              - generic [ref=f8e215]:
+                - button "Limpar Marcações" [ref=f8e216] [cursor=pointer]
+                - generic [ref=f8e217] [cursor=pointer]:
+                  - generic [ref=f8e218]: 
+                  - generic [ref=f8e219]: 
+                  - generic [ref=f8e220]: 
+                  - generic [ref=f8e221]: 
+              - generic [ref=f8e222]:
+                - button "Tendência" [ref=f8e223] [cursor=pointer]
+                - button "Máximas" [ref=f8e224] [cursor=pointer]
+                - button "Ranking" [ref=f8e225] [cursor=pointer]
+                - button "Confrontos" [ref=f8e226] [cursor=pointer]
+                - button "Horários Fixos" [ref=f8e227] [cursor=pointer]
+                - button "Configurações" [ref=f8e228] [cursor=pointer]:
+                  - generic [ref=f8e229]: 
+        - generic [ref=f8e232]:
+          - text:      
+          - generic [ref=f8e233]:
+            - button "Jogos" [ref=f8e235] [cursor=pointer]
+            - 'heading "39.59% Sul-Americana 60.41% Gols: 574 Média Gols Hora: 44.15" [level=3] [ref=f8e1199]':
+              - generic [ref=f8e238]: 39.59%
+              - text: Sul-Americana
+              - generic [ref=f8e239]: 60.41%
+              - generic [ref=f8e240]: "Gols: 574"
+              - generic [ref=f8e241]: "Média Gols Hora: 44.15"
+          - table [ref=f8e243]:
+            - rowgroup [ref=f8e244]:
+              - row [ref=f8e1200]:
+                - columnheader "G %" [ref=f8e246]: G%
+                - columnheader [ref=f8e1201]:
+                  - generic [ref=f8e1202]:
+                    - text: 27⚽
+                    - separator [ref=f8e1203]
+                    - text: 431%
+                - columnheader [ref=f8e1204]:
+                  - generic [ref=f8e1205]:
+                    - text: 28⚽
+                    - separator [ref=f8e1206]
+                    - text: 538%
+                - columnheader [ref=f8e1207]:
+                  - generic [ref=f8e1208]:
+                    - text: 40⚽
+                    - separator [ref=f8e1209]
+                    - text: 862%
+                - columnheader [ref=f8e1210]:
+                  - generic [ref=f8e1211]:
+                    - text: 29⚽
+                    - separator [ref=f8e1212]
+                    - text: 431%
+                - columnheader [ref=f8e1213]:
+                  - generic [ref=f8e1214]:
+                    - text: 31⚽
+                    - separator [ref=f8e1215]
+                    - text: 538%
+                - columnheader [ref=f8e1216]:
+                  - generic [ref=f8e1217]:
+                    - text: 37⚽
+                    - separator [ref=f8e1218]
+                    - text: 758%
+                - columnheader [ref=f8e1219]:
+                  - generic [ref=f8e1220]:
+                    - text: 38⚽
+                    - separator [ref=f8e1221]
+                    - text: 975%
+                - columnheader [ref=f8e1222]:
+                  - generic [ref=f8e1223]:
+                    - text: 25⚽
+                    - separator [ref=f8e1224]
+                    - text: 325%
+                - columnheader [ref=f8e1225]:
+                  - generic [ref=f8e1226]:
+                    - text: 28⚽
+                    - separator [ref=f8e1227]
+                    - text: 542%
+                - columnheader [ref=f8e1228]:
+                  - generic [ref=f8e1229]:
+                    - text: 31⚽
+                    - separator [ref=f8e1230]
+                    - text: 433%
+                - columnheader [ref=f8e1231]:
+                  - generic [ref=f8e1232]:
+                    - text: 26⚽
+                    - separator [ref=f8e1233]
+                    - text: 542%
+                - columnheader [ref=f8e1234]:
+                  - generic [ref=f8e1235]:
+                    - text: 31⚽
+                    - separator [ref=f8e1236]
+                    - text: 650%
+                - columnheader [ref=f8e1237]:
+                  - generic [ref=f8e1238]:
+                    - text: 26⚽
+                    - separator [ref=f8e1239]
+                    - text: 433%
+                - columnheader [ref=f8e1240]:
+                  - generic [ref=f8e1241]:
+                    - text: 28⚽
+                    - separator [ref=f8e1242]
+                    - text: 433%
+                - columnheader [ref=f8e1243]:
+                  - generic [ref=f8e1244]:
+                    - text: 26⚽
+                    - separator [ref=f8e1245]
+                    - text: 325%
+                - columnheader [ref=f8e1246]:
+                  - generic [ref=f8e1247]:
+                    - text: 28⚽
+                    - separator [ref=f8e1248]
+                    - text: 542%
+                - columnheader [ref=f8e1249]:
+                  - generic [ref=f8e1250]:
+                    - text: 19⚽
+                    - separator [ref=f8e1251]
+                    - text: 325%
+                - columnheader [ref=f8e1252]:
+                  - generic [ref=f8e1253]:
+                    - text: 20⚽
+                    - separator [ref=f8e1254]
+                    - text: 325%
+                - columnheader [ref=f8e1255]:
+                  - generic [ref=f8e1256]:
+                    - text: 23⚽
+                    - separator [ref=f8e1257]
+                    - text: 433%
+                - columnheader [ref=f8e1258]:
+                  - generic [ref=f8e1259]:
+                    - text: 33⚽
+                    - separator [ref=f8e1260]
+                    - text: 650%
+                - columnheader "%" [ref=f8e307] [cursor=pointer]
+                - columnheader "G" [ref=f8e308] [cursor=pointer]
+              - row [ref=f8e309]:
+                - columnheader "H" [ref=f8e310]
+                - button "01" [ref=f8e1261] [cursor=pointer]
+                - button "04" [ref=f8e1262] [cursor=pointer]
+                - button "07" [ref=f8e1263] [cursor=pointer]
+                - button "10" [ref=f8e1264] [cursor=pointer]
+                - button "13" [ref=f8e1265] [cursor=pointer]
+                - button "16" [ref=f8e1266] [cursor=pointer]
+                - button "19" [ref=f8e1267] [cursor=pointer]
+                - button "22" [ref=f8e1268] [cursor=pointer]
+                - button "25" [ref=f8e1269] [cursor=pointer]
+                - button "28" [ref=f8e1270] [cursor=pointer]
+                - button "31" [ref=f8e1271] [cursor=pointer]
+                - button "34" [ref=f8e1272] [cursor=pointer]
+                - button "37" [ref=f8e1273] [cursor=pointer]
+                - button "40" [ref=f8e1274] [cursor=pointer]
+                - button "43" [ref=f8e1275] [cursor=pointer]
+                - button "46" [ref=f8e1276] [cursor=pointer]
+                - button "49" [ref=f8e1277] [cursor=pointer]
+                - button "52" [ref=f8e1278] [cursor=pointer]
+                - button "55" [ref=f8e1279] [cursor=pointer]
+                - button "58" [ref=f8e1280] [cursor=pointer]
+                - columnheader "📈" [ref=f8e331]
+                - columnheader "⚽" [ref=f8e332]
+            - rowgroup [ref=f8e333]:
+              - row [ref=f8e1281]:
+                - cell "16" [ref=f8e1282]:
+                  - generic [ref=f8e1283]:
+                    - checkbox "16" [ref=f8e1284]
+                    - generic [ref=f8e1285]: "16"
+                - cell "0-0 @2.20" [ref=f8e1286]:
+                  - generic [ref=f8e1287]: 0-0
+                  - generic [ref=f8e1288]: "@2.20"
+                - cell "1-1 @2.07" [ref=f8e1289]:
+                  - generic [ref=f8e1290]: 1-1
+                  - generic [ref=f8e1291]: "@2.07"
+                - cell "3-1 @2.25" [ref=f8e1292]:
+                  - generic [ref=f8e1293]: 3-1
+                  - generic [ref=f8e1294]: "@2.25"
+                - cell "0-1 @2.02" [ref=f8e1295]:
+                  - generic [ref=f8e1296]: 0-1
+                  - generic [ref=f8e1297]: "@2.02"
+                - cell "0-1 @2.50" [ref=f8e1298]:
+                  - generic [ref=f8e1299]: 0-1
+                  - generic [ref=f8e1300]: "@2.50"
+                - cell [ref=f8e1301]
+                - cell [ref=f8e1302]
+                - cell [ref=f8e1303]
+                - cell [ref=f8e1304]
+                - cell [ref=f8e1305]
+                - cell [ref=f8e1306]
+                - cell [ref=f8e1307]
+                - cell [ref=f8e1308]
+                - cell [ref=f8e1309]
+                - cell [ref=f8e1310]
+                - cell [ref=f8e1311]
+                - cell [ref=f8e1312]
+                - cell [ref=f8e1313]
+                - cell [ref=f8e1314]
+                - cell [ref=f8e1315]
+                - cell "20%" [ref=f8e1316]
+                - cell "8" [ref=f8e1317]
+              - row [ref=f8e1318]:
+                - cell "15" [ref=f8e1319]:
+                  - generic [ref=f8e1320]:
+                    - checkbox "15" [ref=f8e1321]
+                    - generic [ref=f8e1322]: "15"
+                - cell "2-0 @2.25" [ref=f8e1323]:
+                  - generic [ref=f8e1324]: 2-0
+                  - generic [ref=f8e1325]: "@2.25"
+                - cell "1-2 @1.95" [ref=f8e1326]:
+                  - generic [ref=f8e1327]: 1-2
+                  - generic [ref=f8e1328]: "@1.95"
+                - cell "1-4 @2.55" [ref=f8e1329]:
+                  - generic [ref=f8e1330]: 1-4
+                  - generic [ref=f8e1331]: "@2.55"
+                - cell "3-1 @2.40" [ref=f8e1332]:
+                  - generic [ref=f8e1333]: 3-1
+                  - generic [ref=f8e1334]: "@2.40"
+                - cell "1-1 @2.07" [ref=f8e1335]:
+                  - generic [ref=f8e1336]: 1-1
+                  - generic [ref=f8e1337]: "@2.07"
+                - cell "4-2 @2.75" [ref=f8e1338]:
+                  - generic [ref=f8e1339]: 4-2
+                  - generic [ref=f8e1340]: "@2.75"
+                - cell "2-1 @2.55" [ref=f8e1341]:
+                  - generic [ref=f8e1342]: 2-1
+                  - generic [ref=f8e1343]: "@2.55"
+                - cell "1-1 @2.60" [ref=f8e1344]:
+                  - generic [ref=f8e1345]: 1-1
+                  - generic [ref=f8e1346]: "@2.60"
+                - cell "3-0 @2.20" [ref=f8e1347]:
+                  - generic [ref=f8e1348]: 3-0
+                  - generic [ref=f8e1349]: "@2.20"
+                - cell "0-2 @1.98" [ref=f8e1350]:
+                  - generic [ref=f8e1351]: 0-2
+                  - generic [ref=f8e1352]: "@1.98"
+                - cell "2-1 @2.30" [ref=f8e1353]:
+                  - generic [ref=f8e1354]: 2-1
+                  - generic [ref=f8e1355]: "@2.30"
+                - cell "3-3 @2.15" [ref=f8e1356]:
+                  - generic [ref=f8e1357]: 3-3
+                  - generic [ref=f8e1358]: "@2.15"
+                - cell "0-2 @2.40" [ref=f8e1359]:
+                  - generic [ref=f8e1360]: 0-2
+                  - generic [ref=f8e1361]: "@2.40"
+                - cell "2-0 @2.30" [ref=f8e1362]:
+                  - generic [ref=f8e1363]: 2-0
+                  - generic [ref=f8e1364]: "@2.30"
+                - cell "1-1 @2.35" [ref=f8e1365]:
+                  - generic [ref=f8e1366]: 1-1
+                  - generic [ref=f8e1367]: "@2.35"
+                - cell "1-0 @2.75" [ref=f8e1368]:
+                  - generic [ref=f8e1369]: 1-0
+                  - generic [ref=f8e1370]: "@2.75"
+                - cell "0-0 @2.07" [ref=f8e1371]:
+                  - generic [ref=f8e1372]: 0-0
+                  - generic [ref=f8e1373]: "@2.07"
+                - cell "0-2 @2.60" [ref=f8e1374]:
+                  - generic [ref=f8e1375]: 0-2
+                  - generic [ref=f8e1376]: "@2.60"
+                - cell "1-1 @2.25" [ref=f8e1377]:
+                  - generic [ref=f8e1378]: 1-1
+                  - generic [ref=f8e1379]: "@2.25"
+                - cell "0-0 @2.30" [ref=f8e1380]:
+                  - generic [ref=f8e1381]: 0-0
+                  - generic [ref=f8e1382]: "@2.30"
+                - cell "40%" [ref=f8e1383]
+                - cell "52" [ref=f8e1384]
+              - row [ref=f8e1385]:
+                - cell "14" [ref=f8e1386]:
+                  - generic [ref=f8e1387]:
+                    - checkbox "14" [ref=f8e1388]
+                    - generic [ref=f8e1389]: "14"
+                - cell "3-2 @2.15" [ref=f8e1390]:
+                  - generic [ref=f8e1391]: 3-2
+                  - generic [ref=f8e1392]: "@2.15"
+                - cell "0-1 @2.45" [ref=f8e1393]:
+                  - generic [ref=f8e1394]: 0-1
+                  - generic [ref=f8e1395]: "@2.45"
+                - cell "1-0 @2.40" [ref=f8e1396]:
+                  - generic [ref=f8e1397]: 1-0
+                  - generic [ref=f8e1398]: "@2.40"
+                - cell "1-0 @2.75" [ref=f8e1399]:
+                  - generic [ref=f8e1400]: 1-0
+                  - generic [ref=f8e1401]: "@2.75"
+                - cell "2-1 @2.45" [ref=f8e1402]:
+                  - generic [ref=f8e1403]: 2-1
+                  - generic [ref=f8e1404]: "@2.45"
+                - cell "1-1 @2.35" [ref=f8e1405]:
+                  - generic [ref=f8e1406]: 1-1
+                  - generic [ref=f8e1407]: "@2.35"
+                - cell "1-0 @2.30" [ref=f8e1408]:
+                  - generic [ref=f8e1409]: 1-0
+                  - generic [ref=f8e1410]: "@2.30"
+                - cell "1-3 @2.20" [ref=f8e1411]:
+                  - generic [ref=f8e1412]: 1-3
+                  - generic [ref=f8e1413]: "@2.20"
+                - cell "0-2 @2.10" [ref=f8e1414]:
+                  - generic [ref=f8e1415]: 0-2
+                  - generic [ref=f8e1416]: "@2.10"
+                - cell "0-1 @2.50" [ref=f8e1417]:
+                  - generic [ref=f8e1418]: 0-1
+                  - generic [ref=f8e1419]: "@2.50"
+                - cell "1-2 @2.55" [ref=f8e1420]:
+                  - generic [ref=f8e1421]: 1-2
+                  - generic [ref=f8e1422]: "@2.55"
+                - cell "0-0 @2.40" [ref=f8e1423]:
+                  - generic [ref=f8e1424]: 0-0
+                  - generic [ref=f8e1425]: "@2.40"
+                - cell "1-1 @2.40" [ref=f8e1426]:
+                  - generic [ref=f8e1427]: 1-1
+                  - generic [ref=f8e1428]: "@2.40"
+                - cell "1-1 @2.30" [ref=f8e1429]:
+                  - generic [ref=f8e1430]: 1-1
+                  - generic [ref=f8e1431]: "@2.30"
+                - cell "5+-0 @2.20" [ref=f8e1432]:
+                  - generic [ref=f8e1433]: 5+-0
+                  - generic [ref=f8e1434]: "@2.20"
+                - cell "0-2 @2.15" [ref=f8e1435]:
+                  - generic [ref=f8e1436]: 0-2
+                  - generic [ref=f8e1437]: "@2.15"
+                - cell "2-1 @2.30" [ref=f8e1438]:
+                  - generic [ref=f8e1439]: 2-1
+                  - generic [ref=f8e1440]: "@2.30"
+                - cell "0-1 @3.00" [ref=f8e1441]:
+                  - generic [ref=f8e1442]: 0-1
+                  - generic [ref=f8e1443]: "@3.00"
+                - cell "2-0 @2.20" [ref=f8e1444]:
+                  - generic [ref=f8e1445]: 2-0
+                  - generic [ref=f8e1446]: "@2.20"
+                - cell "0-1 @2.25" [ref=f8e1447]:
+                  - generic [ref=f8e1448]: 0-1
+                  - generic [ref=f8e1449]: "@2.25"
+                - cell "30%" [ref=f8e1450]
+                - cell "42" [ref=f8e1451]
+              - row [ref=f8e1452]:
+                - cell "13" [ref=f8e1453]:
+                  - generic [ref=f8e1454]:
+                    - checkbox "13" [ref=f8e1455]
+                    - generic [ref=f8e1456]: "13"
+                - cell "1-1 @2.20" [ref=f8e1457]:
+                  - generic [ref=f8e1458]: 1-1
+                  - generic [ref=f8e1459]: "@2.20"
+                - cell "3-0 @2.00" [ref=f8e1460]:
+                  - generic [ref=f8e1461]: 3-0
+                  - generic [ref=f8e1462]: "@2.00"
+                - cell "1-1 @2.05" [ref=f8e1463]:
+                  - generic [ref=f8e1464]: 1-1
+                  - generic [ref=f8e1465]: "@2.05"
+                - cell "1-0 @2.40" [ref=f8e1466]:
+                  - generic [ref=f8e1467]: 1-0
+                  - generic [ref=f8e1468]: "@2.40"
+                - cell "1-0 @2.25" [ref=f8e1469]:
+                  - generic [ref=f8e1470]: 1-0
+                  - generic [ref=f8e1471]: "@2.25"
+                - cell "3-1 @2.45" [ref=f8e1472]:
+                  - generic [ref=f8e1473]: 3-1
+                  - generic [ref=f8e1474]: "@2.45"
+                - cell "2-1 @2.40" [ref=f8e1475]:
+                  - generic [ref=f8e1476]: 2-1
+                  - generic [ref=f8e1477]: "@2.40"
+                - cell "1-1 @2.20" [ref=f8e1478]:
+                  - generic [ref=f8e1479]: 1-1
+                  - generic [ref=f8e1480]: "@2.20"
+                - cell "0-0 @2.20" [ref=f8e1481]:
+                  - generic [ref=f8e1482]: 0-0
+                  - generic [ref=f8e1483]: "@2.20"
+                - cell "1-1 @2.25" [ref=f8e1484]:
+                  - generic [ref=f8e1485]: 1-1
+                  - generic [ref=f8e1486]: "@2.25"
+                - cell "1-2 @2.62" [ref=f8e1487]:
+                  - generic [ref=f8e1488]: 1-2
+                  - generic [ref=f8e1489]: "@2.62"
+                - cell "0-0 @1.95" [ref=f8e1490]:
+                  - generic [ref=f8e1491]: 0-0
+                  - generic [ref=f8e1492]: "@1.95"
+                - cell "0-0 @2.20" [ref=f8e1493]:
+                  - generic [ref=f8e1494]: 0-0
+                  - generic [ref=f8e1495]: "@2.20"
+                - cell "0-0 @2.15" [ref=f8e1496]:
+                  - generic [ref=f8e1497]: 0-0
+                  - generic [ref=f8e1498]: "@2.15"
+                - cell "0-3 @2.55" [ref=f8e1499]:
+                  - generic [ref=f8e1500]: 0-3
+                  - generic [ref=f8e1501]: "@2.55"
+                - cell "3-1 @2.50" [ref=f8e1502]:
+                  - generic [ref=f8e1503]: 3-1
+                  - generic [ref=f8e1504]: "@2.50"
+                - cell "1-1 @2.15" [ref=f8e1505]:
+                  - generic [ref=f8e1506]: 1-1
+                  - generic [ref=f8e1507]: "@2.15"
+                - cell "2-0 @2.20" [ref=f8e1508]:
+                  - generic [ref=f8e1509]: 2-0
+                  - generic [ref=f8e1510]: "@2.20"
+                - cell "2-1 @2.15" [ref=f8e1511]:
+                  - generic [ref=f8e1512]: 2-1
+                  - generic [ref=f8e1513]: "@2.15"
+                - cell "2-0 @2.15" [ref=f8e1514]:
+                  - generic [ref=f8e1515]: 2-0
+                  - generic [ref=f8e1516]: "@2.15"
+                - cell "35%" [ref=f8e1517]
+                - cell "39" [ref=f8e1518]
+              - row [ref=f8e1519]:
+                - cell "12" [ref=f8e1520]:
+                  - generic [ref=f8e1521]:
+                    - checkbox "12" [ref=f8e1522]
+                    - generic [ref=f8e1523]: "12"
+                - cell "0-0 @2.70" [ref=f8e1524]:
+                  - generic [ref=f8e1525]: 0-0
+                  - generic [ref=f8e1526]: "@2.70"
+                - cell "0-0 @2.10" [ref=f8e1527]:
+                  - generic [ref=f8e1528]: 0-0
+                  - generic [ref=f8e1529]: "@2.10"
+                - cell "2-1 @2.45" [ref=f8e1530]:
+                  - generic [ref=f8e1531]: 2-1
+                  - generic [ref=f8e1532]: "@2.45"
+                - cell "1-0 @2.40" [ref=f8e1533]:
+                  - generic [ref=f8e1534]: 1-0
+                  - generic [ref=f8e1535]: "@2.40"
+                - cell "0-2 @2.40" [ref=f8e1536]:
+                  - generic [ref=f8e1537]: 0-2
+                  - generic [ref=f8e1538]: "@2.40"
+                - cell "2-1 @2.30" [ref=f8e1539]:
+                  - generic [ref=f8e1540]: 2-1
+                  - generic [ref=f8e1541]: "@2.30"
+                - cell "2-3 @2.30" [ref=f8e1542]:
+                  - generic [ref=f8e1543]: 2-3
+                  - generic [ref=f8e1544]: "@2.30"
+                - cell "0-0 @2.60" [ref=f8e1545]:
+                  - generic [ref=f8e1546]: 0-0
+                  - generic [ref=f8e1547]: "@2.60"
+                - cell "3-0 @2.40" [ref=f8e1548]:
+                  - generic [ref=f8e1549]: 3-0
+                  - generic [ref=f8e1550]: "@2.40"
+                - cell "1-1 @2.40" [ref=f8e1551]:
+                  - generic [ref=f8e1552]: 1-1
+                  - generic [ref=f8e1553]: "@2.40"
+                - cell "1-1 @2.55" [ref=f8e1554]:
+                  - generic [ref=f8e1555]: 1-1
+                  - generic [ref=f8e1556]: "@2.55"
+                - cell "1-0 @2.25" [ref=f8e1557]:
+                  - generic [ref=f8e1558]: 1-0
+                  - generic [ref=f8e1559]: "@2.25"
+                - cell "0-2 @2.10" [ref=f8e1560]:
+                  - generic [ref=f8e1561]: 0-2
+                  - generic [ref=f8e1562]: "@2.10"
+                - cell "5+-3 @2.20" [ref=f8e1563]:
+                  - generic [ref=f8e1564]: 5+-3
+                  - generic [ref=f8e1565]: "@2.20"
+                - cell "1-1 @2.75" [ref=f8e1566]:
+                  - generic [ref=f8e1567]: 1-1
+                  - generic [ref=f8e1568]: "@2.75"
+                - cell "1-2 @2.20" [ref=f8e1569]:
+                  - generic [ref=f8e1570]: 1-2
+                  - generic [ref=f8e1571]: "@2.20"
+                - cell "0-0 @2.62" [ref=f8e1572]:
+                  - generic [ref=f8e1573]: 0-0
+                  - generic [ref=f8e1574]: "@2.62"
+                - cell "1-1 @2.02" [ref=f8e1575]:
+                  - generic [ref=f8e1576]: 1-1
+                  - generic [ref=f8e1577]: "@2.02"
+                - cell "0-3 @2.25" [ref=f8e1578]:
+                  - generic [ref=f8e1579]: 0-3
+                  - generic [ref=f8e1580]: "@2.25"
+                - cell "2-1 @3.00" [ref=f8e1581]:
+                  - generic [ref=f8e1582]: 2-1
+                  - generic [ref=f8e1583]: "@3.00"
+                - cell "40%" [ref=f8e1584]
+                - cell "45" [ref=f8e1585]
+              - row [ref=f8e1586]:
+                - cell "11" [ref=f8e1587]:
+                  - generic [ref=f8e1588]:
+                    - checkbox "11" [ref=f8e1589]
+                    - generic [ref=f8e1590]: "11"
+                - cell "1-2 @2.00" [ref=f8e1591]:
+                  - generic [ref=f8e1592]: 1-2
+                  - generic [ref=f8e1593]: "@2.00"
+                - cell "1-2 @2.20" [ref=f8e1594]:
+                  - generic [ref=f8e1595]: 1-2
+                  - generic [ref=f8e1596]: "@2.20"
+                - cell "2-2 @2.25" [ref=f8e1597]:
+                  - generic [ref=f8e1598]: 2-2
+                  - generic [ref=f8e1599]: "@2.25"
+                - cell "0-2 @2.40" [ref=f8e1600]:
+                  - generic [ref=f8e1601]: 0-2
+                  - generic [ref=f8e1602]: "@2.40"
+                - cell "0-1 @2.40" [ref=f8e1603]:
+                  - generic [ref=f8e1604]: 0-1
+                  - generic [ref=f8e1605]: "@2.40"
+                - cell "2-0 @1.98" [ref=f8e1606]:
+                  - generic [ref=f8e1607]: 2-0
+                  - generic [ref=f8e1608]: "@1.98"
+                - cell "0-3 @2.10" [ref=f8e1609]:
+                  - generic [ref=f8e1610]: 0-3
+                  - generic [ref=f8e1611]: "@2.10"
+                - cell "0-0 @2.30" [ref=f8e1612]:
+                  - generic [ref=f8e1613]: 0-0
+                  - generic [ref=f8e1614]: "@2.30"
+                - cell "1-1 @1.95" [ref=f8e1615]:
+                  - generic [ref=f8e1616]: 1-1
+                  - generic [ref=f8e1617]: "@1.95"
+                - cell "4-0 @2.05" [ref=f8e1618]:
+                  - generic [ref=f8e1619]: 4-0
+                  - generic [ref=f8e1620]: "@2.05"
+                - cell "1-1 @2.30" [ref=f8e1621]:
+                  - generic [ref=f8e1622]: 1-1
+                  - generic [ref=f8e1623]: "@2.30"
+                - cell "1-1 @2.55" [ref=f8e1624]:
+                  - generic [ref=f8e1625]: 1-1
+                  - generic [ref=f8e1626]: "@2.55"
+                - cell "0-0 @2.30" [ref=f8e1627]:
+                  - generic [ref=f8e1628]: 0-0
+                  - generic [ref=f8e1629]: "@2.30"
+                - cell "5+-2 @2.25" [ref=f8e1630]:
+                  - generic [ref=f8e1631]: 5+-2
+                  - generic [ref=f8e1632]: "@2.25"
+                - cell "2-0 @2.15" [ref=f8e1633]:
+                  - generic [ref=f8e1634]: 2-0
+                  - generic [ref=f8e1635]: "@2.15"
+                - cell "1-0 @2.75" [ref=f8e1636]:
+                  - generic [ref=f8e1637]: 1-0
+                  - generic [ref=f8e1638]: "@2.75"
+                - cell "1-2 @1.98" [ref=f8e1639]:
+                  - generic [ref=f8e1640]: 1-2
+                  - generic [ref=f8e1641]: "@1.98"
+                - cell "2-1 @2.40" [ref=f8e1642]:
+                  - generic [ref=f8e1643]: 2-1
+                  - generic [ref=f8e1644]: "@2.40"
+                - cell "1-3 @2.30" [ref=f8e1645]:
+                  - generic [ref=f8e1646]: 1-3
+                  - generic [ref=f8e1647]: "@2.30"
+                - cell "1-1 @2.55" [ref=f8e1648]:
+                  - generic [ref=f8e1649]: 1-1
+                  - generic [ref=f8e1650]: "@2.55"
+                - cell "45%" [ref=f8e1651]
+                - cell "50" [ref=f8e1652]
+              - row [ref=f8e1653]:
+                - cell "10" [ref=f8e1654]:
+                  - generic [ref=f8e1655]:
+                    - checkbox "10" [ref=f8e1656]
+                    - generic [ref=f8e1657]: "10"
+                - cell "2-0 @2.40" [ref=f8e1658]:
+                  - generic [ref=f8e1659]: 2-0
+                  - generic [ref=f8e1660]: "@2.40"
+                - cell "3-0 @2.20" [ref=f8e1661]:
+                  - generic [ref=f8e1662]: 3-0
+                  - generic [ref=f8e1663]: "@2.20"
+                - cell "2-0 @2.20" [ref=f8e1664]:
+                  - generic [ref=f8e1665]: 2-0
+                  - generic [ref=f8e1666]: "@2.20"
+                - cell "2-0 @2.30" [ref=f8e1667]:
+                  - generic [ref=f8e1668]: 2-0
+                  - generic [ref=f8e1669]: "@2.30"
+                - cell "0-2 @2.30" [ref=f8e1670]:
+                  - generic [ref=f8e1671]: 0-2
+                  - generic [ref=f8e1672]: "@2.30"
+                - cell "0-0 @2.15" [ref=f8e1673]:
+                  - generic [ref=f8e1674]: 0-0
+                  - generic [ref=f8e1675]: "@2.15"
+                - cell "4-1 @2.37" [ref=f8e1676]:
+                  - generic [ref=f8e1677]: 4-1
+                  - generic [ref=f8e1678]: "@2.37"
+                - cell "1-1 @1.98" [ref=f8e1679]:
+                  - generic [ref=f8e1680]: 1-1
+                  - generic [ref=f8e1681]: "@1.98"
+                - cell "1-1 @2.75" [ref=f8e1682]:
+                  - generic [ref=f8e1683]: 1-1
+                  - generic [ref=f8e1684]: "@2.75"
+                - cell "2-1 @2.20" [ref=f8e1685]:
+                  - generic [ref=f8e1686]: 2-1
+                  - generic [ref=f8e1687]: "@2.20"
+                - cell "1-0 @2.20" [ref=f8e1688]:
+                  - generic [ref=f8e1689]: 1-0
+                  - generic [ref=f8e1690]: "@2.20"
+                - cell "2-1 @2.20" [ref=f8e1691]:
+                  - generic [ref=f8e1692]: 2-1
+                  - generic [ref=f8e1693]: "@2.20"
+                - cell "1-3 @2.30" [ref=f8e1694]:
+                  - generic [ref=f8e1695]: 1-3
+                  - generic [ref=f8e1696]: "@2.30"
+                - cell "0-0 @2.35" [ref=f8e1697]:
+                  - generic [ref=f8e1698]: 0-0
+                  - generic [ref=f8e1699]: "@2.35"
+                - cell "1-1 @2.20" [ref=f8e1700]:
+                  - generic [ref=f8e1701]: 1-1
+                  - generic [ref=f8e1702]: "@2.20"
+                - cell "1-0 @2.15" [ref=f8e1703]:
+                  - generic [ref=f8e1704]: 1-0
+                  - generic [ref=f8e1705]: "@2.15"
+                - cell "0-0 @2.35" [ref=f8e1706]:
+                  - generic [ref=f8e1707]: 0-0
+                  - generic [ref=f8e1708]: "@2.35"
+                - cell "2-1 @2.45" [ref=f8e1709]:
+                  - generic [ref=f8e1710]: 2-1
+                  - generic [ref=f8e1711]: "@2.45"
+                - cell "0-0 @2.30" [ref=f8e1712]:
+                  - generic [ref=f8e1713]: 0-0
+                  - generic [ref=f8e1714]: "@2.30"
+                - cell "0-2 @2.75" [ref=f8e1715]:
+                  - generic [ref=f8e1716]: 0-2
+                  - generic [ref=f8e1717]: "@2.75"
+                - cell "30%" [ref=f8e1718]
+                - cell "39" [ref=f8e1719]
+              - row [ref=f8e1720]:
+                - cell "09" [ref=f8e1721]:
+                  - generic [ref=f8e1722]:
+                    - checkbox "09" [ref=f8e1723]
+                    - generic [ref=f8e1724]: "09"
+                - cell "2-1 @2.20" [ref=f8e1725]:
+                  - generic [ref=f8e1726]: 2-1
+                  - generic [ref=f8e1727]: "@2.20"
+                - cell "5+-1 @2.10" [ref=f8e1728]:
+                  - generic [ref=f8e1729]: 5+-1
+                  - generic [ref=f8e1730]: "@2.10"
+                - cell "1-4 @2.40" [ref=f8e1731]:
+                  - generic [ref=f8e1732]: 1-4
+                  - generic [ref=f8e1733]: "@2.40"
+                - cell "1-1 @2.50" [ref=f8e1734]:
+                  - generic [ref=f8e1735]: 1-1
+                  - generic [ref=f8e1736]: "@2.50"
+                - cell "1-2 @2.70" [ref=f8e1737]:
+                  - generic [ref=f8e1738]: 1-2
+                  - generic [ref=f8e1739]: "@2.70"
+                - cell "2-2 @2.15" [ref=f8e1740]:
+                  - generic [ref=f8e1741]: 2-2
+                  - generic [ref=f8e1742]: "@2.15"
+                - cell "1-1 @2.15" [ref=f8e1743]:
+                  - generic [ref=f8e1744]: 1-1
+                  - generic [ref=f8e1745]: "@2.15"
+                - cell "5+-1 @2.20" [ref=f8e1746]:
+                  - generic [ref=f8e1747]: 5+-1
+                  - generic [ref=f8e1748]: "@2.20"
+                - cell "0-0 @2.70" [ref=f8e1749]:
+                  - generic [ref=f8e1750]: 0-0
+                  - generic [ref=f8e1751]: "@2.70"
+                - cell "0-2 @2.45" [ref=f8e1752]:
+                  - generic [ref=f8e1753]: 0-2
+                  - generic [ref=f8e1754]: "@2.45"
+                - cell "0-1 @2.40" [ref=f8e1755]:
+                  - generic [ref=f8e1756]: 0-1
+                  - generic [ref=f8e1757]: "@2.40"
+                - cell "3-1 @2.15" [ref=f8e1758]:
+                  - generic [ref=f8e1759]: 3-1
+                  - generic [ref=f8e1760]: "@2.15"
+                - cell "2-0 @2.60" [ref=f8e1761]:
+                  - generic [ref=f8e1762]: 2-0
+                  - generic [ref=f8e1763]: "@2.60"
+                - cell "2-0 @2.25" [ref=f8e1764]:
+                  - generic [ref=f8e1765]: 2-0
+                  - generic [ref=f8e1766]: "@2.25"
+                - cell "1-1 @2.02" [ref=f8e1767]:
+                  - generic [ref=f8e1768]: 1-1
+                  - generic [ref=f8e1769]: "@2.02"
+                - cell "1-2 @2.20" [ref=f8e1770]:
+                  - generic [ref=f8e1771]: 1-2
+                  - generic [ref=f8e1772]: "@2.20"
+                - cell "1-1 @2.15" [ref=f8e1773]:
+                  - generic [ref=f8e1774]: 1-1
+                  - generic [ref=f8e1775]: "@2.15"
+                - cell "0-0 @2.30" [ref=f8e1776]:
+                  - generic [ref=f8e1777]: 0-0
+                  - generic [ref=f8e1778]: "@2.30"
+                - cell "1-3 @2.55" [ref=f8e1779]:
+                  - generic [ref=f8e1780]: 1-3
+                  - generic [ref=f8e1781]: "@2.55"
+                - cell "2-1 @2.45" [ref=f8e1782]:
+                  - generic [ref=f8e1783]: 2-1
+                  - generic [ref=f8e1784]: "@2.45"
+                - cell "50%" [ref=f8e1785]
+                - cell "56" [ref=f8e1786]
+              - row [ref=f8e1787]:
+                - cell "08" [ref=f8e1788]:
+                  - generic [ref=f8e1789]:
+                    - checkbox "08" [ref=f8e1790]
+                    - generic [ref=f8e1791]: "08"
+                - cell "2-1 @2.35" [ref=f8e1792]:
+                  - generic [ref=f8e1793]: 2-1
+                  - generic [ref=f8e1794]: "@2.35"
+                - cell "1-0 @2.00" [ref=f8e1795]:
+                  - generic [ref=f8e1796]: 1-0
+                  - generic [ref=f8e1797]: "@2.00"
+                - cell "2-1 @2.15" [ref=f8e1798]:
+                  - generic [ref=f8e1799]: 2-1
+                  - generic [ref=f8e1800]: "@2.15"
+                - cell "2-3 @2.10" [ref=f8e1801]:
+                  - generic [ref=f8e1802]: 2-3
+                  - generic [ref=f8e1803]: "@2.10"
+                - cell "0-1 @2.20" [ref=f8e1804]:
+                  - generic [ref=f8e1805]: 0-1
+                  - generic [ref=f8e1806]: "@2.20"
+                - cell "2-0 @2.87" [ref=f8e1807]:
+                  - generic [ref=f8e1808]: 2-0
+                  - generic [ref=f8e1809]: "@2.87"
+                - cell "1-2 @2.40" [ref=f8e1810]:
+                  - generic [ref=f8e1811]: 1-2
+                  - generic [ref=f8e1812]: "@2.40"
+                - cell "0-0 @2.02" [ref=f8e1813]:
+                  - generic [ref=f8e1814]: 0-0
+                  - generic [ref=f8e1815]: "@2.02"
+                - cell "3-2 @2.20" [ref=f8e1816]:
+                  - generic [ref=f8e1817]: 3-2
+                  - generic [ref=f8e1818]: "@2.20"
+                - cell "1-1 @2.25" [ref=f8e1819]:
+                  - generic [ref=f8e1820]: 1-1
+                  - generic [ref=f8e1821]: "@2.25"
+                - cell "0-1 @2.02" [ref=f8e1822]:
+                  - generic [ref=f8e1823]: 0-1
+                  - generic [ref=f8e1824]: "@2.02"
+                - cell "0-2 @2.87" [ref=f8e1825]:
+                  - generic [ref=f8e1826]: 0-2
+                  - generic [ref=f8e1827]: "@2.87"
+                - cell "1-0 @2.30" [ref=f8e1828]:
+                  - generic [ref=f8e1829]: 1-0
+                  - generic [ref=f8e1830]: "@2.30"
+                - cell "0-0 @2.10" [ref=f8e1831]:
+                  - generic [ref=f8e1832]: 0-0
+                  - generic [ref=f8e1833]: "@2.10"
+                - cell "0-0 @2.25" [ref=f8e1834]:
+                  - generic [ref=f8e1835]: 0-0
+                  - generic [ref=f8e1836]: "@2.25"
+                - cell "4-1 @2.20" [ref=f8e1837]:
+                  - generic [ref=f8e1838]: 4-1
+                  - generic [ref=f8e1839]: "@2.20"
+                - cell "0-0 @2.30" [ref=f8e1840]:
+                  - generic [ref=f8e1841]: 0-0
+                  - generic [ref=f8e1842]: "@2.30"
+                - cell "0-1 @2.20" [ref=f8e1843]:
+                  - generic [ref=f8e1844]: 0-1
+                  - generic [ref=f8e1845]: "@2.20"
+                - cell "1-1 @2.45" [ref=f8e1846]:
+                  - generic [ref=f8e1847]: 1-1
+                  - generic [ref=f8e1848]: "@2.45"
+                - cell "3-2 @2.02" [ref=f8e1849]:
+                  - generic [ref=f8e1850]: 3-2
+                  - generic [ref=f8e1851]: "@2.02"
+                - cell "35%" [ref=f8e1852]
+                - cell "42" [ref=f8e1853]
+              - row [ref=f8e1854]:
+                - cell "07" [ref=f8e1855]:
+                  - generic [ref=f8e1856]:
+                    - checkbox "07" [ref=f8e1857]
+                    - generic [ref=f8e1858]: "07"
+                - cell "0-2 @2.30" [ref=f8e1859]:
+                  - generic [ref=f8e1860]: 0-2
+                  - generic [ref=f8e1861]: "@2.30"
+                - cell "1-0 @2.30" [ref=f8e1862]:
+                  - generic [ref=f8e1863]: 1-0
+                  - generic [ref=f8e1864]: "@2.30"
+                - cell "0-0 @2.02" [ref=f8e1865]:
+                  - generic [ref=f8e1866]: 0-0
+                  - generic [ref=f8e1867]: "@2.02"
+                - cell "2-2 @2.62" [ref=f8e1868]:
+                  - generic [ref=f8e1869]: 2-2
+                  - generic [ref=f8e1870]: "@2.62"
+                - cell "0-3 @2.00" [ref=f8e1871]:
+                  - generic [ref=f8e1872]: 0-3
+                  - generic [ref=f8e1873]: "@2.00"
+                - cell "2-0 @2.35" [ref=f8e1874]:
+                  - generic [ref=f8e1875]: 2-0
+                  - generic [ref=f8e1876]: "@2.35"
+                - cell "2-4 @2.20" [ref=f8e1877]:
+                  - generic [ref=f8e1878]: 2-4
+                  - generic [ref=f8e1879]: "@2.20"
+                - cell "0-2 @2.25" [ref=f8e1880]:
+                  - generic [ref=f8e1881]: 0-2
+                  - generic [ref=f8e1882]: "@2.25"
+                - cell "1-0 @2.25" [ref=f8e1883]:
+                  - generic [ref=f8e1884]: 1-0
+                  - generic [ref=f8e1885]: "@2.25"
+                - cell "4-2 @2.25" [ref=f8e1886]:
+                  - generic [ref=f8e1887]: 4-2
+                  - generic [ref=f8e1888]: "@2.25"
+                - cell "1-1 @2.45" [ref=f8e1889]:
+                  - generic [ref=f8e1890]: 1-1
+                  - generic [ref=f8e1891]: "@2.45"
+                - cell "5+-1 @2.87" [ref=f8e1892]:
+                  - generic [ref=f8e1893]: 5+-1
+                  - generic [ref=f8e1894]: "@2.87"
+                - cell "2-1 @2.25" [ref=f8e1895]:
+                  - generic [ref=f8e1896]: 2-1
+                  - generic [ref=f8e1897]: "@2.25"
+                - cell "0-0 @2.20" [ref=f8e1898]:
+                  - generic [ref=f8e1899]: 0-0
+                  - generic [ref=f8e1900]: "@2.20"
+                - cell "0-0 @3.00" [ref=f8e1901]:
+                  - generic [ref=f8e1902]: 0-0
+                  - generic [ref=f8e1903]: "@3.00"
+                - cell "1-0 @2.05" [ref=f8e1904]:
+                  - generic [ref=f8e1905]: 1-0
+                  - generic [ref=f8e1906]: "@2.05"
+                - cell "1-3 @2.35" [ref=f8e1907]:
+                  - generic [ref=f8e1908]: 1-3
+                  - generic [ref=f8e1909]: "@2.35"
+                - cell "1-2 @2.35" [ref=f8e1910]:
+                  - generic [ref=f8e1911]: 1-2
+                  - generic [ref=f8e1912]: "@2.35"
+                - cell "0-0 @2.25" [ref=f8e1913]:
+                  - generic [ref=f8e1914]: 0-0
+                  - generic [ref=f8e1915]: "@2.25"
+                - cell "2-0 @2.15" [ref=f8e1916]:
+                  - generic [ref=f8e1917]: 2-0
+                  - generic [ref=f8e1918]: "@2.15"
+                - cell "40%" [ref=f8e1919]
+                - cell "48" [ref=f8e1920]
+              - row [ref=f8e1921]:
+                - cell "06" [ref=f8e1922]:
+                  - generic [ref=f8e1923]:
+                    - checkbox "06" [ref=f8e1924]
+                    - generic [ref=f8e1925]: "06"
+                - cell "1-1 @1.98" [ref=f8e1926]:
+                  - generic [ref=f8e1927]: 1-1
+                  - generic [ref=f8e1928]: "@1.98"
+                - cell "2-0 @2.20" [ref=f8e1929]:
+                  - generic [ref=f8e1930]: 2-0
+                  - generic [ref=f8e1931]: "@2.20"
+                - cell "2-1 @2.45" [ref=f8e1932]:
+                  - generic [ref=f8e1933]: 2-1
+                  - generic [ref=f8e1934]: "@2.45"
+                - cell "0-1 @2.55" [ref=f8e1935]:
+                  - generic [ref=f8e1936]: 0-1
+                  - generic [ref=f8e1937]: "@2.55"
+                - cell "0-2 @2.25" [ref=f8e1938]:
+                  - generic [ref=f8e1939]: 0-2
+                  - generic [ref=f8e1940]: "@2.25"
+                - cell "3-1 @2.62" [ref=f8e1941]:
+                  - generic [ref=f8e1942]: 3-1
+                  - generic [ref=f8e1943]: "@2.62"
+                - cell "1-2 @2.02" [ref=f8e1944]:
+                  - generic [ref=f8e1945]: 1-2
+                  - generic [ref=f8e1946]: "@2.02"
+                - cell "2-0 @2.25" [ref=f8e1947]:
+                  - generic [ref=f8e1948]: 2-0
+                  - generic [ref=f8e1949]: "@2.25"
+                - cell "1-1 @2.45" [ref=f8e1950]:
+                  - generic [ref=f8e1951]: 1-1
+                  - generic [ref=f8e1952]: "@2.45"
+                - cell "1-1 @2.10" [ref=f8e1953]:
+                  - generic [ref=f8e1954]: 1-1
+                  - generic [ref=f8e1955]: "@2.10"
+                - cell "1-2 @2.20" [ref=f8e1956]:
+                  - generic [ref=f8e1957]: 1-2
+                  - generic [ref=f8e1958]: "@2.20"
+                - cell "3-0 @2.25" [ref=f8e1959]:
+                  - generic [ref=f8e1960]: 3-0
+                  - generic [ref=f8e1961]: "@2.25"
+                - cell "2-3 @2.02" [ref=f8e1962]:
+                  - generic [ref=f8e1963]: 2-3
+                  - generic [ref=f8e1964]: "@2.02"
+                - cell "2-1 @2.05" [ref=f8e1965]:
+                  - generic [ref=f8e1966]: 2-1
+                  - generic [ref=f8e1967]: "@2.05"
+                - cell "1-1 @2.20" [ref=f8e1968]:
+                  - generic [ref=f8e1969]: 1-1
+                  - generic [ref=f8e1970]: "@2.20"
+                - cell "2-3 @2.20" [ref=f8e1971]:
+                  - generic [ref=f8e1972]: 2-3
+                  - generic [ref=f8e1973]: "@2.20"
+                - cell "0-2 @2.40" [ref=f8e1974]:
+                  - generic [ref=f8e1975]: 0-2
+                  - generic [ref=f8e1976]: "@2.40"
+                - cell "0-0 @2.10" [ref=f8e1977]:
+                  - generic [ref=f8e1978]: 0-0
+                  - generic [ref=f8e1979]: "@2.10"
+                - cell "0-0 @2.30" [ref=f8e1980]:
+                  - generic [ref=f8e1981]: 0-0
+                  - generic [ref=f8e1982]: "@2.30"
+                - cell "4-2 @2.07" [ref=f8e1983]:
+                  - generic [ref=f8e1984]: 4-2
+                  - generic [ref=f8e1985]: "@2.07"
+                - cell "45%" [ref=f8e1986]
+                - cell "52" [ref=f8e1987]
+              - row [ref=f8e1988]:
+                - cell "05" [ref=f8e1989]:
+                  - generic [ref=f8e1990]:
+                    - checkbox "05" [ref=f8e1991]
+                    - generic [ref=f8e1992]: "05"
+                - cell "1-0 @2.00" [ref=f8e1993]:
+                  - generic [ref=f8e1994]: 1-0
+                  - generic [ref=f8e1995]: "@2.00"
+                - cell "0-1 @2.75" [ref=f8e1996]:
+                  - generic [ref=f8e1997]: 0-1
+                  - generic [ref=f8e1998]: "@2.75"
+                - cell "3-5+ @2.35" [ref=f8e1999]:
+                  - generic [ref=f8e2000]: 3-5+
+                  - generic [ref=f8e2001]: "@2.35"
+                - cell "2-2 @2.70" [ref=f8e2002]:
+                  - generic [ref=f8e2003]: 2-2
+                  - generic [ref=f8e2004]: "@2.70"
+                - cell "2-1 @2.25" [ref=f8e2005]:
+                  - generic [ref=f8e2006]: 2-1
+                  - generic [ref=f8e2007]: "@2.25"
+                - cell "3-2 @2.02" [ref=f8e2008]:
+                  - generic [ref=f8e2009]: 3-2
+                  - generic [ref=f8e2010]: "@2.02"
+                - cell "1-0 @2.55" [ref=f8e2011]:
+                  - generic [ref=f8e2012]: 1-0
+                  - generic [ref=f8e2013]: "@2.55"
+                - cell "3-0 @2.20" [ref=f8e2014]:
+                  - generic [ref=f8e2015]: 3-0
+                  - generic [ref=f8e2016]: "@2.20"
+                - cell "0-4 @2.25" [ref=f8e2017]:
+                  - generic [ref=f8e2018]: 0-4
+                  - generic [ref=f8e2019]: "@2.25"
+                - cell "0-0 @2.05" [ref=f8e2020]:
+                  - generic [ref=f8e2021]: 0-0
+                  - generic [ref=f8e2022]: "@2.05"
+                - cell "0-1 @2.50" [ref=f8e2023]:
+                  - generic [ref=f8e2024]: 0-1
+                  - generic [ref=f8e2025]: "@2.50"
+                - cell "0-1 @2.20" [ref=f8e2026]:
+                  - generic [ref=f8e2027]: 0-1
+                  - generic [ref=f8e2028]: "@2.20"
+                - cell "3-0 @2.45" [ref=f8e2029]:
+                  - generic [ref=f8e2030]: 3-0
+                  - generic [ref=f8e2031]: "@2.45"
+                - cell "1-0 @2.40" [ref=f8e2032]:
+                  - generic [ref=f8e2033]: 1-0
+                  - generic [ref=f8e2034]: "@2.40"
+                - cell "2-0 @1.95" [ref=f8e2035]:
+                  - generic [ref=f8e2036]: 2-0
+                  - generic [ref=f8e2037]: "@1.95"
+                - cell "1-1 @2.20" [ref=f8e2038]:
+                  - generic [ref=f8e2039]: 1-1
+                  - generic [ref=f8e2040]: "@2.20"
+                - cell "2-0 @2.15" [ref=f8e2041]:
+                  - generic [ref=f8e2042]: 2-0
+                  - generic [ref=f8e2043]: "@2.15"
+                - cell "1-1 @2.62" [ref=f8e2044]:
+                  - generic [ref=f8e2045]: 1-1
+                  - generic [ref=f8e2046]: "@2.62"
+                - cell "2-0 @2.15" [ref=f8e2047]:
+                  - generic [ref=f8e2048]: 2-0
+                  - generic [ref=f8e2049]: "@2.15"
+                - cell "2-2 @2.20" [ref=f8e2050]:
+                  - generic [ref=f8e2051]: 2-2
+                  - generic [ref=f8e2052]: "@2.20"
+                - cell "40%" [ref=f8e2053]
+                - cell "50" [ref=f8e2054]
+              - row [ref=f8e2055]:
+                - cell "04" [ref=f8e2056]:
+                  - generic [ref=f8e2057]:
+                    - checkbox "04" [ref=f8e2058]
+                    - generic [ref=f8e2059]: "04"
+                - cell "1-1 @2.62" [ref=f8e2060]:
+                  - generic [ref=f8e2061]: 1-1
+                  - generic [ref=f8e2062]: "@2.62"
+                - cell "2-0 @2.07" [ref=f8e2063]:
+                  - generic [ref=f8e2064]: 2-0
+                  - generic [ref=f8e2065]: "@2.07"
+                - cell "0-0 @3.00" [ref=f8e2066]:
+                  - generic [ref=f8e2067]: 0-0
+                  - generic [ref=f8e2068]: "@3.00"
+                - cell "1-0 @2.35" [ref=f8e2069]:
+                  - generic [ref=f8e2070]: 1-0
+                  - generic [ref=f8e2071]: "@2.35"
+                - cell "2-5+ @2.10" [ref=f8e2072]:
+                  - generic [ref=f8e2073]: 2-5+
+                  - generic [ref=f8e2074]: "@2.10"
+                - cell "3-0 @2.20" [ref=f8e2075]:
+                  - generic [ref=f8e2076]: 3-0
+                  - generic [ref=f8e2077]: "@2.20"
+                - cell "2-1 @2.40" [ref=f8e2078]:
+                  - generic [ref=f8e2079]: 2-1
+                  - generic [ref=f8e2080]: "@2.40"
+                - cell "1-1 @2.20" [ref=f8e2081]:
+                  - generic [ref=f8e2082]: 1-1
+                  - generic [ref=f8e2083]: "@2.20"
+                - cell "2-2 @2.70" [ref=f8e2084]:
+                  - generic [ref=f8e2085]: 2-2
+                  - generic [ref=f8e2086]: "@2.70"
+                - cell "4-1 @1.98" [ref=f8e2087]:
+                  - generic [ref=f8e2088]: 4-1
+                  - generic [ref=f8e2089]: "@1.98"
+                - cell "2-2 @3.00" [ref=f8e2090]:
+                  - generic [ref=f8e2091]: 2-2
+                  - generic [ref=f8e2092]: "@3.00"
+                - cell "3-0 @2.40" [ref=f8e2093]:
+                  - generic [ref=f8e2094]: 3-0
+                  - generic [ref=f8e2095]: "@2.40"
+                - cell "2-0 @2.40" [ref=f8e2096]:
+                  - generic [ref=f8e2097]: 2-0
+                  - generic [ref=f8e2098]: "@2.40"
+                - cell "1-2 @1.95" [ref=f8e2099]:
+                  - generic [ref=f8e2100]: 1-2
+                  - generic [ref=f8e2101]: "@1.95"
+                - cell "3-1 @2.20" [ref=f8e2102]:
+                  - generic [ref=f8e2103]: 3-1
+                  - generic [ref=f8e2104]: "@2.20"
+                - cell "0-0 @2.40" [ref=f8e2105]:
+                  - generic [ref=f8e2106]: 0-0
+                  - generic [ref=f8e2107]: "@2.40"
+                - cell "1-0 @2.70" [ref=f8e2108]:
+                  - generic [ref=f8e2109]: 1-0
+                  - generic [ref=f8e2110]: "@2.70"
+                - cell "1-0 @2.55" [ref=f8e2111]:
+                  - generic [ref=f8e2112]: 1-0
+                  - generic [ref=f8e2113]: "@2.55"
+                - cell "1-0 @2.40" [ref=f8e2114]:
+                  - generic [ref=f8e2115]: 1-0
+                  - generic [ref=f8e2116]: "@2.40"
+                - cell "2-1 @2.30" [ref=f8e2117]:
+                  - generic [ref=f8e2118]: 2-1
+                  - generic [ref=f8e2119]: "@2.30"
+                - cell "50%" [ref=f8e2120]
+                - cell "51" [ref=f8e2121]
+              - row [ref=f8e1175]:
+                - columnheader "H" [ref=f8e1176]
+                - columnheader "01" [ref=f8e2122]
+                - columnheader "04" [ref=f8e2123]
+                - columnheader "07" [ref=f8e2124]
+                - columnheader "10" [ref=f8e2125]
+                - columnheader "13" [ref=f8e2126]
+                - columnheader "16" [ref=f8e2127]
+                - columnheader "19" [ref=f8e2128]
+                - columnheader "22" [ref=f8e2129]
+                - columnheader "25" [ref=f8e2130]
+                - columnheader "28" [ref=f8e2131]
+                - columnheader "31" [ref=f8e2132]
+                - columnheader "34" [ref=f8e2133]
+                - columnheader "37" [ref=f8e2134]
+                - columnheader "40" [ref=f8e2135]
+                - columnheader "43" [ref=f8e2136]
+                - columnheader "46" [ref=f8e2137]
+                - columnheader "49" [ref=f8e2138]
+                - columnheader "52" [ref=f8e2139]
+                - columnheader "55" [ref=f8e2140]
+                - columnheader "58" [ref=f8e2141]
+                - columnheader "%" [ref=f8e1197]
+                - columnheader "G" [ref=f8e1198]
+          - generic [ref=f8e2143]:
+            - heading "Últimas partidas" [level=5] [ref=f8e2145]:
+              - text: Últimas partidas
+              - generic [ref=f8e2146]: 
+            - textbox "Filtrar" [active] [ref=f8e2148]
+            - table [ref=f8e2150]:
+              - rowgroup [ref=f8e2151]:
+                - row [ref=f8e2152]:
+                  - columnheader "Casa" [ref=f8e2153]
+                  - columnheader [ref=f8e2154]
+                  - columnheader "Fora" [ref=f8e2155]
+              - rowgroup [ref=f8e2156]:
+                - row [ref=f8e2157]:
+                  - cell "Itaquera" [ref=f8e2158]
+                  - cell "16:13 0-1 0-0 ODDS" [ref=f8e2162]:
+                    - generic [ref=f8e2163]:
+                      - generic [ref=f8e2164]: 16:13
+                      - generic [ref=f8e2165]: 0-1
+                      - generic [ref=f8e2166]: 0-0
+                      - button "ODDS" [ref=f8e2167] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e2169]
+                - row [ref=f8e2173]:
+                  - cell "Agua Branca" [ref=f8e2174]
+                  - cell "16:10 0-1 0-1 ODDS" [ref=f8e2178]:
+                    - generic [ref=f8e2179]:
+                      - generic [ref=f8e2180]: 16:10
+                      - generic [ref=f8e2181]: 0-1
+                      - generic [ref=f8e2182]: 0-1
+                      - button "ODDS" [ref=f8e2183] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e2185]
+                - row [ref=f8e2189]:
+                  - cell "Medellin" [ref=f8e2190]
+                  - cell "16:07 3-1 1-0 ODDS" [ref=f8e2194]:
+                    - generic [ref=f8e2195]:
+                      - generic [ref=f8e2196]: 16:07
+                      - generic [ref=f8e2197]: 3-1
+                      - generic [ref=f8e2198]: 1-0
+                      - button "ODDS" [ref=f8e2199] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e2201]
+                - row [ref=f8e2205]:
+                  - cell "Guayaquil" [ref=f8e2206]
+                  - cell "16:04 1-1 0-0 ODDS" [ref=f8e2210]:
+                    - generic [ref=f8e2211]:
+                      - generic [ref=f8e2212]: 16:04
+                      - generic [ref=f8e2213]: 1-1
+                      - generic [ref=f8e2214]: 0-0
+                      - button "ODDS" [ref=f8e2215] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e2217]
+                - row [ref=f8e2221]:
+                  - cell "Belo Horizonte" [ref=f8e2222]
+                  - cell "16:01 0-0 0-0 ODDS" [ref=f8e2226]:
+                    - generic [ref=f8e2227]:
+                      - generic [ref=f8e2228]: 16:01
+                      - generic [ref=f8e2229]: 0-0
+                      - generic [ref=f8e2230]: 0-0
+                      - button "ODDS" [ref=f8e2231] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e2233]
+                - row [ref=f8e2237]:
+                  - cell "Asuncion" [ref=f8e2238]
+                  - cell "15:58 0-0 0-0 ODDS" [ref=f8e2242]:
+                    - generic [ref=f8e2243]:
+                      - generic [ref=f8e2244]: 15:58
+                      - generic [ref=f8e2245]: 0-0
+                      - generic [ref=f8e2246]: 0-0
+                      - button "ODDS" [ref=f8e2247] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e2249]
+                - row [ref=f8e2253]:
+                  - cell "Lima" [ref=f8e2254]
+                  - cell "15:55 1-1 1-0 ODDS" [ref=f8e2258]:
+                    - generic [ref=f8e2259]:
+                      - generic [ref=f8e2260]: 15:55
+                      - generic [ref=f8e2261]: 1-1
+                      - generic [ref=f8e2262]: 1-0
+                      - button "ODDS" [ref=f8e2263] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e2265]
+                - row [ref=f8e2269]:
+                  - cell "Itaquera" [ref=f8e2270]
+                  - cell "15:52 0-2 0-2 ODDS" [ref=f8e2274]:
+                    - generic [ref=f8e2275]:
+                      - generic [ref=f8e2276]: 15:52
+                      - generic [ref=f8e2277]: 0-2
+                      - generic [ref=f8e2278]: 0-2
+                      - button "ODDS" [ref=f8e2279] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e2281]
+                - row [ref=f8e2285]:
+                  - cell "Agua Branca" [ref=f8e2286]
+                  - cell "15:49 0-0 0-0 ODDS" [ref=f8e2290]:
+                    - generic [ref=f8e2291]:
+                      - generic [ref=f8e2292]: 15:49
+                      - generic [ref=f8e2293]: 0-0
+                      - generic [ref=f8e2294]: 0-0
+                      - button "ODDS" [ref=f8e2295] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e2297]
+                - row [ref=f8e2301]:
+                  - cell "Medellin" [ref=f8e2302]
+                  - cell "15:46 1-0 0-0 ODDS" [ref=f8e2306]:
+                    - generic [ref=f8e2307]:
+                      - generic [ref=f8e2308]: 15:46
+                      - generic [ref=f8e2309]: 1-0
+                      - generic [ref=f8e2310]: 0-0
+                      - button "ODDS" [ref=f8e2311] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e2313]
+                - row [ref=f8e2317]:
+                  - cell "Avellaneda" [ref=f8e2318]
+                  - cell "15:43 1-1 0-1 ODDS" [ref=f8e2322]:
+                    - generic [ref=f8e2323]:
+                      - generic [ref=f8e2324]: 15:43
+                      - generic [ref=f8e2325]: 1-1
+                      - generic [ref=f8e2326]: 0-1
+                      - button "ODDS" [ref=f8e2327] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e2329]
+                - row [ref=f8e2333]:
+                  - cell "Bogota" [ref=f8e2334]
+                  - cell "15:40 2-0 1-0 ODDS" [ref=f8e2338]:
+                    - generic [ref=f8e2339]:
+                      - generic [ref=f8e2340]: 15:40
+                      - generic [ref=f8e2341]: 2-0
+                      - generic [ref=f8e2342]: 1-0
+                      - button "ODDS" [ref=f8e2343] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e2345]
+                - row [ref=f8e2349]:
+                  - cell "Itaquera" [ref=f8e2350]
+                  - cell "15:37 0-2 0-1 ODDS" [ref=f8e2354]:
+                    - generic [ref=f8e2355]:
+                      - generic [ref=f8e2356]: 15:37
+                      - generic [ref=f8e2357]: 0-2
+                      - generic [ref=f8e2358]: 0-1
+                      - button "ODDS" [ref=f8e2359] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e2361]
+                - row [ref=f8e2365]:
+                  - cell "Rio de Janeiro" [ref=f8e2366]
+                  - cell "15:34 3-3 OUT ODDS" [ref=f8e2370]:
+                    - generic [ref=f8e2371]:
+                      - generic [ref=f8e2372]: 15:34
+                      - generic [ref=f8e2373]: 3-3
+                      - generic [ref=f8e2374]: OUT
+                      - button "ODDS" [ref=f8e2375] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e2377]
+                - row [ref=f8e2381]:
+                  - cell "Quito" [ref=f8e2382]
+                  - cell "15:31 2-1 1-0 ODDS" [ref=f8e2386]:
+                    - generic [ref=f8e2387]:
+                      - generic [ref=f8e2388]: 15:31
+                      - generic [ref=f8e2389]: 2-1
+                      - generic [ref=f8e2390]: 1-0
+                      - button "ODDS" [ref=f8e2391] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e2393]
+                - row [ref=f8e2397]:
+                  - cell "Belo Horizonte" [ref=f8e2398]
+                  - cell "15:28 0-2 0-2 ODDS" [ref=f8e2402]:
+                    - generic [ref=f8e2403]:
+                      - generic [ref=f8e2404]: 15:28
+                      - generic [ref=f8e2405]: 0-2
+                      - generic [ref=f8e2406]: 0-2
+                      - button "ODDS" [ref=f8e2407] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e2409]
+                - row [ref=f8e2413]:
+                  - cell "Itaquera" [ref=f8e2414]
+                  - cell "15:25 3-0 OUT ODDS" [ref=f8e2418]:
+                    - generic [ref=f8e2419]:
+                      - generic [ref=f8e2420]: 15:25
+                      - generic [ref=f8e2421]: 3-0
+                      - generic [ref=f8e2422]: OUT
+                      - button "ODDS" [ref=f8e2423] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e2425]
+                - row [ref=f8e2429]:
+                  - cell "Avellaneda" [ref=f8e2430]
+                  - cell "15:22 1-1 0-0 ODDS" [ref=f8e2434]:
+                    - generic [ref=f8e2435]:
+                      - generic [ref=f8e2436]: 15:22
+                      - generic [ref=f8e2437]: 1-1
+                      - generic [ref=f8e2438]: 0-0
+                      - button "ODDS" [ref=f8e2439] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e2441]
+                - row [ref=f8e2445]:
+                  - cell "Quito" [ref=f8e2446]
+                  - cell "15:19 2-1 1-0 ODDS" [ref=f8e2450]:
+                    - generic [ref=f8e2451]:
+                      - generic [ref=f8e2452]: 15:19
+                      - generic [ref=f8e2453]: 2-1
+                      - generic [ref=f8e2454]: 1-0
+                      - button "ODDS" [ref=f8e2455] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e2457]
+                - row [ref=f8e2461]:
+                  - cell "Porto Alegre" [ref=f8e2462]
+                  - cell "15:16 4-2 OUT ODDS" [ref=f8e2466]:
+                    - generic [ref=f8e2467]:
+                      - generic [ref=f8e2468]: 15:16
+                      - generic [ref=f8e2469]: 4-2
+                      - generic [ref=f8e2470]: OUT
+                      - button "ODDS" [ref=f8e2471] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e2473]
+                - row [ref=f8e2477]:
+                  - cell "Sao Paulo" [ref=f8e2478]
+                  - cell "15:13 1-1 0-0 ODDS" [ref=f8e2482]:
+                    - generic [ref=f8e2483]:
+                      - generic [ref=f8e2484]: 15:13
+                      - generic [ref=f8e2485]: 1-1
+                      - generic [ref=f8e2486]: 0-0
+                      - button "ODDS" [ref=f8e2487] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e2489]
+                - row [ref=f8e2493]:
+                  - cell "La Boca" [ref=f8e2494]
+                  - cell "15:10 3-1 1-1 ODDS" [ref=f8e2498]:
+                    - generic [ref=f8e2499]:
+                      - generic [ref=f8e2500]: 15:10
+                      - generic [ref=f8e2501]: 3-1
+                      - generic [ref=f8e2502]: 1-1
+                      - button "ODDS" [ref=f8e2503] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e2505]
+                - row [ref=f8e2509]:
+                  - cell "Porto Alegre" [ref=f8e2510]
+                  - cell "15:07 1-4 OUT ODDS" [ref=f8e2514]:
+                    - generic [ref=f8e2515]:
+                      - generic [ref=f8e2516]: 15:07
+                      - generic [ref=f8e2517]: 1-4
+                      - generic [ref=f8e2518]: OUT
+                      - button "ODDS" [ref=f8e2519] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e2521]
+                - row [ref=f8e2525]:
+                  - cell "Santiago" [ref=f8e2526]
+                  - cell "15:04 1-2 0-0 ODDS" [ref=f8e2530]:
+                    - generic [ref=f8e2531]:
+                      - generic [ref=f8e2532]: 15:04
+                      - generic [ref=f8e2533]: 1-2
+                      - generic [ref=f8e2534]: 0-0
+                      - button "ODDS" [ref=f8e2535] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e2537]
+                - row [ref=f8e2541]:
+                  - cell "Medellin" [ref=f8e2542]
+                  - cell "15:01 2-0 2-0 ODDS" [ref=f8e2546]:
+                    - generic [ref=f8e2547]:
+                      - generic [ref=f8e2548]: 15:01
+                      - generic [ref=f8e2549]: 2-0
+                      - generic [ref=f8e2550]: 2-0
+                      - button "ODDS" [ref=f8e2551] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e2553]
+                - row [ref=f8e2557]:
+                  - cell "Itaquera" [ref=f8e2558]
+                  - cell "14:58 0-1 0-1 ODDS" [ref=f8e2562]:
+                    - generic [ref=f8e2563]:
+                      - generic [ref=f8e2564]: 14:58
+                      - generic [ref=f8e2565]: 0-1
+                      - generic [ref=f8e2566]: 0-1
+                      - button "ODDS" [ref=f8e2567] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e2569]
+                - row [ref=f8e2573]:
+                  - cell "Guayaquil" [ref=f8e2574]
+                  - cell "14:55 2-0 1-0 ODDS" [ref=f8e2578]:
+                    - generic [ref=f8e2579]:
+                      - generic [ref=f8e2580]: 14:55
+                      - generic [ref=f8e2581]: 2-0
+                      - generic [ref=f8e2582]: 1-0
+                      - button "ODDS" [ref=f8e2583] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e2585]
+                - row [ref=f8e2589]:
+                  - cell "Porto Alegre" [ref=f8e2590]
+                  - cell "14:52 0-1 0-0 ODDS" [ref=f8e2594]:
+                    - generic [ref=f8e2595]:
+                      - generic [ref=f8e2596]: 14:52
+                      - generic [ref=f8e2597]: 0-1
+                      - generic [ref=f8e2598]: 0-0
+                      - button "ODDS" [ref=f8e2599] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e2601]
+                - row [ref=f8e2605]:
+                  - cell "Rio de Janeiro" [ref=f8e2606]
+                  - cell "14:49 2-1 2-0 ODDS" [ref=f8e2610]:
+                    - generic [ref=f8e2611]:
+                      - generic [ref=f8e2612]: 14:49
+                      - generic [ref=f8e2613]: 2-1
+                      - generic [ref=f8e2614]: 2-0
+                      - button "ODDS" [ref=f8e2615] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e2617]
+                - row [ref=f8e2621]:
+                  - cell "Belo Horizonte" [ref=f8e2622]
+                  - cell "14:46 0-2 0-1 ODDS" [ref=f8e2626]:
+                    - generic [ref=f8e2627]:
+                      - generic [ref=f8e2628]: 14:46
+                      - generic [ref=f8e2629]: 0-2
+                      - generic [ref=f8e2630]: 0-1
+                      - button "ODDS" [ref=f8e2631] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e2633]
+                - row [ref=f8e2637]:
+                  - cell "Buenos Aires" [ref=f8e2638]
+                  - cell "14:43 5+-0 OUT ODDS" [ref=f8e2642]:
+                    - generic [ref=f8e2643]:
+                      - generic [ref=f8e2644]: 14:43
+                      - generic [ref=f8e2645]: 5+-0
+                      - generic [ref=f8e2646]: OUT
+                      - button "ODDS" [ref=f8e2647] [cursor=pointer]
+                  - cell "Santos" [ref=f8e2649]
+                - row [ref=f8e2653]:
+                  - cell "Penarol" [ref=f8e2654]
+                  - cell "14:40 1-1 0-1 ODDS" [ref=f8e2658]:
+                    - generic [ref=f8e2659]:
+                      - generic [ref=f8e2660]: 14:40
+                      - generic [ref=f8e2661]: 1-1
+                      - generic [ref=f8e2662]: 0-1
+                      - button "ODDS" [ref=f8e2663] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e2665]
+                - row [ref=f8e2669]:
+                  - cell "La Boca" [ref=f8e2670]
+                  - cell "14:37 1-1 1-1 ODDS" [ref=f8e2674]:
+                    - generic [ref=f8e2675]:
+                      - generic [ref=f8e2676]: 14:37
+                      - generic [ref=f8e2677]: 1-1
+                      - generic [ref=f8e2678]: 1-1
+                      - button "ODDS" [ref=f8e2679] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e2681]
+                - row [ref=f8e2685]:
+                  - cell "La Plata" [ref=f8e2686]
+                  - cell "14:34 0-0 0-0 ODDS" [ref=f8e2690]:
+                    - generic [ref=f8e2691]:
+                      - generic [ref=f8e2692]: 14:34
+                      - generic [ref=f8e2693]: 0-0
+                      - generic [ref=f8e2694]: 0-0
+                      - button "ODDS" [ref=f8e2695] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e2697]
+                - row [ref=f8e2701]:
+                  - cell "Bogota" [ref=f8e2702]
+                  - cell "14:31 1-2 0-1 ODDS" [ref=f8e2706]:
+                    - generic [ref=f8e2707]:
+                      - generic [ref=f8e2708]: 14:31
+                      - generic [ref=f8e2709]: 1-2
+                      - generic [ref=f8e2710]: 0-1
+                      - button "ODDS" [ref=f8e2711] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e2713]
+                - row [ref=f8e2717]:
+                  - cell "Agua Branca" [ref=f8e2718]
+                  - cell "14:28 0-1 0-1 ODDS" [ref=f8e2722]:
+                    - generic [ref=f8e2723]:
+                      - generic [ref=f8e2724]: 14:28
+                      - generic [ref=f8e2725]: 0-1
+                      - generic [ref=f8e2726]: 0-1
+                      - button "ODDS" [ref=f8e2727] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e2729]
+                - row [ref=f8e2733]:
+                  - cell "Santiago" [ref=f8e2734]
+                  - cell "14:25 0-2 0-2 ODDS" [ref=f8e2738]:
+                    - generic [ref=f8e2739]:
+                      - generic [ref=f8e2740]: 14:25
+                      - generic [ref=f8e2741]: 0-2
+                      - generic [ref=f8e2742]: 0-2
+                      - button "ODDS" [ref=f8e2743] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e2745]
+                - row [ref=f8e2749]:
+                  - cell "Buenos Aires" [ref=f8e2750]
+                  - cell "14:22 1-3 0-2 ODDS" [ref=f8e2754]:
+                    - generic [ref=f8e2755]:
+                      - generic [ref=f8e2756]: 14:22
+                      - generic [ref=f8e2757]: 1-3
+                      - generic [ref=f8e2758]: 0-2
+                      - button "ODDS" [ref=f8e2759] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e2761]
+                - row [ref=f8e2765]:
+                  - cell "Quito" [ref=f8e2766]
+                  - cell "14:19 1-0 1-0 ODDS" [ref=f8e2770]:
+                    - generic [ref=f8e2771]:
+                      - generic [ref=f8e2772]: 14:19
+                      - generic [ref=f8e2773]: 1-0
+                      - generic [ref=f8e2774]: 1-0
+                      - button "ODDS" [ref=f8e2775] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e2777]
+                - row [ref=f8e2781]:
+                  - cell "Guayaquil" [ref=f8e2782]
+                  - cell "14:16 1-1 0-1 ODDS" [ref=f8e2786]:
+                    - generic [ref=f8e2787]:
+                      - generic [ref=f8e2788]: 14:16
+                      - generic [ref=f8e2789]: 1-1
+                      - generic [ref=f8e2790]: 0-1
+                      - button "ODDS" [ref=f8e2791] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e2793]
+                - row [ref=f8e2797]:
+                  - cell "Medellin" [ref=f8e2798]
+                  - cell "14:13 2-1 1-0 ODDS" [ref=f8e2802]:
+                    - generic [ref=f8e2803]:
+                      - generic [ref=f8e2804]: 14:13
+                      - generic [ref=f8e2805]: 2-1
+                      - generic [ref=f8e2806]: 1-0
+                      - button "ODDS" [ref=f8e2807] [cursor=pointer]
+                  - cell "Santos" [ref=f8e2809]
+                - row [ref=f8e2813]:
+                  - cell "Penarol" [ref=f8e2814]
+                  - cell "14:10 1-0 0-0 ODDS" [ref=f8e2818]:
+                    - generic [ref=f8e2819]:
+                      - generic [ref=f8e2820]: 14:10
+                      - generic [ref=f8e2821]: 1-0
+                      - generic [ref=f8e2822]: 0-0
+                      - button "ODDS" [ref=f8e2823] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e2825]
+                - row [ref=f8e2829]:
+                  - cell "Santos" [ref=f8e2830]
+                  - cell "14:07 1-0 0-0 ODDS" [ref=f8e2834]:
+                    - generic [ref=f8e2835]:
+                      - generic [ref=f8e2836]: 14:07
+                      - generic [ref=f8e2837]: 1-0
+                      - generic [ref=f8e2838]: 0-0
+                      - button "ODDS" [ref=f8e2839] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e2841]
+                - row [ref=f8e2845]:
+                  - cell "Rio de Janeiro" [ref=f8e2846]
+                  - cell "14:04 0-1 0-0 ODDS" [ref=f8e2850]:
+                    - generic [ref=f8e2851]:
+                      - generic [ref=f8e2852]: 14:04
+                      - generic [ref=f8e2853]: 0-1
+                      - generic [ref=f8e2854]: 0-0
+                      - button "ODDS" [ref=f8e2855] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e2857]
+                - row [ref=f8e2861]:
+                  - cell "Belo Horizonte" [ref=f8e2862]
+                  - cell "14:01 3-2 2-0 ODDS" [ref=f8e2866]:
+                    - generic [ref=f8e2867]:
+                      - generic [ref=f8e2868]: 14:01
+                      - generic [ref=f8e2869]: 3-2
+                      - generic [ref=f8e2870]: 2-0
+                      - button "ODDS" [ref=f8e2871] [cursor=pointer]
+                  - cell "Quito" [ref=f8e2873]
+                - row [ref=f8e2877]:
+                  - cell "Avellaneda" [ref=f8e2878]
+                  - cell "13:58 2-0 0-0 ODDS" [ref=f8e2882]:
+                    - generic [ref=f8e2883]:
+                      - generic [ref=f8e2884]: 13:58
+                      - generic [ref=f8e2885]: 2-0
+                      - generic [ref=f8e2886]: 0-0
+                      - button "ODDS" [ref=f8e2887] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e2889]
+                - row [ref=f8e2893]:
+                  - cell "Sao Paulo" [ref=f8e2894]
+                  - cell "13:55 2-1 1-1 ODDS" [ref=f8e2898]:
+                    - generic [ref=f8e2899]:
+                      - generic [ref=f8e2900]: 13:55
+                      - generic [ref=f8e2901]: 2-1
+                      - generic [ref=f8e2902]: 1-1
+                      - button "ODDS" [ref=f8e2903] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e2905]
+                - row [ref=f8e2909]:
+                  - cell "La Boca" [ref=f8e2910]
+                  - cell "13:52 2-0 1-0 ODDS" [ref=f8e2914]:
+                    - generic [ref=f8e2915]:
+                      - generic [ref=f8e2916]: 13:52
+                      - generic [ref=f8e2917]: 2-0
+                      - generic [ref=f8e2918]: 1-0
+                      - button "ODDS" [ref=f8e2919] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e2921]
+                - row [ref=f8e2925]:
+                  - cell "Belo Horizonte" [ref=f8e2926]
+                  - cell "13:49 1-1 1-0 ODDS" [ref=f8e2930]:
+                    - generic [ref=f8e2931]:
+                      - generic [ref=f8e2932]: 13:49
+                      - generic [ref=f8e2933]: 1-1
+                      - generic [ref=f8e2934]: 1-0
+                      - button "ODDS" [ref=f8e2935] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e2937]
+                - row [ref=f8e2941]:
+                  - cell "Rio de Janeiro" [ref=f8e2942]
+                  - cell "13:46 3-1 1-1 ODDS" [ref=f8e2946]:
+                    - generic [ref=f8e2947]:
+                      - generic [ref=f8e2948]: 13:46
+                      - generic [ref=f8e2949]: 3-1
+                      - generic [ref=f8e2950]: 1-1
+                      - button "ODDS" [ref=f8e2951] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e2953]
+                - row [ref=f8e2957]:
+                  - cell "Asuncion" [ref=f8e2958]
+                  - cell "13:43 0-3 0-0 ODDS" [ref=f8e2962]:
+                    - generic [ref=f8e2963]:
+                      - generic [ref=f8e2964]: 13:43
+                      - generic [ref=f8e2965]: 0-3
+                      - generic [ref=f8e2966]: 0-0
+                      - button "ODDS" [ref=f8e2967] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e2969]
+                - row [ref=f8e2973]:
+                  - cell "Guayaquil" [ref=f8e2974]
+                  - cell "13:40 0-0 0-0 ODDS" [ref=f8e2978]:
+                    - generic [ref=f8e2979]:
+                      - generic [ref=f8e2980]: 13:40
+                      - generic [ref=f8e2981]: 0-0
+                      - generic [ref=f8e2982]: 0-0
+                      - button "ODDS" [ref=f8e2983] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e2985]
+                - row [ref=f8e2989]:
+                  - cell "Agua Branca" [ref=f8e2990]
+                  - cell "13:37 0-0 0-0 ODDS" [ref=f8e2994]:
+                    - generic [ref=f8e2995]:
+                      - generic [ref=f8e2996]: 13:37
+                      - generic [ref=f8e2997]: 0-0
+                      - generic [ref=f8e2998]: 0-0
+                      - button "ODDS" [ref=f8e2999] [cursor=pointer]
+                  - cell "Quito" [ref=f8e3001]
+                - row [ref=f8e3005]:
+                  - cell "Santiago" [ref=f8e3006]
+                  - cell "13:34 0-0 0-0 ODDS" [ref=f8e3010]:
+                    - generic [ref=f8e3011]:
+                      - generic [ref=f8e3012]: 13:34
+                      - generic [ref=f8e3013]: 0-0
+                      - generic [ref=f8e3014]: 0-0
+                      - button "ODDS" [ref=f8e3015] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3017]
+                - row [ref=f8e3021]:
+                  - cell "Bogota" [ref=f8e3022]
+                  - cell "13:31 1-2 0-0 ODDS" [ref=f8e3026]:
+                    - generic [ref=f8e3027]:
+                      - generic [ref=f8e3028]: 13:31
+                      - generic [ref=f8e3029]: 1-2
+                      - generic [ref=f8e3030]: 0-0
+                      - button "ODDS" [ref=f8e3031] [cursor=pointer]
+                  - cell "Santos" [ref=f8e3033]
+                - row [ref=f8e3037]:
+                  - cell "Penarol" [ref=f8e3038]
+                  - cell "13:28 1-1 1-1 ODDS" [ref=f8e3042]:
+                    - generic [ref=f8e3043]:
+                      - generic [ref=f8e3044]: 13:28
+                      - generic [ref=f8e3045]: 1-1
+                      - generic [ref=f8e3046]: 1-1
+                      - button "ODDS" [ref=f8e3047] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e3049]
+                - row [ref=f8e3053]:
+                  - cell "Quito" [ref=f8e3054]
+                  - cell "13:25 0-0 0-0 ODDS" [ref=f8e3058]:
+                    - generic [ref=f8e3059]:
+                      - generic [ref=f8e3060]: 13:25
+                      - generic [ref=f8e3061]: 0-0
+                      - generic [ref=f8e3062]: 0-0
+                      - button "ODDS" [ref=f8e3063] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e3065]
+                - row [ref=f8e3069]:
+                  - cell "Santiago" [ref=f8e3070]
+                  - cell "13:22 1-1 1-1 ODDS" [ref=f8e3074]:
+                    - generic [ref=f8e3075]:
+                      - generic [ref=f8e3076]: 13:22
+                      - generic [ref=f8e3077]: 1-1
+                      - generic [ref=f8e3078]: 1-1
+                      - button "ODDS" [ref=f8e3079] [cursor=pointer]
+                  - cell "Santos" [ref=f8e3081]
+                - row [ref=f8e3085]:
+                  - cell "La Boca" [ref=f8e3086]
+                  - cell "13:19 2-1 1-1 ODDS" [ref=f8e3090]:
+                    - generic [ref=f8e3091]:
+                      - generic [ref=f8e3092]: 13:19
+                      - generic [ref=f8e3093]: 2-1
+                      - generic [ref=f8e3094]: 1-1
+                      - button "ODDS" [ref=f8e3095] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e3097]
+                - row [ref=f8e3101]:
+                  - cell "Belo Horizonte" [ref=f8e3102]
+                  - cell "13:16 3-1 OUT ODDS" [ref=f8e3106]:
+                    - generic [ref=f8e3107]:
+                      - generic [ref=f8e3108]: 13:16
+                      - generic [ref=f8e3109]: 3-1
+                      - generic [ref=f8e3110]: OUT
+                      - button "ODDS" [ref=f8e3111] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e3113]
+                - row [ref=f8e3117]:
+                  - cell "Asuncion" [ref=f8e3118]
+                  - cell "13:13 1-0 1-0 ODDS" [ref=f8e3122]:
+                    - generic [ref=f8e3123]:
+                      - generic [ref=f8e3124]: 13:13
+                      - generic [ref=f8e3125]: 1-0
+                      - generic [ref=f8e3126]: 1-0
+                      - button "ODDS" [ref=f8e3127] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e3129]
+                - row [ref=f8e3133]:
+                  - cell "Santos" [ref=f8e3134]
+                  - cell "13:10 1-0 1-0 ODDS" [ref=f8e3138]:
+                    - generic [ref=f8e3139]:
+                      - generic [ref=f8e3140]: 13:10
+                      - generic [ref=f8e3141]: 1-0
+                      - generic [ref=f8e3142]: 1-0
+                      - button "ODDS" [ref=f8e3143] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e3145]
+                - row [ref=f8e3149]:
+                  - cell "Lima" [ref=f8e3150]
+                  - cell "13:07 1-1 1-1 ODDS" [ref=f8e3154]:
+                    - generic [ref=f8e3155]:
+                      - generic [ref=f8e3156]: 13:07
+                      - generic [ref=f8e3157]: 1-1
+                      - generic [ref=f8e3158]: 1-1
+                      - button "ODDS" [ref=f8e3159] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e3161]
+                - row [ref=f8e3165]:
+                  - cell "Montevideo" [ref=f8e3166]
+                  - cell "13:04 3-0 2-0 ODDS" [ref=f8e3170]:
+                    - generic [ref=f8e3171]:
+                      - generic [ref=f8e3172]: 13:04
+                      - generic [ref=f8e3173]: 3-0
+                      - generic [ref=f8e3174]: 2-0
+                      - button "ODDS" [ref=f8e3175] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3177]
+                - row [ref=f8e3181]:
+                  - cell "Santos" [ref=f8e3182]
+                  - cell "13:01 1-1 1-1 ODDS" [ref=f8e3186]:
+                    - generic [ref=f8e3187]:
+                      - generic [ref=f8e3188]: 13:01
+                      - generic [ref=f8e3189]: 1-1
+                      - generic [ref=f8e3190]: 1-1
+                      - button "ODDS" [ref=f8e3191] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e3193]
+                - row [ref=f8e3197]:
+                  - cell "Porto Alegre" [ref=f8e3198]
+                  - cell "12:58 2-1 0-0 ODDS" [ref=f8e3202]:
+                    - generic [ref=f8e3203]:
+                      - generic [ref=f8e3204]: 12:58
+                      - generic [ref=f8e3205]: 2-1
+                      - generic [ref=f8e3206]: 0-0
+                      - button "ODDS" [ref=f8e3207] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e3209]
+                - row [ref=f8e3213]:
+                  - cell "Montevideo" [ref=f8e3214]
+                  - cell "12:55 0-3 0-1 ODDS" [ref=f8e3218]:
+                    - generic [ref=f8e3219]:
+                      - generic [ref=f8e3220]: 12:55
+                      - generic [ref=f8e3221]: 0-3
+                      - generic [ref=f8e3222]: 0-1
+                      - button "ODDS" [ref=f8e3223] [cursor=pointer]
+                  - cell "Santos" [ref=f8e3225]
+                - row [ref=f8e3229]:
+                  - cell "Buenos Aires" [ref=f8e3230]
+                  - cell "12:52 1-1 0-0 ODDS" [ref=f8e3234]:
+                    - generic [ref=f8e3235]:
+                      - generic [ref=f8e3236]: 12:52
+                      - generic [ref=f8e3237]: 1-1
+                      - generic [ref=f8e3238]: 0-0
+                      - button "ODDS" [ref=f8e3239] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e3241]
+                - row [ref=f8e3245]:
+                  - cell "Bogota" [ref=f8e3246]
+                  - cell "12:49 0-0 0-0 ODDS" [ref=f8e3250]:
+                    - generic [ref=f8e3251]:
+                      - generic [ref=f8e3252]: 12:49
+                      - generic [ref=f8e3253]: 0-0
+                      - generic [ref=f8e3254]: 0-0
+                      - button "ODDS" [ref=f8e3255] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e3257]
+                - row [ref=f8e3261]:
+                  - cell "Avellaneda" [ref=f8e3262]
+                  - cell "12:46 1-2 1-1 ODDS" [ref=f8e3266]:
+                    - generic [ref=f8e3267]:
+                      - generic [ref=f8e3268]: 12:46
+                      - generic [ref=f8e3269]: 1-2
+                      - generic [ref=f8e3270]: 1-1
+                      - button "ODDS" [ref=f8e3271] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e3273]
+                - row [ref=f8e3277]:
+                  - cell "Penarol" [ref=f8e3278]
+                  - cell "12:43 1-1 1-0 ODDS" [ref=f8e3282]:
+                    - generic [ref=f8e3283]:
+                      - generic [ref=f8e3284]: 12:43
+                      - generic [ref=f8e3285]: 1-1
+                      - generic [ref=f8e3286]: 1-0
+                      - button "ODDS" [ref=f8e3287] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e3289]
+                - row [ref=f8e3293]:
+                  - cell "Sao Paulo" [ref=f8e3294]
+                  - cell "12:40 5+-3 OUT ODDS" [ref=f8e3298]:
+                    - generic [ref=f8e3299]:
+                      - generic [ref=f8e3300]: 12:40
+                      - generic [ref=f8e3301]: 5+-3
+                      - generic [ref=f8e3302]: OUT
+                      - button "ODDS" [ref=f8e3303] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e3305]
+                - row [ref=f8e3309]:
+                  - cell "Quito" [ref=f8e3310]
+                  - cell "12:37 0-2 0-1 ODDS" [ref=f8e3314]:
+                    - generic [ref=f8e3315]:
+                      - generic [ref=f8e3316]: 12:37
+                      - generic [ref=f8e3317]: 0-2
+                      - generic [ref=f8e3318]: 0-1
+                      - button "ODDS" [ref=f8e3319] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3321]
+                - row [ref=f8e3325]:
+                  - cell "Santos" [ref=f8e3326]
+                  - cell "12:34 1-0 1-0 ODDS" [ref=f8e3330]:
+                    - generic [ref=f8e3331]:
+                      - generic [ref=f8e3332]: 12:34
+                      - generic [ref=f8e3333]: 1-0
+                      - generic [ref=f8e3334]: 1-0
+                      - button "ODDS" [ref=f8e3335] [cursor=pointer]
+                  - cell "Lima" [ref=f8e3337]
+                - row [ref=f8e3341]:
+                  - cell "La Plata" [ref=f8e3342]
+                  - cell "12:31 1-1 1-1 ODDS" [ref=f8e3346]:
+                    - generic [ref=f8e3347]:
+                      - generic [ref=f8e3348]: 12:31
+                      - generic [ref=f8e3349]: 1-1
+                      - generic [ref=f8e3350]: 1-1
+                      - button "ODDS" [ref=f8e3351] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e3353]
+                - row [ref=f8e3357]:
+                  - cell "Porto Alegre" [ref=f8e3358]
+                  - cell "12:28 1-1 1-0 ODDS" [ref=f8e3362]:
+                    - generic [ref=f8e3363]:
+                      - generic [ref=f8e3364]: 12:28
+                      - generic [ref=f8e3365]: 1-1
+                      - generic [ref=f8e3366]: 1-0
+                      - button "ODDS" [ref=f8e3367] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3369]
+                - row [ref=f8e3373]:
+                  - cell "Bogota" [ref=f8e3374]
+                  - cell "12:25 3-0 2-0 ODDS" [ref=f8e3378]:
+                    - generic [ref=f8e3379]:
+                      - generic [ref=f8e3380]: 12:25
+                      - generic [ref=f8e3381]: 3-0
+                      - generic [ref=f8e3382]: 2-0
+                      - button "ODDS" [ref=f8e3383] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e3385]
+                - row [ref=f8e3389]:
+                  - cell "Rio de Janeiro" [ref=f8e3390]
+                  - cell "12:22 0-0 0-0 ODDS" [ref=f8e3394]:
+                    - generic [ref=f8e3395]:
+                      - generic [ref=f8e3396]: 12:22
+                      - generic [ref=f8e3397]: 0-0
+                      - generic [ref=f8e3398]: 0-0
+                      - button "ODDS" [ref=f8e3399] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e3401]
+                - row [ref=f8e3405]:
+                  - cell "Penarol" [ref=f8e3406]
+                  - cell "12:19 2-3 OUT ODDS" [ref=f8e3410]:
+                    - generic [ref=f8e3411]:
+                      - generic [ref=f8e3412]: 12:19
+                      - generic [ref=f8e3413]: 2-3
+                      - generic [ref=f8e3414]: OUT
+                      - button "ODDS" [ref=f8e3415] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e3417]
+                - row [ref=f8e3421]:
+                  - cell "Medellin" [ref=f8e3422]
+                  - cell "12:16 2-1 OUT ODDS" [ref=f8e3426]:
+                    - generic [ref=f8e3427]:
+                      - generic [ref=f8e3428]: 12:16
+                      - generic [ref=f8e3429]: 2-1
+                      - generic [ref=f8e3430]: OUT
+                      - button "ODDS" [ref=f8e3431] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e3433]
+                - row [ref=f8e3437]:
+                  - cell "Bogota" [ref=f8e3438]
+                  - cell "12:13 0-2 0-1 ODDS" [ref=f8e3442]:
+                    - generic [ref=f8e3443]:
+                      - generic [ref=f8e3444]: 12:13
+                      - generic [ref=f8e3445]: 0-2
+                      - generic [ref=f8e3446]: 0-1
+                      - button "ODDS" [ref=f8e3447] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e3449]
+                - row [ref=f8e3453]:
+                  - cell "Santos" [ref=f8e3454]
+                  - cell "12:10 1-0 1-0 ODDS" [ref=f8e3458]:
+                    - generic [ref=f8e3459]:
+                      - generic [ref=f8e3460]: 12:10
+                      - generic [ref=f8e3461]: 1-0
+                      - generic [ref=f8e3462]: 1-0
+                      - button "ODDS" [ref=f8e3463] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e3465]
+                - row [ref=f8e3469]:
+                  - cell "Porto Alegre" [ref=f8e3470]
+                  - cell "12:07 2-1 0-0 ODDS" [ref=f8e3474]:
+                    - generic [ref=f8e3475]:
+                      - generic [ref=f8e3476]: 12:07
+                      - generic [ref=f8e3477]: 2-1
+                      - generic [ref=f8e3478]: 0-0
+                      - button "ODDS" [ref=f8e3479] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e3481]
+                - row [ref=f8e3485]:
+                  - cell "Quito" [ref=f8e3486]
+                  - cell "12:04 0-0 0-0 ODDS" [ref=f8e3490]:
+                    - generic [ref=f8e3491]:
+                      - generic [ref=f8e3492]: 12:04
+                      - generic [ref=f8e3493]: 0-0
+                      - generic [ref=f8e3494]: 0-0
+                      - button "ODDS" [ref=f8e3495] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3497]
+                - row [ref=f8e3501]:
+                  - cell "Itaquera" [ref=f8e3502]
+                  - cell "12:01 0-0 0-0 ODDS" [ref=f8e3506]:
+                    - generic [ref=f8e3507]:
+                      - generic [ref=f8e3508]: 12:01
+                      - generic [ref=f8e3509]: 0-0
+                      - generic [ref=f8e3510]: 0-0
+                      - button "ODDS" [ref=f8e3511] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e3513]
+                - row [ref=f8e3517]:
+                  - cell "La Plata" [ref=f8e3518]
+                  - cell "11:58 1-1 0-1 ODDS" [ref=f8e3522]:
+                    - generic [ref=f8e3523]:
+                      - generic [ref=f8e3524]: 11:58
+                      - generic [ref=f8e3525]: 1-1
+                      - generic [ref=f8e3526]: 0-1
+                      - button "ODDS" [ref=f8e3527] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e3529]
+                - row [ref=f8e3533]:
+                  - cell "Montevideo" [ref=f8e3534]
+                  - cell "11:55 1-3 OUT ODDS" [ref=f8e3538]:
+                    - generic [ref=f8e3539]:
+                      - generic [ref=f8e3540]: 11:55
+                      - generic [ref=f8e3541]: 1-3
+                      - generic [ref=f8e3542]: OUT
+                      - button "ODDS" [ref=f8e3543] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e3545]
+                - row [ref=f8e3549]:
+                  - cell "Itaquera" [ref=f8e3550]
+                  - cell "11:52 2-1 0-0 ODDS" [ref=f8e3554]:
+                    - generic [ref=f8e3555]:
+                      - generic [ref=f8e3556]: 11:52
+                      - generic [ref=f8e3557]: 2-1
+                      - generic [ref=f8e3558]: 0-0
+                      - button "ODDS" [ref=f8e3559] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e3561]
+                - row [ref=f8e3565]:
+                  - cell "Sao Paulo" [ref=f8e3566]
+                  - cell "11:49 1-2 1-1 ODDS" [ref=f8e3570]:
+                    - generic [ref=f8e3571]:
+                      - generic [ref=f8e3572]: 11:49
+                      - generic [ref=f8e3573]: 1-2
+                      - generic [ref=f8e3574]: 1-1
+                      - button "ODDS" [ref=f8e3575] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3577]
+                - row [ref=f8e3581]:
+                  - cell "La Plata" [ref=f8e3582]
+                  - cell "11:46 1-0 1-0 ODDS" [ref=f8e3586]:
+                    - generic [ref=f8e3587]:
+                      - generic [ref=f8e3588]: 11:46
+                      - generic [ref=f8e3589]: 1-0
+                      - generic [ref=f8e3590]: 1-0
+                      - button "ODDS" [ref=f8e3591] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e3593]
+                - row [ref=f8e3597]:
+                  - cell "Buenos Aires" [ref=f8e3598]
+                  - cell "11:43 2-0 1-0 ODDS" [ref=f8e3602]:
+                    - generic [ref=f8e3603]:
+                      - generic [ref=f8e3604]: 11:43
+                      - generic [ref=f8e3605]: 2-0
+                      - generic [ref=f8e3606]: 1-0
+                      - button "ODDS" [ref=f8e3607] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e3609]
+                - row [ref=f8e3613]:
+                  - cell "Santos" [ref=f8e3614]
+                  - cell "11:40 5+-2 OUT ODDS" [ref=f8e3618]:
+                    - generic [ref=f8e3619]:
+                      - generic [ref=f8e3620]: 11:40
+                      - generic [ref=f8e3621]: 5+-2
+                      - generic [ref=f8e3622]: OUT
+                      - button "ODDS" [ref=f8e3623] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e3625]
+                - row [ref=f8e3629]:
+                  - cell "Rio de Janeiro" [ref=f8e3630]
+                  - cell "11:37 0-0 0-0 ODDS" [ref=f8e3634]:
+                    - generic [ref=f8e3635]:
+                      - generic [ref=f8e3636]: 11:37
+                      - generic [ref=f8e3637]: 0-0
+                      - generic [ref=f8e3638]: 0-0
+                      - button "ODDS" [ref=f8e3639] [cursor=pointer]
+                  - cell "Quito" [ref=f8e3641]
+                - row [ref=f8e3645]:
+                  - cell "Penarol" [ref=f8e3646]
+                  - cell "11:34 1-1 1-1 ODDS" [ref=f8e3650]:
+                    - generic [ref=f8e3651]:
+                      - generic [ref=f8e3652]: 11:34
+                      - generic [ref=f8e3653]: 1-1
+                      - generic [ref=f8e3654]: 1-1
+                      - button "ODDS" [ref=f8e3655] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e3657]
+                - row [ref=f8e3661]:
+                  - cell "Bogota" [ref=f8e3662]
+                  - cell "11:31 1-1 0-0 ODDS" [ref=f8e3666]:
+                    - generic [ref=f8e3667]:
+                      - generic [ref=f8e3668]: 11:31
+                      - generic [ref=f8e3669]: 1-1
+                      - generic [ref=f8e3670]: 0-0
+                      - button "ODDS" [ref=f8e3671] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3673]
+                - row [ref=f8e3677]:
+                  - cell "Belo Horizonte" [ref=f8e3678]
+                  - cell "11:28 4-0 OUT ODDS" [ref=f8e3682]:
+                    - generic [ref=f8e3683]:
+                      - generic [ref=f8e3684]: 11:28
+                      - generic [ref=f8e3685]: 4-0
+                      - generic [ref=f8e3686]: OUT
+                      - button "ODDS" [ref=f8e3687] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e3689]
+                - row [ref=f8e3693]:
+                  - cell "Santiago" [ref=f8e3694]
+                  - cell "11:25 1-1 0-0 ODDS" [ref=f8e3698]:
+                    - generic [ref=f8e3699]:
+                      - generic [ref=f8e3700]: 11:25
+                      - generic [ref=f8e3701]: 1-1
+                      - generic [ref=f8e3702]: 0-0
+                      - button "ODDS" [ref=f8e3703] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3705]
+                - row [ref=f8e3709]:
+                  - cell "La Plata" [ref=f8e3710]
+                  - cell "11:22 0-0 0-0 ODDS" [ref=f8e3714]:
+                    - generic [ref=f8e3715]:
+                      - generic [ref=f8e3716]: 11:22
+                      - generic [ref=f8e3717]: 0-0
+                      - generic [ref=f8e3718]: 0-0
+                      - button "ODDS" [ref=f8e3719] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3721]
+                - row [ref=f8e3725]:
+                  - cell "Santiago" [ref=f8e3726]
+                  - cell "11:19 0-3 0-0 ODDS" [ref=f8e3730]:
+                    - generic [ref=f8e3731]:
+                      - generic [ref=f8e3732]: 11:19
+                      - generic [ref=f8e3733]: 0-3
+                      - generic [ref=f8e3734]: 0-0
+                      - button "ODDS" [ref=f8e3735] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e3737]
+                - row [ref=f8e3741]:
+                  - cell "Belo Horizonte" [ref=f8e3742]
+                  - cell "11:16 2-0 2-0 ODDS" [ref=f8e3746]:
+                    - generic [ref=f8e3747]:
+                      - generic [ref=f8e3748]: 11:16
+                      - generic [ref=f8e3749]: 2-0
+                      - generic [ref=f8e3750]: 2-0
+                      - button "ODDS" [ref=f8e3751] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3753]
+                - row [ref=f8e3757]:
+                  - cell "Santiago" [ref=f8e3758]
+                  - cell "11:13 0-1 0-1 ODDS" [ref=f8e3762]:
+                    - generic [ref=f8e3763]:
+                      - generic [ref=f8e3764]: 11:13
+                      - generic [ref=f8e3765]: 0-1
+                      - generic [ref=f8e3766]: 0-1
+                      - button "ODDS" [ref=f8e3767] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e3769]
+                - row [ref=f8e3773]:
+                  - cell "Medellin" [ref=f8e3774]
+                  - cell "11:10 0-2 0-1 ODDS" [ref=f8e3778]:
+                    - generic [ref=f8e3779]:
+                      - generic [ref=f8e3780]: 11:10
+                      - generic [ref=f8e3781]: 0-2
+                      - generic [ref=f8e3782]: 0-1
+                      - button "ODDS" [ref=f8e3783] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e3785]
+                - row [ref=f8e3789]:
+                  - cell "Guayaquil" [ref=f8e3790]
+                  - cell "11:07 2-2 1-1 ODDS" [ref=f8e3794]:
+                    - generic [ref=f8e3795]:
+                      - generic [ref=f8e3796]: 11:07
+                      - generic [ref=f8e3797]: 2-2
+                      - generic [ref=f8e3798]: 1-1
+                      - button "ODDS" [ref=f8e3799] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e3801]
+                - row [ref=f8e3805]:
+                  - cell "Agua Branca" [ref=f8e3806]
+                  - cell "11:04 1-2 0-1 ODDS" [ref=f8e3810]:
+                    - generic [ref=f8e3811]:
+                      - generic [ref=f8e3812]: 11:04
+                      - generic [ref=f8e3813]: 1-2
+                      - generic [ref=f8e3814]: 0-1
+                      - button "ODDS" [ref=f8e3815] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e3817]
+                - row [ref=f8e3821]:
+                  - cell "Santiago" [ref=f8e3822]
+                  - cell "11:01 1-2 1-1 ODDS" [ref=f8e3826]:
+                    - generic [ref=f8e3827]:
+                      - generic [ref=f8e3828]: 11:01
+                      - generic [ref=f8e3829]: 1-2
+                      - generic [ref=f8e3830]: 1-1
+                      - button "ODDS" [ref=f8e3831] [cursor=pointer]
+                  - cell "Lima" [ref=f8e3833]
+                - row [ref=f8e3837]:
+                  - cell "Porto Alegre" [ref=f8e3838]
+                  - cell "10:58 0-2 0-1 ODDS" [ref=f8e3842]:
+                    - generic [ref=f8e3843]:
+                      - generic [ref=f8e3844]: 10:58
+                      - generic [ref=f8e3845]: 0-2
+                      - generic [ref=f8e3846]: 0-1
+                      - button "ODDS" [ref=f8e3847] [cursor=pointer]
+                  - cell "Santos" [ref=f8e3849]
+                - row [ref=f8e3853]:
+                  - cell "Penarol" [ref=f8e3854]
+                  - cell "10:55 0-0 0-0 ODDS" [ref=f8e3858]:
+                    - generic [ref=f8e3859]:
+                      - generic [ref=f8e3860]: 10:55
+                      - generic [ref=f8e3861]: 0-0
+                      - generic [ref=f8e3862]: 0-0
+                      - button "ODDS" [ref=f8e3863] [cursor=pointer]
+                  - cell "Lima" [ref=f8e3865]
+                - row [ref=f8e3869]:
+                  - cell "Porto Alegre" [ref=f8e3870]
+                  - cell "10:52 2-1 0-1 ODDS" [ref=f8e3874]:
+                    - generic [ref=f8e3875]:
+                      - generic [ref=f8e3876]: 10:52
+                      - generic [ref=f8e3877]: 2-1
+                      - generic [ref=f8e3878]: 0-1
+                      - button "ODDS" [ref=f8e3879] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e3881]
+                - row [ref=f8e3885]:
+                  - cell "La Boca" [ref=f8e3886]
+                  - cell "10:49 0-0 0-0 ODDS" [ref=f8e3890]:
+                    - generic [ref=f8e3891]:
+                      - generic [ref=f8e3892]: 10:49
+                      - generic [ref=f8e3893]: 0-0
+                      - generic [ref=f8e3894]: 0-0
+                      - button "ODDS" [ref=f8e3895] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e3897]
+                - row [ref=f8e3901]:
+                  - cell "Itaquera" [ref=f8e3902]
+                  - cell "10:46 1-0 1-0 ODDS" [ref=f8e3906]:
+                    - generic [ref=f8e3907]:
+                      - generic [ref=f8e3908]: 10:46
+                      - generic [ref=f8e3909]: 1-0
+                      - generic [ref=f8e3910]: 1-0
+                      - button "ODDS" [ref=f8e3911] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e3913]
+                - row [ref=f8e3917]:
+                  - cell "Avellaneda" [ref=f8e3918]
+                  - cell "10:43 1-1 0-0 ODDS" [ref=f8e3922]:
+                    - generic [ref=f8e3923]:
+                      - generic [ref=f8e3924]: 10:43
+                      - generic [ref=f8e3925]: 1-1
+                      - generic [ref=f8e3926]: 0-0
+                      - button "ODDS" [ref=f8e3927] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e3929]
+                - row [ref=f8e3933]:
+                  - cell "Itaquera" [ref=f8e3934]
+                  - cell "10:40 0-0 0-0 ODDS" [ref=f8e3938]:
+                    - generic [ref=f8e3939]:
+                      - generic [ref=f8e3940]: 10:40
+                      - generic [ref=f8e3941]: 0-0
+                      - generic [ref=f8e3942]: 0-0
+                      - button "ODDS" [ref=f8e3943] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e3945]
+                - row [ref=f8e3949]:
+                  - cell "Bogota" [ref=f8e3950]
+                  - cell "10:37 1-3 1-0 ODDS" [ref=f8e3954]:
+                    - generic [ref=f8e3955]:
+                      - generic [ref=f8e3956]: 10:37
+                      - generic [ref=f8e3957]: 1-3
+                      - generic [ref=f8e3958]: 1-0
+                      - button "ODDS" [ref=f8e3959] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3961]
+                - row [ref=f8e3965]:
+                  - cell "Quito" [ref=f8e3966]
+                  - cell "10:34 2-1 1-0 ODDS" [ref=f8e3970]:
+                    - generic [ref=f8e3971]:
+                      - generic [ref=f8e3972]: 10:34
+                      - generic [ref=f8e3973]: 2-1
+                      - generic [ref=f8e3974]: 1-0
+                      - button "ODDS" [ref=f8e3975] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e3977]
+                - row [ref=f8e3981]:
+                  - cell "Medellin" [ref=f8e3982]
+                  - cell "10:31 1-0 1-0 ODDS" [ref=f8e3986]:
+                    - generic [ref=f8e3987]:
+                      - generic [ref=f8e3988]: 10:31
+                      - generic [ref=f8e3989]: 1-0
+                      - generic [ref=f8e3990]: 1-0
+                      - button "ODDS" [ref=f8e3991] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e3993]
+                - row [ref=f8e3997]:
+                  - cell "Asuncion" [ref=f8e3998]
+                  - cell "10:28 2-1 OUT ODDS" [ref=f8e4002]:
+                    - generic [ref=f8e4003]:
+                      - generic [ref=f8e4004]: 10:28
+                      - generic [ref=f8e4005]: 2-1
+                      - generic [ref=f8e4006]: OUT
+                      - button "ODDS" [ref=f8e4007] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e4009]
+                - row [ref=f8e4013]:
+                  - cell "Porto Alegre" [ref=f8e4014]
+                  - cell "10:25 1-1 1-1 ODDS" [ref=f8e4018]:
+                    - generic [ref=f8e4019]:
+                      - generic [ref=f8e4020]: 10:25
+                      - generic [ref=f8e4021]: 1-1
+                      - generic [ref=f8e4022]: 1-1
+                      - button "ODDS" [ref=f8e4023] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e4025]
+                - row [ref=f8e4029]:
+                  - cell "Buenos Aires" [ref=f8e4030]
+                  - cell "10:22 1-1 0-0 ODDS" [ref=f8e4034]:
+                    - generic [ref=f8e4035]:
+                      - generic [ref=f8e4036]: 10:22
+                      - generic [ref=f8e4037]: 1-1
+                      - generic [ref=f8e4038]: 0-0
+                      - button "ODDS" [ref=f8e4039] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e4041]
+                - row [ref=f8e4045]:
+                  - cell "Belo Horizonte" [ref=f8e4046]
+                  - cell "10:19 4-1 1-1 ODDS" [ref=f8e4050]:
+                    - generic [ref=f8e4051]:
+                      - generic [ref=f8e4052]: 10:19
+                      - generic [ref=f8e4053]: 4-1
+                      - generic [ref=f8e4054]: 1-1
+                      - button "ODDS" [ref=f8e4055] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e4057]
+                - row [ref=f8e4061]:
+                  - cell "Buenos Aires" [ref=f8e4062]
+                  - cell "10:16 0-0 0-0 ODDS" [ref=f8e4066]:
+                    - generic [ref=f8e4067]:
+                      - generic [ref=f8e4068]: 10:16
+                      - generic [ref=f8e4069]: 0-0
+                      - generic [ref=f8e4070]: 0-0
+                      - button "ODDS" [ref=f8e4071] [cursor=pointer]
+                  - cell "Quito" [ref=f8e4073]
+                - row [ref=f8e4077]:
+                  - cell "Asuncion" [ref=f8e4078]
+                  - cell "10:13 0-2 0-2 ODDS" [ref=f8e4082]:
+                    - generic [ref=f8e4083]:
+                      - generic [ref=f8e4084]: 10:13
+                      - generic [ref=f8e4085]: 0-2
+                      - generic [ref=f8e4086]: 0-2
+                      - button "ODDS" [ref=f8e4087] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e4089]
+                - row [ref=f8e4093]:
+                  - cell "Agua Branca" [ref=f8e4094]
+                  - cell "10:10 2-0 2-0 ODDS" [ref=f8e4098]:
+                    - generic [ref=f8e4099]:
+                      - generic [ref=f8e4100]: 10:10
+                      - generic [ref=f8e4101]: 2-0
+                      - generic [ref=f8e4102]: 2-0
+                      - button "ODDS" [ref=f8e4103] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e4105]
+                - row [ref=f8e4109]:
+                  - cell "Belo Horizonte" [ref=f8e4110]
+                  - cell "10:07 2-0 1-0 ODDS" [ref=f8e4114]:
+                    - generic [ref=f8e4115]:
+                      - generic [ref=f8e4116]: 10:07
+                      - generic [ref=f8e4117]: 2-0
+                      - generic [ref=f8e4118]: 1-0
+                      - button "ODDS" [ref=f8e4119] [cursor=pointer]
+                  - cell "Santos" [ref=f8e4121]
+                - row [ref=f8e4125]:
+                  - cell "Montevideo" [ref=f8e4126]
+                  - cell "10:04 3-0 2-0 ODDS" [ref=f8e4130]:
+                    - generic [ref=f8e4131]:
+                      - generic [ref=f8e4132]: 10:04
+                      - generic [ref=f8e4133]: 3-0
+                      - generic [ref=f8e4134]: 2-0
+                      - button "ODDS" [ref=f8e4135] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e4137]
+                - row [ref=f8e4141]:
+                  - cell "La Boca" [ref=f8e4142]
+                  - cell "10:01 2-0 1-0 ODDS" [ref=f8e4146]:
+                    - generic [ref=f8e4147]:
+                      - generic [ref=f8e4148]: 10:01
+                      - generic [ref=f8e4149]: 2-0
+                      - generic [ref=f8e4150]: 1-0
+                      - button "ODDS" [ref=f8e4151] [cursor=pointer]
+                  - cell "Quito" [ref=f8e4153]
+                - row [ref=f8e4157]:
+                  - cell "Asuncion" [ref=f8e4158]
+                  - cell "9:58 2-1 1-1 ODDS" [ref=f8e4162]:
+                    - generic [ref=f8e4163]:
+                      - generic [ref=f8e4164]: 9:58
+                      - generic [ref=f8e4165]: 2-1
+                      - generic [ref=f8e4166]: 1-1
+                      - button "ODDS" [ref=f8e4167] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e4169]
+                - row [ref=f8e4173]:
+                  - cell "Bogota" [ref=f8e4174]
+                  - cell "9:55 1-3 OUT ODDS" [ref=f8e4178]:
+                    - generic [ref=f8e4179]:
+                      - generic [ref=f8e4180]: 9:55
+                      - generic [ref=f8e4181]: 1-3
+                      - generic [ref=f8e4182]: OUT
+                      - button "ODDS" [ref=f8e4183] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e4185]
+                - row [ref=f8e4189]:
+                  - cell "Agua Branca" [ref=f8e4190]
+                  - cell "9:52 0-0 0-0 ODDS" [ref=f8e4194]:
+                    - generic [ref=f8e4195]:
+                      - generic [ref=f8e4196]: 9:52
+                      - generic [ref=f8e4197]: 0-0
+                      - generic [ref=f8e4198]: 0-0
+                      - button "ODDS" [ref=f8e4199] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e4201]
+                - row [ref=f8e4205]:
+                  - cell "Rio de Janeiro" [ref=f8e4206]
+                  - cell "9:49 1-1 1-0 ODDS" [ref=f8e4210]:
+                    - generic [ref=f8e4211]:
+                      - generic [ref=f8e4212]: 9:49
+                      - generic [ref=f8e4213]: 1-1
+                      - generic [ref=f8e4214]: 1-0
+                      - button "ODDS" [ref=f8e4215] [cursor=pointer]
+                  - cell "Lima" [ref=f8e4217]
+                - row [ref=f8e4221]:
+                  - cell "Medellin" [ref=f8e4222]
+                  - cell "9:46 1-2 0-0 ODDS" [ref=f8e4226]:
+                    - generic [ref=f8e4227]:
+                      - generic [ref=f8e4228]: 9:46
+                      - generic [ref=f8e4229]: 1-2
+                      - generic [ref=f8e4230]: 0-0
+                      - button "ODDS" [ref=f8e4231] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e4233]
+                - row [ref=f8e4237]:
+                  - cell "Agua Branca" [ref=f8e4238]
+                  - cell "9:43 1-1 1-0 ODDS" [ref=f8e4242]:
+                    - generic [ref=f8e4243]:
+                      - generic [ref=f8e4244]: 9:43
+                      - generic [ref=f8e4245]: 1-1
+                      - generic [ref=f8e4246]: 1-0
+                      - button "ODDS" [ref=f8e4247] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e4249]
+                - row [ref=f8e4253]:
+                  - cell "Montevideo" [ref=f8e4254]
+                  - cell "9:40 2-0 0-0 ODDS" [ref=f8e4258]:
+                    - generic [ref=f8e4259]:
+                      - generic [ref=f8e4260]: 9:40
+                      - generic [ref=f8e4261]: 2-0
+                      - generic [ref=f8e4262]: 0-0
+                      - button "ODDS" [ref=f8e4263] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e4265]
+                - row [ref=f8e4269]:
+                  - cell "La Boca" [ref=f8e4270]
+                  - cell "9:37 2-0 2-0 ODDS" [ref=f8e4274]:
+                    - generic [ref=f8e4275]:
+                      - generic [ref=f8e4276]: 9:37
+                      - generic [ref=f8e4277]: 2-0
+                      - generic [ref=f8e4278]: 2-0
+                      - button "ODDS" [ref=f8e4279] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e4281]
+                - row [ref=f8e4285]:
+                  - cell "Sao Paulo" [ref=f8e4286]
+                  - cell "9:34 3-1 OUT ODDS" [ref=f8e4290]:
+                    - generic [ref=f8e4291]:
+                      - generic [ref=f8e4292]: 9:34
+                      - generic [ref=f8e4293]: 3-1
+                      - generic [ref=f8e4294]: OUT
+                      - button "ODDS" [ref=f8e4295] [cursor=pointer]
+                  - cell "Quito" [ref=f8e4297]
+                - row [ref=f8e4301]:
+                  - cell "Avellaneda" [ref=f8e4302]
+                  - cell "9:31 0-1 0-1 ODDS" [ref=f8e4306]:
+                    - generic [ref=f8e4307]:
+                      - generic [ref=f8e4308]: 9:31
+                      - generic [ref=f8e4309]: 0-1
+                      - generic [ref=f8e4310]: 0-1
+                      - button "ODDS" [ref=f8e4311] [cursor=pointer]
+                  - cell "Santos" [ref=f8e4313]
+                - row [ref=f8e4317]:
+                  - cell "Agua Branca" [ref=f8e4318]
+                  - cell "9:28 0-2 0-0 ODDS" [ref=f8e4322]:
+                    - generic [ref=f8e4323]:
+                      - generic [ref=f8e4324]: 9:28
+                      - generic [ref=f8e4325]: 0-2
+                      - generic [ref=f8e4326]: 0-0
+                      - button "ODDS" [ref=f8e4327] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e4329]
+                - row [ref=f8e4333]:
+                  - cell "Santos" [ref=f8e4334]
+                  - cell "9:25 0-0 0-0 ODDS" [ref=f8e4338]:
+                    - generic [ref=f8e4339]:
+                      - generic [ref=f8e4340]: 9:25
+                      - generic [ref=f8e4341]: 0-0
+                      - generic [ref=f8e4342]: 0-0
+                      - button "ODDS" [ref=f8e4343] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e4345]
+                - row [ref=f8e4349]:
+                  - cell "Itaquera" [ref=f8e4350]
+                  - cell "9:22 5+-1 OUT ODDS" [ref=f8e4354]:
+                    - generic [ref=f8e4355]:
+                      - generic [ref=f8e4356]: 9:22
+                      - generic [ref=f8e4357]: 5+-1
+                      - generic [ref=f8e4358]: OUT
+                      - button "ODDS" [ref=f8e4359] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e4361]
+                - row [ref=f8e4365]:
+                  - cell "Rio de Janeiro" [ref=f8e4366]
+                  - cell "9:19 1-1 1-1 ODDS" [ref=f8e4370]:
+                    - generic [ref=f8e4371]:
+                      - generic [ref=f8e4372]: 9:19
+                      - generic [ref=f8e4373]: 1-1
+                      - generic [ref=f8e4374]: 1-1
+                      - button "ODDS" [ref=f8e4375] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e4377]
+                - row [ref=f8e4381]:
+                  - cell "Buenos Aires" [ref=f8e4382]
+                  - cell "9:16 2-2 2-0 ODDS" [ref=f8e4386]:
+                    - generic [ref=f8e4387]:
+                      - generic [ref=f8e4388]: 9:16
+                      - generic [ref=f8e4389]: 2-2
+                      - generic [ref=f8e4390]: 2-0
+                      - button "ODDS" [ref=f8e4391] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e4393]
+                - row [ref=f8e4397]:
+                  - cell "La Boca" [ref=f8e4398]
+                  - cell "9:13 1-2 OUT ODDS" [ref=f8e4402]:
+                    - generic [ref=f8e4403]:
+                      - generic [ref=f8e4404]: 9:13
+                      - generic [ref=f8e4405]: 1-2
+                      - generic [ref=f8e4406]: OUT
+                      - button "ODDS" [ref=f8e4407] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e4409]
+                - row [ref=f8e4413]:
+                  - cell "Quito" [ref=f8e4414]
+                  - cell "9:10 1-1 0-0 ODDS" [ref=f8e4418]:
+                    - generic [ref=f8e4419]:
+                      - generic [ref=f8e4420]: 9:10
+                      - generic [ref=f8e4421]: 1-1
+                      - generic [ref=f8e4422]: 0-0
+                      - button "ODDS" [ref=f8e4423] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e4425]
+                - row [ref=f8e4429]:
+                  - cell "Medellin" [ref=f8e4430]
+                  - cell "9:07 1-4 OUT ODDS" [ref=f8e4434]:
+                    - generic [ref=f8e4435]:
+                      - generic [ref=f8e4436]: 9:07
+                      - generic [ref=f8e4437]: 1-4
+                      - generic [ref=f8e4438]: OUT
+                      - button "ODDS" [ref=f8e4439] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e4441]
+                - row [ref=f8e4445]:
+                  - cell "Santiago" [ref=f8e4446]
+                  - cell "9:04 5+-1 OUT ODDS" [ref=f8e4450]:
+                    - generic [ref=f8e4451]:
+                      - generic [ref=f8e4452]: 9:04
+                      - generic [ref=f8e4453]: 5+-1
+                      - generic [ref=f8e4454]: OUT
+                      - button "ODDS" [ref=f8e4455] [cursor=pointer]
+                  - cell "Quito" [ref=f8e4457]
+                - row [ref=f8e4461]:
+                  - cell "Itaquera" [ref=f8e4462]
+                  - cell "9:01 2-1 1-1 ODDS" [ref=f8e4466]:
+                    - generic [ref=f8e4467]:
+                      - generic [ref=f8e4468]: 9:01
+                      - generic [ref=f8e4469]: 2-1
+                      - generic [ref=f8e4470]: 1-1
+                      - button "ODDS" [ref=f8e4471] [cursor=pointer]
+                  - cell "Lima" [ref=f8e4473]
+                - row [ref=f8e4477]:
+                  - cell "Buenos Aires" [ref=f8e4478]
+                  - cell "8:58 3-2 1-1 ODDS" [ref=f8e4482]:
+                    - generic [ref=f8e4483]:
+                      - generic [ref=f8e4484]: 8:58
+                      - generic [ref=f8e4485]: 3-2
+                      - generic [ref=f8e4486]: 1-1
+                      - button "ODDS" [ref=f8e4487] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e4489]
+                - row [ref=f8e4493]:
+                  - cell "Lima" [ref=f8e4494]
+                  - cell "8:55 1-1 0-1 ODDS" [ref=f8e4498]:
+                    - generic [ref=f8e4499]:
+                      - generic [ref=f8e4500]: 8:55
+                      - generic [ref=f8e4501]: 1-1
+                      - generic [ref=f8e4502]: 0-1
+                      - button "ODDS" [ref=f8e4503] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e4505]
+                - row [ref=f8e4509]:
+                  - cell "Agua Branca" [ref=f8e4510]
+                  - cell "8:52 0-1 0-1 ODDS" [ref=f8e4514]:
+                    - generic [ref=f8e4515]:
+                      - generic [ref=f8e4516]: 8:52
+                      - generic [ref=f8e4517]: 0-1
+                      - generic [ref=f8e4518]: 0-1
+                      - button "ODDS" [ref=f8e4519] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e4521]
+                - row [ref=f8e4525]:
+                  - cell "Penarol" [ref=f8e4526]
+                  - cell "8:49 0-0 0-0 ODDS" [ref=f8e4530]:
+                    - generic [ref=f8e4531]:
+                      - generic [ref=f8e4532]: 8:49
+                      - generic [ref=f8e4533]: 0-0
+                      - generic [ref=f8e4534]: 0-0
+                      - button "ODDS" [ref=f8e4535] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e4537]
+                - row [ref=f8e4541]:
+                  - cell "La Boca" [ref=f8e4542]
+                  - cell "8:46 4-1 2-0 ODDS" [ref=f8e4546]:
+                    - generic [ref=f8e4547]:
+                      - generic [ref=f8e4548]: 8:46
+                      - generic [ref=f8e4549]: 4-1
+                      - generic [ref=f8e4550]: 2-0
+                      - button "ODDS" [ref=f8e4551] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e4553]
+                - row [ref=f8e4557]:
+                  - cell "Santiago" [ref=f8e4558]
+                  - cell "8:43 0-0 0-0 ODDS" [ref=f8e4562]:
+                    - generic [ref=f8e4563]:
+                      - generic [ref=f8e4564]: 8:43
+                      - generic [ref=f8e4565]: 0-0
+                      - generic [ref=f8e4566]: 0-0
+                      - button "ODDS" [ref=f8e4567] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e4569]
+                - row [ref=f8e4573]:
+                  - cell "Asuncion" [ref=f8e4574]
+                  - cell "8:40 0-0 0-0 ODDS" [ref=f8e4578]:
+                    - generic [ref=f8e4579]:
+                      - generic [ref=f8e4580]: 8:40
+                      - generic [ref=f8e4581]: 0-0
+                      - generic [ref=f8e4582]: 0-0
+                      - button "ODDS" [ref=f8e4583] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e4585]
+                - row [ref=f8e4589]:
+                  - cell "Rio de Janeiro" [ref=f8e4590]
+                  - cell "8:37 1-0 0-0 ODDS" [ref=f8e4594]:
+                    - generic [ref=f8e4595]:
+                      - generic [ref=f8e4596]: 8:37
+                      - generic [ref=f8e4597]: 1-0
+                      - generic [ref=f8e4598]: 0-0
+                      - button "ODDS" [ref=f8e4599] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e4601]
+                - row [ref=f8e4605]:
+                  - cell "La Plata" [ref=f8e4606]
+                  - cell "8:34 0-2 0-2 ODDS" [ref=f8e4610]:
+                    - generic [ref=f8e4611]:
+                      - generic [ref=f8e4612]: 8:34
+                      - generic [ref=f8e4613]: 0-2
+                      - generic [ref=f8e4614]: 0-2
+                      - button "ODDS" [ref=f8e4615] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e4617]
+                - row [ref=f8e4621]:
+                  - cell "Agua Branca" [ref=f8e4622]
+                  - cell "8:31 0-1 0-1 ODDS" [ref=f8e4626]:
+                    - generic [ref=f8e4627]:
+                      - generic [ref=f8e4628]: 8:31
+                      - generic [ref=f8e4629]: 0-1
+                      - generic [ref=f8e4630]: 0-1
+                      - button "ODDS" [ref=f8e4631] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e4633]
+                - row [ref=f8e4637]:
+                  - cell "Avellaneda" [ref=f8e4638]
+                  - cell "8:28 1-1 0-1 ODDS" [ref=f8e4642]:
+                    - generic [ref=f8e4643]:
+                      - generic [ref=f8e4644]: 8:28
+                      - generic [ref=f8e4645]: 1-1
+                      - generic [ref=f8e4646]: 0-1
+                      - button "ODDS" [ref=f8e4647] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e4649]
+                - row [ref=f8e4653]:
+                  - cell "Guayaquil" [ref=f8e4654]
+                  - cell "8:25 3-2 OUT ODDS" [ref=f8e4658]:
+                    - generic [ref=f8e4659]:
+                      - generic [ref=f8e4660]: 8:25
+                      - generic [ref=f8e4661]: 3-2
+                      - generic [ref=f8e4662]: OUT
+                      - button "ODDS" [ref=f8e4663] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e4665]
+                - row [ref=f8e4669]:
+                  - cell "Agua Branca" [ref=f8e4670]
+                  - cell "8:22 0-0 0-0 ODDS" [ref=f8e4674]:
+                    - generic [ref=f8e4675]:
+                      - generic [ref=f8e4676]: 8:22
+                      - generic [ref=f8e4677]: 0-0
+                      - generic [ref=f8e4678]: 0-0
+                      - button "ODDS" [ref=f8e4679] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e4681]
+                - row [ref=f8e4685]:
+                  - cell "Medellin" [ref=f8e4686]
+                  - cell "8:19 1-2 1-1 ODDS" [ref=f8e4690]:
+                    - generic [ref=f8e4691]:
+                      - generic [ref=f8e4692]: 8:19
+                      - generic [ref=f8e4693]: 1-2
+                      - generic [ref=f8e4694]: 1-1
+                      - button "ODDS" [ref=f8e4695] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e4697]
+                - row [ref=f8e4701]:
+                  - cell "Penarol" [ref=f8e4702]
+                  - cell "8:16 2-0 2-0 ODDS" [ref=f8e4706]:
+                    - generic [ref=f8e4707]:
+                      - generic [ref=f8e4708]: 8:16
+                      - generic [ref=f8e4709]: 2-0
+                      - generic [ref=f8e4710]: 2-0
+                      - button "ODDS" [ref=f8e4711] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e4713]
+                - row [ref=f8e4717]:
+                  - cell "Asuncion" [ref=f8e4718]
+                  - cell "8:13 0-1 0-0 ODDS" [ref=f8e4722]:
+                    - generic [ref=f8e4723]:
+                      - generic [ref=f8e4724]: 8:13
+                      - generic [ref=f8e4725]: 0-1
+                      - generic [ref=f8e4726]: 0-0
+                      - button "ODDS" [ref=f8e4727] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e4729]
+                - row [ref=f8e4733]:
+                  - cell "Lima" [ref=f8e4734]
+                  - cell "8:10 2-3 OUT ODDS" [ref=f8e4738]:
+                    - generic [ref=f8e4739]:
+                      - generic [ref=f8e4740]: 8:10
+                      - generic [ref=f8e4741]: 2-3
+                      - generic [ref=f8e4742]: OUT
+                      - button "ODDS" [ref=f8e4743] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e4745]
+                - row [ref=f8e4749]:
+                  - cell "Sao Paulo" [ref=f8e4750]
+                  - cell "8:07 2-1 1-1 ODDS" [ref=f8e4754]:
+                    - generic [ref=f8e4755]:
+                      - generic [ref=f8e4756]: 8:07
+                      - generic [ref=f8e4757]: 2-1
+                      - generic [ref=f8e4758]: 1-1
+                      - button "ODDS" [ref=f8e4759] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e4761]
+                - row [ref=f8e4765]:
+                  - cell "Lima" [ref=f8e4766]
+                  - cell "8:04 1-0 0-0 ODDS" [ref=f8e4770]:
+                    - generic [ref=f8e4771]:
+                      - generic [ref=f8e4772]: 8:04
+                      - generic [ref=f8e4773]: 1-0
+                      - generic [ref=f8e4774]: 0-0
+                      - button "ODDS" [ref=f8e4775] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e4777]
+                - row [ref=f8e4781]:
+                  - cell "Agua Branca" [ref=f8e4782]
+                  - cell "8:01 2-1 OUT ODDS" [ref=f8e4786]:
+                    - generic [ref=f8e4787]:
+                      - generic [ref=f8e4788]: 8:01
+                      - generic [ref=f8e4789]: 2-1
+                      - generic [ref=f8e4790]: OUT
+                      - button "ODDS" [ref=f8e4791] [cursor=pointer]
+                  - cell "Penarol" [ref=f8e4793]
+                - row [ref=f8e4797]:
+                  - cell "Belo Horizonte" [ref=f8e4798]
+                  - cell "7:58 2-0 1-0 ODDS" [ref=f8e4802]:
+                    - generic [ref=f8e4803]:
+                      - generic [ref=f8e4804]: 7:58
+                      - generic [ref=f8e4805]: 2-0
+                      - generic [ref=f8e4806]: 1-0
+                      - button "ODDS" [ref=f8e4807] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e4809]
+                - row [ref=f8e4813]:
+                  - cell "La Boca" [ref=f8e4814]
+                  - cell "7:55 0-0 0-0 ODDS" [ref=f8e4818]:
+                    - generic [ref=f8e4819]:
+                      - generic [ref=f8e4820]: 7:55
+                      - generic [ref=f8e4821]: 0-0
+                      - generic [ref=f8e4822]: 0-0
+                      - button "ODDS" [ref=f8e4823] [cursor=pointer]
+                  - cell "Lima" [ref=f8e4825]
+                - row [ref=f8e4829]:
+                  - cell "Sao Paulo" [ref=f8e4830]
+                  - cell "7:52 1-2 0-1 ODDS" [ref=f8e4834]:
+                    - generic [ref=f8e4835]:
+                      - generic [ref=f8e4836]: 7:52
+                      - generic [ref=f8e4837]: 1-2
+                      - generic [ref=f8e4838]: 0-1
+                      - button "ODDS" [ref=f8e4839] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e4841]
+                - row [ref=f8e4845]:
+                  - cell "Avellaneda" [ref=f8e4846]
+                  - cell "7:49 1-3 OUT ODDS" [ref=f8e4850]:
+                    - generic [ref=f8e4851]:
+                      - generic [ref=f8e4852]: 7:49
+                      - generic [ref=f8e4853]: 1-3
+                      - generic [ref=f8e4854]: OUT
+                      - button "ODDS" [ref=f8e4855] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e4857]
+                - row [ref=f8e4861]:
+                  - cell "Montevideo" [ref=f8e4862]
+                  - cell "7:46 1-0 1-0 ODDS" [ref=f8e4866]:
+                    - generic [ref=f8e4867]:
+                      - generic [ref=f8e4868]: 7:46
+                      - generic [ref=f8e4869]: 1-0
+                      - generic [ref=f8e4870]: 1-0
+                      - button "ODDS" [ref=f8e4871] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e4873]
+                - row [ref=f8e4877]:
+                  - cell "Bogota" [ref=f8e4878]
+                  - cell "7:43 0-0 0-0 ODDS" [ref=f8e4882]:
+                    - generic [ref=f8e4883]:
+                      - generic [ref=f8e4884]: 7:43
+                      - generic [ref=f8e4885]: 0-0
+                      - generic [ref=f8e4886]: 0-0
+                      - button "ODDS" [ref=f8e4887] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e4889]
+                - row [ref=f8e4893]:
+                  - cell "Sao Paulo" [ref=f8e4894]
+                  - cell "7:40 0-0 0-0 ODDS" [ref=f8e4898]:
+                    - generic [ref=f8e4899]:
+                      - generic [ref=f8e4900]: 7:40
+                      - generic [ref=f8e4901]: 0-0
+                      - generic [ref=f8e4902]: 0-0
+                      - button "ODDS" [ref=f8e4903] [cursor=pointer]
+                  - cell "Santos" [ref=f8e4905]
+                - row [ref=f8e4909]:
+                  - cell "Guayaquil" [ref=f8e4910]
+                  - cell "7:37 2-1 0-1 ODDS" [ref=f8e4914]:
+                    - generic [ref=f8e4915]:
+                      - generic [ref=f8e4916]: 7:37
+                      - generic [ref=f8e4917]: 2-1
+                      - generic [ref=f8e4918]: 0-1
+                      - button "ODDS" [ref=f8e4919] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e4921]
+                - row [ref=f8e4925]:
+                  - cell "Bogota" [ref=f8e4926]
+                  - cell "7:34 5+-1 2-0 ODDS" [ref=f8e4930]:
+                    - generic [ref=f8e4931]:
+                      - generic [ref=f8e4932]: 7:34
+                      - generic [ref=f8e4933]: 5+-1
+                      - generic [ref=f8e4934]: 2-0
+                      - button "ODDS" [ref=f8e4935] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e4937]
+                - row [ref=f8e4941]:
+                  - cell "Buenos Aires" [ref=f8e4942]
+                  - cell "7:31 1-1 0-0 ODDS" [ref=f8e4946]:
+                    - generic [ref=f8e4947]:
+                      - generic [ref=f8e4948]: 7:31
+                      - generic [ref=f8e4949]: 1-1
+                      - generic [ref=f8e4950]: 0-0
+                      - button "ODDS" [ref=f8e4951] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e4953]
+                - row [ref=f8e4957]:
+                  - cell "Lima" [ref=f8e4958]
+                  - cell "7:28 4-2 OUT ODDS" [ref=f8e4962]:
+                    - generic [ref=f8e4963]:
+                      - generic [ref=f8e4964]: 7:28
+                      - generic [ref=f8e4965]: 4-2
+                      - generic [ref=f8e4966]: OUT
+                      - button "ODDS" [ref=f8e4967] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e4969]
+                - row [ref=f8e4973]:
+                  - cell "Itaquera" [ref=f8e4974]
+                  - cell "7:25 1-0 1-0 ODDS" [ref=f8e4978]:
+                    - generic [ref=f8e4979]:
+                      - generic [ref=f8e4980]: 7:25
+                      - generic [ref=f8e4981]: 1-0
+                      - generic [ref=f8e4982]: 1-0
+                      - button "ODDS" [ref=f8e4983] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e4985]
+                - row [ref=f8e4989]:
+                  - cell "Penarol" [ref=f8e4990]
+                  - cell "7:22 0-2 0-2 ODDS" [ref=f8e4994]:
+                    - generic [ref=f8e4995]:
+                      - generic [ref=f8e4996]: 7:22
+                      - generic [ref=f8e4997]: 0-2
+                      - generic [ref=f8e4998]: 0-2
+                      - button "ODDS" [ref=f8e4999] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e5001]
+                - row [ref=f8e5005]:
+                  - cell "Lima" [ref=f8e5006]
+                  - cell "7:19 2-4 1-1 ODDS" [ref=f8e5010]:
+                    - generic [ref=f8e5011]:
+                      - generic [ref=f8e5012]: 7:19
+                      - generic [ref=f8e5013]: 2-4
+                      - generic [ref=f8e5014]: 1-1
+                      - button "ODDS" [ref=f8e5015] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e5017]
+                - row [ref=f8e5021]:
+                  - cell "Rio de Janeiro" [ref=f8e5022]
+                  - cell "7:16 2-0 0-0 ODDS" [ref=f8e5026]:
+                    - generic [ref=f8e5027]:
+                      - generic [ref=f8e5028]: 7:16
+                      - generic [ref=f8e5029]: 2-0
+                      - generic [ref=f8e5030]: 0-0
+                      - button "ODDS" [ref=f8e5031] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e5033]
+                - row [ref=f8e5037]:
+                  - cell "Montevideo" [ref=f8e5038]
+                  - cell "7:13 0-3 0-2 ODDS" [ref=f8e5042]:
+                    - generic [ref=f8e5043]:
+                      - generic [ref=f8e5044]: 7:13
+                      - generic [ref=f8e5045]: 0-3
+                      - generic [ref=f8e5046]: 0-2
+                      - button "ODDS" [ref=f8e5047] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e5049]
+                - row [ref=f8e5053]:
+                  - cell "Porto Alegre" [ref=f8e5054]
+                  - cell "7:10 2-2 0-0 ODDS" [ref=f8e5058]:
+                    - generic [ref=f8e5059]:
+                      - generic [ref=f8e5060]: 7:10
+                      - generic [ref=f8e5061]: 2-2
+                      - generic [ref=f8e5062]: 0-0
+                      - button "ODDS" [ref=f8e5063] [cursor=pointer]
+                  - cell "Quito" [ref=f8e5065]
+                - row [ref=f8e5069]:
+                  - cell "Sao Paulo" [ref=f8e5070]
+                  - cell "7:07 0-0 0-0 ODDS" [ref=f8e5074]:
+                    - generic [ref=f8e5075]:
+                      - generic [ref=f8e5076]: 7:07
+                      - generic [ref=f8e5077]: 0-0
+                      - generic [ref=f8e5078]: 0-0
+                      - button "ODDS" [ref=f8e5079] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e5081]
+                - row [ref=f8e5085]:
+                  - cell "Rio de Janeiro" [ref=f8e5086]
+                  - cell "7:04 1-0 0-0 ODDS" [ref=f8e5090]:
+                    - generic [ref=f8e5091]:
+                      - generic [ref=f8e5092]: 7:04
+                      - generic [ref=f8e5093]: 1-0
+                      - generic [ref=f8e5094]: 0-0
+                      - button "ODDS" [ref=f8e5095] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e5097]
+                - row [ref=f8e5101]:
+                  - cell "Quito" [ref=f8e5102]
+                  - cell "7:01 0-2 0-2 ODDS" [ref=f8e5106]:
+                    - generic [ref=f8e5107]:
+                      - generic [ref=f8e5108]: 7:01
+                      - generic [ref=f8e5109]: 0-2
+                      - generic [ref=f8e5110]: 0-2
+                      - button "ODDS" [ref=f8e5111] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e5113]
+                - row [ref=f8e5117]:
+                  - cell "Guayaquil" [ref=f8e5118]
+                  - cell "6:58 4-2 1-1 ODDS" [ref=f8e5122]:
+                    - generic [ref=f8e5123]:
+                      - generic [ref=f8e5124]: 6:58
+                      - generic [ref=f8e5125]: 4-2
+                      - generic [ref=f8e5126]: 1-1
+                      - button "ODDS" [ref=f8e5127] [cursor=pointer]
+                  - cell "Lima" [ref=f8e5129]
+                - row [ref=f8e5133]:
+                  - cell "Quito" [ref=f8e5134]
+                  - cell "6:55 0-0 0-0 ODDS" [ref=f8e5138]:
+                    - generic [ref=f8e5139]:
+                      - generic [ref=f8e5140]: 6:55
+                      - generic [ref=f8e5141]: 0-0
+                      - generic [ref=f8e5142]: 0-0
+                      - button "ODDS" [ref=f8e5143] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e5145]
+                - row [ref=f8e5149]:
+                  - cell "Asuncion" [ref=f8e5150]
+                  - cell "6:52 0-0 0-0 ODDS" [ref=f8e5154]:
+                    - generic [ref=f8e5155]:
+                      - generic [ref=f8e5156]: 6:52
+                      - generic [ref=f8e5157]: 0-0
+                      - generic [ref=f8e5158]: 0-0
+                      - button "ODDS" [ref=f8e5159] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5161]
+                - row [ref=f8e5165]:
+                  - cell "Lima" [ref=f8e5166]
+                  - cell "6:49 0-2 0-1 ODDS" [ref=f8e5170]:
+                    - generic [ref=f8e5171]:
+                      - generic [ref=f8e5172]: 6:49
+                      - generic [ref=f8e5173]: 0-2
+                      - generic [ref=f8e5174]: 0-1
+                      - button "ODDS" [ref=f8e5175] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e5177]
+                - row [ref=f8e5181]:
+                  - cell "Medellin" [ref=f8e5182]
+                  - cell "6:46 2-3 OUT ODDS" [ref=f8e5186]:
+                    - generic [ref=f8e5187]:
+                      - generic [ref=f8e5188]: 6:46
+                      - generic [ref=f8e5189]: 2-3
+                      - generic [ref=f8e5190]: OUT
+                      - button "ODDS" [ref=f8e5191] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e5193]
+                - row [ref=f8e5197]:
+                  - cell "Guayaquil" [ref=f8e5198]
+                  - cell "6:43 1-1 1-0 ODDS" [ref=f8e5202]:
+                    - generic [ref=f8e5203]:
+                      - generic [ref=f8e5204]: 6:43
+                      - generic [ref=f8e5205]: 1-1
+                      - generic [ref=f8e5206]: 1-0
+                      - button "ODDS" [ref=f8e5207] [cursor=pointer]
+                  - cell "Quito" [ref=f8e5209]
+                - row [ref=f8e5213]:
+                  - cell "Belo Horizonte" [ref=f8e5214]
+                  - cell "6:40 2-1 OUT ODDS" [ref=f8e5218]:
+                    - generic [ref=f8e5219]:
+                      - generic [ref=f8e5220]: 6:40
+                      - generic [ref=f8e5221]: 2-1
+                      - generic [ref=f8e5222]: OUT
+                      - button "ODDS" [ref=f8e5223] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e5225]
+                - row [ref=f8e5229]:
+                  - cell "Sao Paulo" [ref=f8e5230]
+                  - cell "6:37 2-3 OUT ODDS" [ref=f8e5234]:
+                    - generic [ref=f8e5235]:
+                      - generic [ref=f8e5236]: 6:37
+                      - generic [ref=f8e5237]: 2-3
+                      - generic [ref=f8e5238]: OUT
+                      - button "ODDS" [ref=f8e5239] [cursor=pointer]
+                  - cell "Lima" [ref=f8e5241]
+                - row [ref=f8e5245]:
+                  - cell "Medellin" [ref=f8e5246]
+                  - cell "6:34 3-0 1-0 ODDS" [ref=f8e5250]:
+                    - generic [ref=f8e5251]:
+                      - generic [ref=f8e5252]: 6:34
+                      - generic [ref=f8e5253]: 3-0
+                      - generic [ref=f8e5254]: 1-0
+                      - button "ODDS" [ref=f8e5255] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e5257]
+                - row [ref=f8e5261]:
+                  - cell "Itaquera" [ref=f8e5262]
+                  - cell "6:31 1-2 1-0 ODDS" [ref=f8e5266]:
+                    - generic [ref=f8e5267]:
+                      - generic [ref=f8e5268]: 6:31
+                      - generic [ref=f8e5269]: 1-2
+                      - generic [ref=f8e5270]: 1-0
+                      - button "ODDS" [ref=f8e5271] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e5273]
+                - row [ref=f8e5277]:
+                  - cell "Quito" [ref=f8e5278]
+                  - cell "6:28 1-1 0-1 ODDS" [ref=f8e5282]:
+                    - generic [ref=f8e5283]:
+                      - generic [ref=f8e5284]: 6:28
+                      - generic [ref=f8e5285]: 1-1
+                      - generic [ref=f8e5286]: 0-1
+                      - button "ODDS" [ref=f8e5287] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5289]
+                - row [ref=f8e5293]:
+                  - cell "Penarol" [ref=f8e5294]
+                  - cell "6:25 1-1 0-1 ODDS" [ref=f8e5298]:
+                    - generic [ref=f8e5299]:
+                      - generic [ref=f8e5300]: 6:25
+                      - generic [ref=f8e5301]: 1-1
+                      - generic [ref=f8e5302]: 0-1
+                      - button "ODDS" [ref=f8e5303] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e5305]
+                - row [ref=f8e5309]:
+                  - cell "Santos" [ref=f8e5310]
+                  - cell "6:22 2-0 1-0 ODDS" [ref=f8e5314]:
+                    - generic [ref=f8e5315]:
+                      - generic [ref=f8e5316]: 6:22
+                      - generic [ref=f8e5317]: 2-0
+                      - generic [ref=f8e5318]: 1-0
+                      - button "ODDS" [ref=f8e5319] [cursor=pointer]
+                  - cell "Lima" [ref=f8e5321]
+                - row [ref=f8e5325]:
+                  - cell "Guayaquil" [ref=f8e5326]
+                  - cell "6:19 1-2 1-1 ODDS" [ref=f8e5330]:
+                    - generic [ref=f8e5331]:
+                      - generic [ref=f8e5332]: 6:19
+                      - generic [ref=f8e5333]: 1-2
+                      - generic [ref=f8e5334]: 1-1
+                      - button "ODDS" [ref=f8e5335] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5337]
+                - row [ref=f8e5341]:
+                  - cell "Medellin" [ref=f8e5342]
+                  - cell "6:16 3-1 2-0 ODDS" [ref=f8e5346]:
+                    - generic [ref=f8e5347]:
+                      - generic [ref=f8e5348]: 6:16
+                      - generic [ref=f8e5349]: 3-1
+                      - generic [ref=f8e5350]: 2-0
+                      - button "ODDS" [ref=f8e5351] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e5353]
+                - row [ref=f8e5357]:
+                  - cell "Penarol" [ref=f8e5358]
+                  - cell "6:13 0-2 0-1 ODDS" [ref=f8e5362]:
+                    - generic [ref=f8e5363]:
+                      - generic [ref=f8e5364]: 6:13
+                      - generic [ref=f8e5365]: 0-2
+                      - generic [ref=f8e5366]: 0-1
+                      - button "ODDS" [ref=f8e5367] [cursor=pointer]
+                  - cell "Belo Horizonte" [ref=f8e5369]
+                - row [ref=f8e5373]:
+                  - cell "Bogota" [ref=f8e5374]
+                  - cell "6:10 0-1 0-1 ODDS" [ref=f8e5378]:
+                    - generic [ref=f8e5379]:
+                      - generic [ref=f8e5380]: 6:10
+                      - generic [ref=f8e5381]: 0-1
+                      - generic [ref=f8e5382]: 0-1
+                      - button "ODDS" [ref=f8e5383] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e5385]
+                - row [ref=f8e5389]:
+                  - cell "Belo Horizonte" [ref=f8e5390]
+                  - cell "6:07 2-1 OUT ODDS" [ref=f8e5394]:
+                    - generic [ref=f8e5395]:
+                      - generic [ref=f8e5396]: 6:07
+                      - generic [ref=f8e5397]: 2-1
+                      - generic [ref=f8e5398]: OUT
+                      - button "ODDS" [ref=f8e5399] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e5401]
+                - row [ref=f8e5405]:
+                  - cell "Lima" [ref=f8e5406]
+                  - cell "6:04 2-0 1-0 ODDS" [ref=f8e5410]:
+                    - generic [ref=f8e5411]:
+                      - generic [ref=f8e5412]: 6:04
+                      - generic [ref=f8e5413]: 2-0
+                      - generic [ref=f8e5414]: 1-0
+                      - button "ODDS" [ref=f8e5415] [cursor=pointer]
+                  - cell "Itaquera" [ref=f8e5417]
+                - row [ref=f8e5421]:
+                  - cell "Buenos Aires" [ref=f8e5422]
+                  - cell "6:01 1-1 0-1 ODDS" [ref=f8e5426]:
+                    - generic [ref=f8e5427]:
+                      - generic [ref=f8e5428]: 6:01
+                      - generic [ref=f8e5429]: 1-1
+                      - generic [ref=f8e5430]: 0-1
+                      - button "ODDS" [ref=f8e5431] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e5433]
+                - row [ref=f8e5437]:
+                  - cell "Avellaneda" [ref=f8e5438]
+                  - cell "5:58 2-2 OUT ODDS" [ref=f8e5442]:
+                    - generic [ref=f8e5443]:
+                      - generic [ref=f8e5444]: 5:58
+                      - generic [ref=f8e5445]: 2-2
+                      - generic [ref=f8e5446]: OUT
+                      - button "ODDS" [ref=f8e5447] [cursor=pointer]
+                  - cell "Lima" [ref=f8e5449]
+                - row [ref=f8e5453]:
+                  - cell "Guayaquil" [ref=f8e5454]
+                  - cell "5:55 2-0 0-0 ODDS" [ref=f8e5458]:
+                    - generic [ref=f8e5459]:
+                      - generic [ref=f8e5460]: 5:55
+                      - generic [ref=f8e5461]: 2-0
+                      - generic [ref=f8e5462]: 0-0
+                      - button "ODDS" [ref=f8e5463] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e5465]
+                - row [ref=f8e5469]:
+                  - cell "Bogota" [ref=f8e5470]
+                  - cell "5:52 1-1 1-0 ODDS" [ref=f8e5474]:
+                    - generic [ref=f8e5475]:
+                      - generic [ref=f8e5476]: 5:52
+                      - generic [ref=f8e5477]: 1-1
+                      - generic [ref=f8e5478]: 1-0
+                      - button "ODDS" [ref=f8e5479] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e5481]
+                - row [ref=f8e5485]:
+                  - cell "Agua Branca" [ref=f8e5486]
+                  - cell "5:49 2-0 1-0 ODDS" [ref=f8e5490]:
+                    - generic [ref=f8e5491]:
+                      - generic [ref=f8e5492]: 5:49
+                      - generic [ref=f8e5493]: 2-0
+                      - generic [ref=f8e5494]: 1-0
+                      - button "ODDS" [ref=f8e5495] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e5497]
+                - row [ref=f8e5501]:
+                  - cell "Guayaquil" [ref=f8e5502]
+                  - cell "5:46 1-1 1-0 ODDS" [ref=f8e5506]:
+                    - generic [ref=f8e5507]:
+                      - generic [ref=f8e5508]: 5:46
+                      - generic [ref=f8e5509]: 1-1
+                      - generic [ref=f8e5510]: 1-0
+                      - button "ODDS" [ref=f8e5511] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e5513]
+                - row [ref=f8e5517]:
+                  - cell "Santiago" [ref=f8e5518]
+                  - cell "5:43 2-0 2-0 ODDS" [ref=f8e5522]:
+                    - generic [ref=f8e5523]:
+                      - generic [ref=f8e5524]: 5:43
+                      - generic [ref=f8e5525]: 2-0
+                      - generic [ref=f8e5526]: 2-0
+                      - button "ODDS" [ref=f8e5527] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5529]
+                - row [ref=f8e5533]:
+                  - cell "La Plata" [ref=f8e5534]
+                  - cell "5:40 1-0 1-0 ODDS" [ref=f8e5538]:
+                    - generic [ref=f8e5539]:
+                      - generic [ref=f8e5540]: 5:40
+                      - generic [ref=f8e5541]: 1-0
+                      - generic [ref=f8e5542]: 1-0
+                      - button "ODDS" [ref=f8e5543] [cursor=pointer]
+                  - cell "Montevideo" [ref=f8e5545]
+                - row [ref=f8e5549]:
+                  - cell "Agua Branca" [ref=f8e5550]
+                  - cell "5:37 3-0 1-0 ODDS" [ref=f8e5554]:
+                    - generic [ref=f8e5555]:
+                      - generic [ref=f8e5556]: 5:37
+                      - generic [ref=f8e5557]: 3-0
+                      - generic [ref=f8e5558]: 1-0
+                      - button "ODDS" [ref=f8e5559] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e5561]
+                - row [ref=f8e5565]:
+                  - cell "Montevideo" [ref=f8e5566]
+                  - cell "5:34 0-1 0-1 ODDS" [ref=f8e5570]:
+                    - generic [ref=f8e5571]:
+                      - generic [ref=f8e5572]: 5:34
+                      - generic [ref=f8e5573]: 0-1
+                      - generic [ref=f8e5574]: 0-1
+                      - button "ODDS" [ref=f8e5575] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e5577]
+                - row [ref=f8e5581]:
+                  - cell "La Boca" [ref=f8e5582]
+                  - cell "5:31 0-1 0-0 ODDS" [ref=f8e5586]:
+                    - generic [ref=f8e5587]:
+                      - generic [ref=f8e5588]: 5:31
+                      - generic [ref=f8e5589]: 0-1
+                      - generic [ref=f8e5590]: 0-0
+                      - button "ODDS" [ref=f8e5591] [cursor=pointer]
+                  - cell "Santos" [ref=f8e5593]
+                - row [ref=f8e5597]:
+                  - cell "Montevideo" [ref=f8e5598]
+                  - cell "5:28 0-0 0-0 ODDS" [ref=f8e5602]:
+                    - generic [ref=f8e5603]:
+                      - generic [ref=f8e5604]: 5:28
+                      - generic [ref=f8e5605]: 0-0
+                      - generic [ref=f8e5606]: 0-0
+                      - button "ODDS" [ref=f8e5607] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e5609]
+                - row [ref=f8e5613]:
+                  - cell "Lima" [ref=f8e5614]
+                  - cell "5:25 0-4 0-1 ODDS" [ref=f8e5618]:
+                    - generic [ref=f8e5619]:
+                      - generic [ref=f8e5620]: 5:25
+                      - generic [ref=f8e5621]: 0-4
+                      - generic [ref=f8e5622]: 0-1
+                      - button "ODDS" [ref=f8e5623] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e5625]
+                - row [ref=f8e5629]:
+                  - cell "La Boca" [ref=f8e5630]
+                  - cell "5:22 3-0 2-0 ODDS" [ref=f8e5634]:
+                    - generic [ref=f8e5635]:
+                      - generic [ref=f8e5636]: 5:22
+                      - generic [ref=f8e5637]: 3-0
+                      - generic [ref=f8e5638]: 2-0
+                      - button "ODDS" [ref=f8e5639] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5641]
+                - row [ref=f8e5645]:
+                  - cell "Penarol" [ref=f8e5646]
+                  - cell "5:19 1-0 0-0 ODDS" [ref=f8e5650]:
+                    - generic [ref=f8e5651]:
+                      - generic [ref=f8e5652]: 5:19
+                      - generic [ref=f8e5653]: 1-0
+                      - generic [ref=f8e5654]: 0-0
+                      - button "ODDS" [ref=f8e5655] [cursor=pointer]
+                  - cell "Santos" [ref=f8e5657]
+                - row [ref=f8e5661]:
+                  - cell "Guayaquil" [ref=f8e5662]
+                  - cell "5:16 3-2 OUT ODDS" [ref=f8e5666]:
+                    - generic [ref=f8e5667]:
+                      - generic [ref=f8e5668]: 5:16
+                      - generic [ref=f8e5669]: 3-2
+                      - generic [ref=f8e5670]: OUT
+                      - button "ODDS" [ref=f8e5671] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e5673]
+                - row [ref=f8e5677]:
+                  - cell "Medellin" [ref=f8e5678]
+                  - cell "5:13 2-1 1-1 ODDS" [ref=f8e5682]:
+                    - generic [ref=f8e5683]:
+                      - generic [ref=f8e5684]: 5:13
+                      - generic [ref=f8e5685]: 2-1
+                      - generic [ref=f8e5686]: 1-1
+                      - button "ODDS" [ref=f8e5687] [cursor=pointer]
+                  - cell "Agua Branca" [ref=f8e5689]
+                - row [ref=f8e5693]:
+                  - cell "La Boca" [ref=f8e5694]
+                  - cell "5:10 2-2 0-0 ODDS" [ref=f8e5698]:
+                    - generic [ref=f8e5699]:
+                      - generic [ref=f8e5700]: 5:10
+                      - generic [ref=f8e5701]: 2-2
+                      - generic [ref=f8e5702]: 0-0
+                      - button "ODDS" [ref=f8e5703] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e5705]
+                - row [ref=f8e5709]:
+                  - cell "Buenos Aires" [ref=f8e5710]
+                  - cell "5:07 3-5+ OUT ODDS" [ref=f8e5714]:
+                    - generic [ref=f8e5715]:
+                      - generic [ref=f8e5716]: 5:07
+                      - generic [ref=f8e5717]: 3-5+
+                      - generic [ref=f8e5718]: OUT
+                      - button "ODDS" [ref=f8e5719] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e5721]
+                - row [ref=f8e5725]:
+                  - cell "Porto Alegre" [ref=f8e5726]
+                  - cell "5:04 0-1 0-1 ODDS" [ref=f8e5730]:
+                    - generic [ref=f8e5731]:
+                      - generic [ref=f8e5732]: 5:04
+                      - generic [ref=f8e5733]: 0-1
+                      - generic [ref=f8e5734]: 0-1
+                      - button "ODDS" [ref=f8e5735] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e5737]
+                - row [ref=f8e5741]:
+                  - cell "Montevideo" [ref=f8e5742]
+                  - cell "5:01 1-0 0-0 ODDS" [ref=f8e5746]:
+                    - generic [ref=f8e5747]:
+                      - generic [ref=f8e5748]: 5:01
+                      - generic [ref=f8e5749]: 1-0
+                      - generic [ref=f8e5750]: 0-0
+                      - button "ODDS" [ref=f8e5751] [cursor=pointer]
+                  - cell "Santiago" [ref=f8e5753]
+                - row [ref=f8e5757]:
+                  - cell "La Plata" [ref=f8e5758]
+                  - cell "4:58 2-1 1-1 ODDS" [ref=f8e5762]:
+                    - generic [ref=f8e5763]:
+                      - generic [ref=f8e5764]: 4:58
+                      - generic [ref=f8e5765]: 2-1
+                      - generic [ref=f8e5766]: 1-1
+                      - button "ODDS" [ref=f8e5767] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5769]
+                - row [ref=f8e5773]:
+                  - cell "Penarol" [ref=f8e5774]
+                  - cell "4:55 1-0 1-0 ODDS" [ref=f8e5778]:
+                    - generic [ref=f8e5779]:
+                      - generic [ref=f8e5780]: 4:55
+                      - generic [ref=f8e5781]: 1-0
+                      - generic [ref=f8e5782]: 1-0
+                      - button "ODDS" [ref=f8e5783] [cursor=pointer]
+                  - cell "Rio de Janeiro" [ref=f8e5785]
+                - row [ref=f8e5789]:
+                  - cell "Bogota" [ref=f8e5790]
+                  - cell "4:52 1-0 1-0 ODDS" [ref=f8e5794]:
+                    - generic [ref=f8e5795]:
+                      - generic [ref=f8e5796]: 4:52
+                      - generic [ref=f8e5797]: 1-0
+                      - generic [ref=f8e5798]: 1-0
+                      - button "ODDS" [ref=f8e5799] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e5801]
+                - row [ref=f8e5805]:
+                  - cell "Santos" [ref=f8e5806]
+                  - cell "4:49 1-0 0-0 ODDS" [ref=f8e5810]:
+                    - generic [ref=f8e5811]:
+                      - generic [ref=f8e5812]: 4:49
+                      - generic [ref=f8e5813]: 1-0
+                      - generic [ref=f8e5814]: 0-0
+                      - button "ODDS" [ref=f8e5815] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e5817]
+                - row [ref=f8e5821]:
+                  - cell "La Boca" [ref=f8e5822]
+                  - cell "4:46 0-0 0-0 ODDS" [ref=f8e5826]:
+                    - generic [ref=f8e5827]:
+                      - generic [ref=f8e5828]: 4:46
+                      - generic [ref=f8e5829]: 0-0
+                      - generic [ref=f8e5830]: 0-0
+                      - button "ODDS" [ref=f8e5831] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e5833]
+                - row [ref=f8e5837]:
+                  - cell "Montevideo" [ref=f8e5838]
+                  - cell "4:43 3-1 0-0 ODDS" [ref=f8e5842]:
+                    - generic [ref=f8e5843]:
+                      - generic [ref=f8e5844]: 4:43
+                      - generic [ref=f8e5845]: 3-1
+                      - generic [ref=f8e5846]: 0-0
+                      - button "ODDS" [ref=f8e5847] [cursor=pointer]
+                  - cell "Quito" [ref=f8e5849]
+                - row [ref=f8e5853]:
+                  - cell "Santiago" [ref=f8e5854]
+                  - cell "4:40 1-2 0-1 ODDS" [ref=f8e5858]:
+                    - generic [ref=f8e5859]:
+                      - generic [ref=f8e5860]: 4:40
+                      - generic [ref=f8e5861]: 1-2
+                      - generic [ref=f8e5862]: 0-1
+                      - button "ODDS" [ref=f8e5863] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e5865]
+                - row [ref=f8e5869]:
+                  - cell "Avellaneda" [ref=f8e5870]
+                  - cell "4:37 2-0 2-0 ODDS" [ref=f8e5874]:
+                    - generic [ref=f8e5875]:
+                      - generic [ref=f8e5876]: 4:37
+                      - generic [ref=f8e5877]: 2-0
+                      - generic [ref=f8e5878]: 2-0
+                      - button "ODDS" [ref=f8e5879] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e5881]
+                - row [ref=f8e5885]:
+                  - cell "Montevideo" [ref=f8e5886]
+                  - cell "4:34 3-0 1-0 ODDS" [ref=f8e5890]:
+                    - generic [ref=f8e5891]:
+                      - generic [ref=f8e5892]: 4:34
+                      - generic [ref=f8e5893]: 3-0
+                      - generic [ref=f8e5894]: 1-0
+                      - button "ODDS" [ref=f8e5895] [cursor=pointer]
+                  - cell "La Plata" [ref=f8e5897]
+                - row [ref=f8e5901]:
+                  - cell "Porto Alegre" [ref=f8e5902]
+                  - cell "4:31 2-2 1-1 ODDS" [ref=f8e5906]:
+                    - generic [ref=f8e5907]:
+                      - generic [ref=f8e5908]: 4:31
+                      - generic [ref=f8e5909]: 2-2
+                      - generic [ref=f8e5910]: 1-1
+                      - button "ODDS" [ref=f8e5911] [cursor=pointer]
+                  - cell "Bogota" [ref=f8e5913]
+                - row [ref=f8e5917]:
+                  - cell "Belo Horizonte" [ref=f8e5918]
+                  - cell "4:28 4-1 2-0 ODDS" [ref=f8e5922]:
+                    - generic [ref=f8e5923]:
+                      - generic [ref=f8e5924]: 4:28
+                      - generic [ref=f8e5925]: 4-1
+                      - generic [ref=f8e5926]: 2-0
+                      - button "ODDS" [ref=f8e5927] [cursor=pointer]
+                  - cell "Buenos Aires" [ref=f8e5929]
+                - row [ref=f8e5933]:
+                  - cell "La Plata" [ref=f8e5934]
+                  - cell "4:25 2-2 0-2 ODDS" [ref=f8e5938]:
+                    - generic [ref=f8e5939]:
+                      - generic [ref=f8e5940]: 4:25
+                      - generic [ref=f8e5941]: 2-2
+                      - generic [ref=f8e5942]: 0-2
+                      - button "ODDS" [ref=f8e5943] [cursor=pointer]
+                  - cell "Santos" [ref=f8e5945]
+                - row [ref=f8e5949]:
+                  - cell "Agua Branca" [ref=f8e5950]
+                  - cell "4:22 1-1 0-0 ODDS" [ref=f8e5954]:
+                    - generic [ref=f8e5955]:
+                      - generic [ref=f8e5956]: 4:22
+                      - generic [ref=f8e5957]: 1-1
+                      - generic [ref=f8e5958]: 0-0
+                      - button "ODDS" [ref=f8e5959] [cursor=pointer]
+                  - cell "Avellaneda" [ref=f8e5961]
+                - row [ref=f8e5965]:
+                  - cell "Quito" [ref=f8e5966]
+                  - cell "4:19 2-1 1-0 ODDS" [ref=f8e5970]:
+                    - generic [ref=f8e5971]:
+                      - generic [ref=f8e5972]: 4:19
+                      - generic [ref=f8e5973]: 2-1
+                      - generic [ref=f8e5974]: 1-0
+                      - button "ODDS" [ref=f8e5975] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e5977]
+                - row [ref=f8e5981]:
+                  - cell "Santos" [ref=f8e5982]
+                  - cell "4:16 3-0 2-0 ODDS" [ref=f8e5986]:
+                    - generic [ref=f8e5987]:
+                      - generic [ref=f8e5988]: 4:16
+                      - generic [ref=f8e5989]: 3-0
+                      - generic [ref=f8e5990]: 2-0
+                      - button "ODDS" [ref=f8e5991] [cursor=pointer]
+                  - cell "Sao Paulo" [ref=f8e5993]
+                - row [ref=f8e5997]:
+                  - cell "Santiago" [ref=f8e5998]
+                  - cell "4:13 2-5+ OUT ODDS" [ref=f8e6002]:
+                    - generic [ref=f8e6003]:
+                      - generic [ref=f8e6004]: 4:13
+                      - generic [ref=f8e6005]: 2-5+
+                      - generic [ref=f8e6006]: OUT
+                      - button "ODDS" [ref=f8e6007] [cursor=pointer]
+                  - cell "Asuncion" [ref=f8e6009]
+                - row [ref=f8e6013]:
+                  - cell "Rio de Janeiro" [ref=f8e6014]
+                  - cell "4:10 1-0 1-0 ODDS" [ref=f8e6018]:
+                    - generic [ref=f8e6019]:
+                      - generic [ref=f8e6020]: 4:10
+                      - generic [ref=f8e6021]: 1-0
+                      - generic [ref=f8e6022]: 1-0
+                      - button "ODDS" [ref=f8e6023] [cursor=pointer]
+                  - cell "La Boca" [ref=f8e6025]
+                - row [ref=f8e6029]:
+                  - cell "La Plata" [ref=f8e6030]
+                  - cell "4:07 0-0 0-0 ODDS" [ref=f8e6034]:
+                    - generic [ref=f8e6035]:
+                      - generic [ref=f8e6036]: 4:07
+                      - generic [ref=f8e6037]: 0-0
+                      - generic [ref=f8e6038]: 0-0
+                      - button "ODDS" [ref=f8e6039] [cursor=pointer]
+                  - cell "Porto Alegre" [ref=f8e6041]
+                - row [ref=f8e6045]:
+                  - cell "Agua Branca" [ref=f8e6046]
+                  - cell "4:04 2-0 1-0 ODDS" [ref=f8e6050]:
+                    - generic [ref=f8e6051]:
+                      - generic [ref=f8e6052]: 4:04
+                      - generic [ref=f8e6053]: 2-0
+                      - generic [ref=f8e6054]: 1-0
+                      - button "ODDS" [ref=f8e6055] [cursor=pointer]
+                  - cell "Guayaquil" [ref=f8e6057]
+                - row [ref=f8e6061]:
+                  - cell "Bogota" [ref=f8e6062]
+                  - cell "4:01 1-1 1-1 ODDS" [ref=f8e6066]:
+                    - generic [ref=f8e6067]:
+                      - generic [ref=f8e6068]: 4:01
+                      - generic [ref=f8e6069]: 1-1
+                      - generic [ref=f8e6070]: 1-1
+                      - button "ODDS" [ref=f8e6071] [cursor=pointer]
+                  - cell "Medellin" [ref=f8e6073]
+          - generic:  
+  - generic [ref=f8e55]: © 2025 BBTIPS - Todos os direitos reservados.
